@@ -1,5 +1,5 @@
 # Manifont Grotesk
-A curveless grotesk font based on Vremema Grotesk by [abstrkt](http://abstrkt.ru/), originally designed for [Manifart](http://manifart.org) graphic system.
+A curveless grotesk font based on Vremena Grotesk by [abstrkt](http://abstrkt.ru/), originally designed for [Manifart](http://manifart.org) graphic system.
 
 # Specimen
 ![specimen](https://raw.githubusercontent.com/Interstices-/Manifont-Grotesk/master/specimen/Specimen-272-pt5.jpg)
