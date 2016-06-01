@@ -23,7 +23,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911142
-ModificationTime: 1464797601
+ModificationTime: 1464800106
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -275,7 +275,30 @@ SplineSet
  253 215 246 148 202 125 c 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+5.03515625 125.00390625 m 5
+ 24.125 125.00390625 l 5
+ 94.4091796875 176.283203125 l 5
+ 112.98828125 319.8984375 l 5
+ 112.98828125 519.796875 l 5
+ 528.959960938 519.796875 l 5
+ 528.959960938 125.00390625 l 5
+ 597.900390625 125.00390625 l 5
+ 597.900390625 -127 l 5
+ 452.934570312 -127 l 5
+ 452.934570312 -0.04296875 l 5
+ 150 -0.04296875 l 5
+ 150 -127 l 5
+ 5.03515625 -127 l 5
+ 5.03515625 125.00390625 l 5
+379.077148438 124.836914062 m 5
+ 379.077148438 394.758789062 l 5
+ 253.034179688 394.758789062 l 5
+ 253.034179688 279.80078125 l 5
+ 244.041992188 186.497070312 l 5
+ 202.100585938 124.836914062 l 5
+ 379.077148438 124.836914062 l 5
+EndSplineSet
 Kerns2: 139 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 26 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -378,7 +401,57 @@ SplineSet
  471 200 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+482.96875 199.731445312 m 1
+ 470.881835938 199.731445312 l 1
+ 470.881835938 0 l 1
+ 321 0 l 1
+ 321 199.731445312 l 1
+ 308.913085938 199.731445312 l 1
+ 274.838867188 187.741210938 l 1
+ 248.892578125 148.801757812 l 1
+ 184.87109375 0 l 1
+ 19.8994140625 0 l 1
+ 105.844726562 172.890625 l 1
+ 150.818359375 235.009765625 l 1
+ 198.79296875 264.926757812 l 1
+ 198.79296875 268.9296875 l 1
+ 154.163085938 296.370117188 l 1
+ 106.94921875 377.091796875 l 1
+ 72.9169921875 386.805664062 l 1
+ 53.8271484375 386.805664062 l 1
+ 43.8232421875 519.848632812 l 1
+ 72.916015625 519.848632812 l 1
+ 156.673828125 508.458984375 l 1
+ 214.796875 452.743164062 l 1
+ 255.810546875 358.797851562 l 1
+ 280.788085938 330.198242188 l 1
+ 308.828125 324.778320312 l 2
+ 320.915039062 324.778320312 l 1
+ 320.915039062 519.83984375 l 1
+ 470.881835938 519.83984375 l 1
+ 470.881835938 324.778320312 l 1
+ 483.052734375 324.778320312 l 2
+ 510.936523438 330.198242188 l 1
+ 536.0703125 358.797851562 l 1
+ 577.000976562 452.743164062 l 1
+ 635.217773438 508.458984375 l 1
+ 718.881835938 519.848632812 l 1
+ 747.974609375 519.848632812 l 1
+ 738.053710938 386.805664062 l 1
+ 718.963867188 386.805664062 l 1
+ 684.911132812 377.091796875 l 1
+ 637.770507812 296.370117188 l 1
+ 593.171875 268.9296875 l 1
+ 593.171875 264.926757812 l 1
+ 641.146484375 235.04296875 l 1
+ 686.119140625 172.890625 l 1
+ 772.065429688 0 l 1
+ 607.092773438 0 l 1
+ 543.072265625 148.801757812 l 1
+ 517.146484375 187.833007812 l 1
+ 482.96875 199.731445312 l 1
+EndSplineSet
 Kerns2: 139 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -409,31 +482,77 @@ SplineSet
  212 215 l 1xe4
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+211.979492188 322.809570312 m 4
+ 212.3125 322.809570312 l 6
+ 212.3125 322.8515625 l 5
+ 227.776367188 322.892578125 l 5
+ 243.239257812 322.892578125 l 5
+ 284.086914062 335.541992188 l 5
+ 294.172851562 366.826171875 l 5
+ 280.793945312 398.76171875 l 5
+ 238.154296875 412.752929688 l 5
+ 192.461914062 399.169921875 l 5
+ 169.21484375 360.823242188 l 5
+ 39.171875 383.744140625 l 5
+ 107.90234375 496.750976562 l 5
+ 244.15625 534.797851562 l 5
+ 387.21484375 495.75 l 5
+ 444.056640625 381.743164062 l 5
+ 413.536132812 303.540039062 l 5
+ 355.944335938 274.790039062 l 5
+ 429.84375 238.51953125 l 5
+ 463.979492188 154.920898438 l 5
+ 396.499023438 24.1376953125 l 5
+ 244.990234375 -15.05078125 l 5
+ 97.888671875 24.5546875 l 5
+ 25 146 l 5
+ 162.962890625 163.91796875 l 5
+ 192.53515625 119.284179688 l 5
+ 243.990234375 106.90234375 l 5
+ 300.029296875 121.53515625 l 5
+ 320.932617188 163.91796875 l 5
+ 301.67578125 204.049804688 l 5
+ 253.91015625 214.85546875 l 5
+ 211.979492188 214.85546875 l 5
+ 211.979492188 322.809570312 l 4
+EndSplineSet
 Kerns2: 21 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
 StartChar: afii10074
 Encoding: 1080 1080 8
 Width: 1000
-Flags: HM
+Flags: HMW
 LayerCount: 4
 Back
 SplineSet
-55 0 m 1
- 55 520 l 1
- 205 520 l 1
- 205 216 l 1
- 378 520 l 1
- 535 520 l 1
- 535 0 l 1
- 385 0 l 1
- 385 301 l 1
- 212 0 l 1
- 55 0 l 1
+55 0 m 5
+ 55 520 l 5
+ 205 520 l 5
+ 205 216 l 5
+ 378 520 l 5
+ 535 520 l 5
+ 535 0 l 5
+ 385 0 l 5
+ 385 301 l 5
+ 212 0 l 5
+ 55 0 l 5
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55 0 m 5
+ 55 520 l 5
+ 205 520 l 5
+ 205 216 l 5
+ 378 520 l 5
+ 535 520 l 5
+ 535 0 l 5
+ 385 0 l 5
+ 385 301 l 5
+ 212 0 l 5
+ 55 0 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10075
@@ -443,27 +562,50 @@ Flags: HM
 LayerCount: 4
 Back
 SplineSet
-359 720 m 1xdc
- 464 720 l 1
- 464 625 395 573 295 573 c 0
- 195 573 126 626 126 720 c 1
- 231 720 l 1
- 236 680 267 664 295 664 c 0
- 323 664 354 680 359 720 c 1xdc
-55 0 m 1
- 55 520 l 1
- 205 520 l 1
- 205 216 l 1
- 378 520 l 1
- 535 520 l 1xdc
- 535 0 l 1xec
- 385 0 l 1
- 385 301 l 1
- 212 0 l 1
- 55 0 l 1
+359 720 m 5xdc
+ 464 720 l 5
+ 464 625 395 573 295 573 c 4
+ 195 573 126 626 126 720 c 5
+ 231 720 l 5
+ 236 680 267 664 295 664 c 4
+ 323 664 354 680 359 720 c 5xdc
+55 0 m 5
+ 55 520 l 5
+ 205 520 l 5
+ 205 216 l 5
+ 378 520 l 5
+ 535 520 l 5xdc
+ 535 0 l 5xec
+ 385 0 l 5
+ 385 301 l 5
+ 212 0 l 5
+ 55 0 l 5
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55.056640625 519.83984375 m 1
+ 205.190429688 519.83984375 l 1
+ 205.190429688 215.907226562 l 1
+ 377.998046875 519.83984375 l 1
+ 535.05078125 519.83984375 l 1
+ 535.05078125 0 l 1
+ 385 0 l 1
+ 385 300.856445312 l 1
+ 212.192382812 0 l 1
+ 55.056640625 0 l 1
+ 55.056640625 519.83984375 l 1
+464.026367188 719.73828125 m 1
+ 417.0625 610.609375 l 1
+ 295.13671875 572.6953125 l 1
+ 173.2421875 610.984375 l 1
+ 126.247070312 719.73828125 l 1
+ 231.282226562 719.73828125 l 1
+ 254.67578125 676.73046875 l 1
+ 295.38671875 663.72265625 l 1
+ 335.995117188 676.697265625 l 1
+ 359.408203125 719.73828125 l 1
+ 464.026367188 719.73828125 l 1
+EndSplineSet
 EndChar
 
 StartChar: afii10076
@@ -497,7 +639,38 @@ SplineSet
  55 0 l 1xd0
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+221.97265625 199.731445312 m 5
+ 205.05078125 199.731445312 l 5
+ 205.05078125 0 l 5
+ 55 0 l 5
+ 55.1669921875 519.922851562 l 5
+ 130.200195312 519.83203125 l 5
+ 205.224609375 519.83203125 l 5
+ 205.224609375 324.76953125 l 5
+ 222.146484375 324.76953125 l 5
+ 261.69140625 330.189453125 l 5
+ 298.171875 358.7890625 l 5
+ 325.733398438 408.826171875 l 5
+ 345.104492188 452.734375 l 5
+ 401.92578125 510.951171875 l 5
+ 488.068359375 524.842773438 l 5
+ 519.079101562 524.842773438 l 5
+ 503.987304688 391.6328125 l 5
+ 488.061523438 391.6328125 l 5
+ 451.434570312 379.467773438 l 5
+ 429.125 341.612304688 l 5
+ 399.000976562 298.337890625 l 5
+ 347.180664062 273.756835938 l 5
+ 347.180664062 269.754882812 l 5
+ 409.00390625 235.610351562 l 5
+ 455.133789062 172.890625 l 5
+ 541.079101562 0 l 5
+ 376.107421875 0 l 5
+ 307.083984375 148.96875 l 5
+ 272.4375 187.857421875 l 5
+ 221.97265625 199.731445312 l 5
+EndSplineSet
 Kerns2: 139 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -523,7 +696,27 @@ SplineSet
  118 107 114 184 114 257 c 2xac
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+327.094726562 519.83984375 m 5
+ 540 519.83984375 l 5
+ 540 0 l 5
+ 390.032226562 0 l 5
+ 390.032226562 394.801757812 l 5
+ 253.987304688 394.801757812 l 5
+ 253.987304688 206.901367188 l 5
+ 223.674804688 54.748046875 l 5
+ 101.01953125 -15.0009765625 l 5
+ 53.044921875 -9.4140625 l 5
+ 20.0751953125 -0.0087890625 l 5
+ 20.0751953125 119.034179688 l 5
+ 38.45703125 111.280273438 l 5
+ 59.0888671875 107.9453125 l 5
+ 108.657226562 154.705078125 l 5
+ 114.026367188 256.9140625 l 5
+ 114.193359375 519.831054688 l 5
+ 114.193359375 519.831054688 l 5
+ 327.094726562 519.83984375 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10078
@@ -890,7 +1083,49 @@ SplineSet
  495 -200 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+345.032226562 -200 m 5
+ 345.032226562 44.916015625 l 5
+ 305.592773438 2.8330078125 l 5
+ 234.079101562 -15.185546875 l 5
+ 83.0595703125 63.451171875 l 5
+ 25.0087890625 259.822265625 l 5
+ 78.599609375 456.185546875 l 5
+ 228.911132812 534.830078125 l 5
+ 307.572265625 515.077148438 l 5
+ 345.032226562 478.806640625 l 5
+ 345.032226562 694.713867188 l 5
+ 495 734.728515625 l 5
+ 495 478.806640625 l 5
+ 532.325195312 515.077148438 l 5
+ 611.0390625 534.830078125 l 5
+ 761.349609375 456.185546875 l 5
+ 814.940429688 259.822265625 l 5
+ 756.900390625 63.451171875 l 5
+ 605.953125 -15.185546875 l 5
+ 534.346679688 2.8330078125 l 5
+ 495 44.916015625 l 5
+ 495 -200 l 5
+ 345.032226562 -200 l 5
+269.090820312 409.783203125 m 5
+ 204.24609375 376.814453125 l 5
+ 173.975585938 259.822265625 l 5
+ 204.756835938 141.012695312 l 5
+ 269.924804688 109.852539062 l 5
+ 329.631835938 140.979492188 l 5
+ 354.952148438 259.822265625 l 5
+ 325.495117188 380.533203125 l 5
+ 269.090820312 409.783203125 l 5
+568.94140625 109.852539062 m 5
+ 634.170898438 140.979492188 l 5
+ 664.889648438 259.822265625 l 5
+ 634.619140625 376.96484375 l 5
+ 569.775390625 409.950195312 l 5
+ 513.297851562 380.68359375 l 5
+ 483.829101562 259.822265625 l 5
+ 509.22265625 140.979492188 l 5
+ 568.94140625 109.852539062 l 5
+EndSplineSet
 Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -938,26 +1173,40 @@ EndChar
 StartChar: afii10088
 Encoding: 1094 1094 22
 Width: 1000
-Flags: HM
+Flags: HMW
 LayerCount: 4
 Back
 SplineSet
-55 0 m 1xf4
- 55 520 l 1
- 205 520 l 1
- 205 125 l 1
- 375 125 l 1
- 375 520 l 1
- 525 520 l 1xf8
- 525 125 l 1
- 594 125 l 1
- 594 -127 l 1
- 449 -127 l 1
- 449 0 l 1
- 55 0 l 1xf4
+55 0 m 5xf4
+ 55 520 l 5
+ 205 520 l 5
+ 205 125 l 5
+ 375 125 l 5
+ 375 520 l 5
+ 525 520 l 5xf8
+ 525 125 l 5
+ 594 125 l 5
+ 594 -127 l 5
+ 449 -127 l 5
+ 449 0 l 5
+ 55 0 l 5xf4
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55 0 m 5xf4
+ 55 520 l 5
+ 205 520 l 5
+ 205 125 l 5
+ 375 125 l 5
+ 375 520 l 5
+ 525 520 l 5xf8
+ 525 125 l 5
+ 594 125 l 5
+ 594 -127 l 5
+ 449 -127 l 5
+ 449 0 l 5
+ 55 0 l 5xf4
+EndSplineSet
 Kerns2: 139 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 26 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -983,7 +1232,25 @@ SplineSet
  92 154 35 233 35 353 c 2
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+35.0947265625 519.590820312 m 5
+ 185.060546875 519.590820312 l 5
+ 185.060546875 399.638671875 l 5
+ 199.430664062 302.673828125 l 5
+ 261.002929688 271.672851562 l 5
+ 310.373046875 280.219726562 l 5
+ 349.866210938 303.766601562 l 5
+ 349.866210938 519.673828125 l 5
+ 500 519.673828125 l 5
+ 500 0 l 5
+ 349.866210938 0 l 5
+ 349.866210938 188.900390625 l 5
+ 292.544921875 163.51953125 l 5
+ 226.908203125 153.888671875 l 5
+ 80.3076171875 208.428710938 l 5
+ 34.927734375 352.870117188 l 5
+ 35.0947265625 519.590820312 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10090
@@ -1101,7 +1368,28 @@ SplineSet
  270 243 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+10.046875 519.923828125 m 1
+ 269.966796875 519.923828125 l 1
+ 269.966796875 354.954101562 l 1
+ 331.904296875 354.954101562 l 1
+ 484.538085938 319.817382812 l 1
+ 553.895507812 181.896484375 l 1
+ 490.166015625 44.1171875 l 1
+ 361.9140625 0 l 1
+ 120 0 l 1
+ 120 396.961914062 l 1
+ 10.046875 396.961914062 l 1
+ 10.046875 519.923828125 l 1
+269.966796875 121.953125 m 1
+ 292.974609375 121.953125 l 1
+ 374.803710938 134.34375 l 1
+ 401.927734375 182.063476562 l 1
+ 376.314453125 230.149414062 l 1
+ 302.061523438 242.915039062 l 1
+ 269.966796875 242.915039062 l 1
+ 269.966796875 121.953125 l 1
+EndSplineSet
 Kerns2: 177 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1133,7 +1421,31 @@ SplineSet
  205 243 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55.119140625 519.83984375 m 5
+ 205.0859375 519.83984375 l 5
+ 205.0859375 354.870117188 l 5
+ 267.0234375 354.870117188 l 5
+ 419.625976562 319.733398438 l 5
+ 489.014648438 181.8125 l 5
+ 425.274414062 44.033203125 l 5
+ 296.950195312 -0.083984375 l 5
+ 55.119140625 -0.083984375 l 5
+ 55.119140625 519.83984375 l 5
+205.0859375 121.869140625 m 5
+ 228.009765625 121.869140625 l 5
+ 309.880859375 134.259765625 l 5
+ 337.046875 181.979492188 l 5
+ 311.413085938 230.065429688 l 5
+ 237.013671875 242.831054688 l 5
+ 205.0859375 242.831054688 l 5
+ 205.0859375 121.869140625 l 5
+545.033203125 519.83984375 m 5
+ 695 519.83984375 l 5
+ 695 0 l 5
+ 545.033203125 0 l 5
+ 545.033203125 519.83984375 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10094
@@ -1159,7 +1471,26 @@ SplineSet
  205 243 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55 519.923828125 m 5
+ 204.966796875 519.923828125 l 5
+ 204.966796875 354.954101562 l 5
+ 266.904296875 354.954101562 l 5
+ 419.506835938 319.817382812 l 5
+ 488.895507812 181.896484375 l 5
+ 425.155273438 44.1171875 l 5
+ 296.830078125 0 l 5
+ 55 0 l 5
+ 55 519.923828125 l 5
+204.966796875 121.953125 m 5
+ 227.890625 121.953125 l 5
+ 309.76171875 134.34375 l 5
+ 336.927734375 182.063476562 l 5
+ 311.293945312 230.149414062 l 5
+ 236.89453125 242.915039062 l 5
+ 204.966796875 242.915039062 l 5
+ 204.966796875 121.953125 l 5
+EndSplineSet
 Kerns2: 177 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1186,7 +1517,30 @@ SplineSet
  220 210 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+220.333007812 315.201171875 m 5
+ 368.1328125 315.201171875 l 5
+ 337.048828125 385.8671875 l 5
+ 275.268554688 410.147460938 l 5
+ 211.643554688 390.186523438 l 5
+ 177.151367188 322.206054688 l 5
+ 30.1865234375 344.209960938 l 5
+ 122.008789062 491.694335938 l 5
+ 276.1015625 535.01953125 l 5
+ 451.712890625 467.689453125 l 5
+ 523.1015625 260.178710938 l 5
+ 448.743164062 50.6826171875 l 5
+ 270.100585938 -14.8291015625 l 5
+ 116.163085938 26.8447265625 l 5
+ 25.1845703125 174.987304688 l 5
+ 172.984375 195.991210938 l 5
+ 207.610351562 130.287109375 l 5
+ 269.93359375 110.216796875 l 5
+ 336.767578125 131.663085938 l 5
+ 368.965820312 210 l 5
+ 220 210 l 5
+ 220.333007812 315.201171875 l 5
+EndSplineSet
 Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1216,7 +1570,33 @@ SplineSet
  446 410 410 357 410 260 c 0
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55 519.840820312 m 5
+ 204.966796875 519.840820312 l 5
+ 204.966796875 324.936523438 l 5
+ 265.0703125 324.936523438 l 5
+ 353.172851562 484.595703125 l 5
+ 507.985351562 534.840820312 l 5
+ 680.344726562 469.411132812 l 5
+ 755.984375 260 l 5
+ 680.344726562 50.50390625 l 5
+ 507.985351562 -15.0078125 l 5
+ 351.537109375 36.2041015625 l 5
+ 263.986328125 199.8984375 l 5
+ 204.966796875 199.8984375 l 5
+ 204.966796875 0 l 5
+ 55 0 l 5
+ 55 519.840820312 l 5
+507.901367188 110.038085938 m 5
+ 580.17578125 148.635742188 l 5
+ 605.934570312 260 l 5
+ 580.17578125 371.305664062 l 5
+ 507.901367188 409.96875 l 5
+ 435.658203125 371.305664062 l 5
+ 409.869140625 260 l 5
+ 435.690429688 148.602539062 l 5
+ 507.901367188 110.038085938 l 5
+EndSplineSet
 Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1248,7 +1628,33 @@ SplineSet
  338 284 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+338.037109375 170.97265625 m 1
+ 319.864257812 170.97265625 l 1
+ 254.967773438 152.370117188 l 1
+ 217.080078125 99.9482421875 l 1
+ 173.064453125 0 l 1
+ 10.1767578125 0 l 1
+ 70.197265625 124.037109375 l 1
+ 118.150390625 189.68359375 l 1
+ 193.237304688 223.8203125 l 1
+ 89.4638671875 259.740234375 l 1
+ 44.271484375 354.870117188 l 1
+ 104.125 476.681640625 l 1
+ 253.2578125 519.83984375 l 1
+ 478 519.83984375 l 1
+ 478 0 l 1
+ 338.037109375 0 l 1
+ 338.037109375 170.97265625 l 1
+338.037109375 404.881835938 m 1
+ 280.93359375 404.881835938 l 1
+ 215.787109375 387.138671875 l 1
+ 197.90625 346.94921875 l 1
+ 220.956054688 300.055664062 l 1
+ 307.026367188 283.9296875 l 1
+ 338.037109375 283.9296875 l 1
+ 338.037109375 404.881835938 l 1
+EndSplineSet
 EndChar
 
 StartChar: afii10017
@@ -1455,7 +1861,7 @@ EndChar
 StartChar: afii10021
 Encoding: 1044 1044 36
 Width: 1000
-Flags: HMO
+Flags: HM
 LayerCount: 4
 Back
 SplineSet
@@ -1614,7 +2020,60 @@ SplineSet
  600 295 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+613.942382812 294.852539062 m 1
+ 598.100585938 294.852539062 l 1
+ 598.100585938 0 l 1
+ 598.43359375 0 l 2
+ 438.881835938 0 l 1
+ 438.881835938 294.852539062 l 1
+ 422.872070312 294.852539062 l 1
+ 350.514648438 273.6328125 l 1
+ 296.913085938 193.903320312 l 1
+ 215.803710938 0 l 1
+ 28.990234375 0 l 1
+ 142.862304688 237.912109375 l 1
+ 215.052734375 329.239257812 l 1
+ 297.747070312 368.044921875 l 1
+ 245.677734375 392.1171875 l 1
+ 213.801757812 432.815429688 l 1
+ 167.703125 511.752929688 l 1
+ 126.876953125 561.364257812 l 1
+ 83.67578125 572.779296875 l 1
+ 57.6669921875 572.779296875 l 1
+ 57.6669921875 719.655273438 l 1
+ 104.515625 719.655273438 l 1
+ 186.48046875 707.7734375 l 1
+ 262.568359375 627.626953125 l 1
+ 338.510742188 498.669921875 l 1
+ 372.522460938 450.30859375 l 1
+ 424.5390625 429.647460938 l 1
+ 438.546875 429.647460938 l 1
+ 438.546875 719.655273438 l 1
+ 598.517578125 719.655273438 l 1
+ 598.517578125 429.647460938 l 1
+ 612.525390625 429.647460938 l 1
+ 664.491210938 450.30859375 l 1
+ 698.387695312 498.669921875 l 1
+ 774.330078125 627.626953125 l 1
+ 850.29296875 707.7734375 l 1
+ 932.3828125 719.655273438 l 1
+ 979.231445312 719.655273438 l 1
+ 979.231445312 572.779296875 l 1
+ 953.22265625 572.779296875 l 1
+ 910.083984375 561.364257812 l 1
+ 869.194335938 511.752929688 l 1
+ 823.096679688 432.815429688 l 1
+ 791.314453125 392.1171875 l 1
+ 739.151367188 368.044921875 l 1
+ 821.814453125 329.239257812 l 1
+ 894.036132812 237.912109375 l 1
+ 1007.99121094 0 l 1
+ 821.01171875 0 l 1
+ 740.068359375 193.903320312 l 1
+ 686.352539062 273.6328125 l 1
+ 613.942382812 294.852539062 l 1
+EndSplineSet
 Kerns2: 208 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 199 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 194 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 138 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 137 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 131 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 130 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 129 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 116 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 61 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 49 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 46 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 39 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 32 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 30 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 28 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 27 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 26 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 25 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 22 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 16 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 15 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 13 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 10 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 9 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1645,7 +2104,38 @@ SplineSet
  245 305 l 1xe8
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+245 435.215820312 m 5
+ 309.938476562 435.215820312 l 5
+ 383.389648438 457.053710938 l 5
+ 402.885742188 514.153320312 l 5
+ 376.543945312 574.104492188 l 5
+ 305.9375 595.099609375 l 5
+ 229.421875 573.228515625 l 5
+ 194.983398438 507.157226562 l 5
+ 50.0185546875 535.165039062 l 5
+ 134.629882812 683.475585938 l 5
+ 307.021484375 735.063476562 l 5
+ 479.557617188 683.92578125 l 5
+ 556.9375 532.997070312 l 5
+ 528.052734375 434.599609375 l 5
+ 451.90234375 376.024414062 l 5
+ 554.64453125 316.96484375 l 5
+ 589.865234375 209.13671875 l 5
+ 503.107421875 37.0791015625 l 5
+ 315.940429688 -14.93359375 l 5
+ 132.108398438 32.3935546875 l 5
+ 29.927734375 202.1328125 l 5
+ 176.977539062 226.0625 l 5
+ 218.98046875 149.694335938 l 5
+ 311.938476562 122.028320312 l 5
+ 401.948242188 145.825195312 l 5
+ 432.8125 216.140625 l 5
+ 400.759765625 283.762695312 l 5
+ 319.94140625 305 l 5
+ 245 305 l 5
+ 245 435.215820312 l 5
+EndSplineSet
 Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 58 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 50 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -1780,7 +2270,7 @@ EndChar
 StartChar: afii10029
 Encoding: 1051 1051 43
 Width: 1000
-Flags: HM
+Flags: HMW
 LayerCount: 4
 Back
 SplineSet
@@ -1799,7 +2289,27 @@ SplineSet
  148 135 147 249 147 412 c 2xb8
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+416.505859375 719.821289062 m 1
+ 685.970703125 719.821289062 l 1
+ 685.970703125 0 l 1
+ 526 0 l 1
+ 526 574.780273438 l 1
+ 301.92578125 574.780273438 l 1
+ 301.92578125 372.872070312 l 1
+ 268.341796875 99.3984375 l 1
+ 105.026367188 -15.083984375 l 1
+ 54.83203125 -9.4970703125 l 1
+ 15.0791015625 4.9443359375 l 1
+ 9.9931640625 151.995117188 l 1
+ 31.65625 140.822265625 l 1
+ 63.0107421875 134.90234375 l 1
+ 136.91015625 212.254882812 l 1
+ 147.038085938 411.828125 l 1
+ 147.038085938 719.846679688 l 2
+ 147.0390625 719.846679688 l 0
+ 416.505859375 719.821289062 l 1
+EndSplineSet
 EndChar
 
 StartChar: afii10030
@@ -2105,6 +2615,26 @@ SplineSet
  242 123 272 135 288 173 c 2
  298 196 l 1
 EndSplineSet
+Fore
+SplineSet
+10.1875 720 m 1
+ 177.16015625 720 l 1
+ 373.975585938 349.12890625 l 1
+ 533.946289062 720 l 1
+ 695 720 l 1
+ 442.08203125 159.069335938 l 1
+ 348.133789062 25.5849609375 l 1
+ 227.176757812 -14.9892578125 l 1
+ 145.076171875 -3.890625 l 1
+ 86.2958984375 26.0185546875 l 1
+ 120.224609375 156.901367188 l 1
+ 159.1328125 135.09765625 l 1
+ 209.170898438 123.057617188 l 1
+ 255.01953125 133.780273438 l 1
+ 288.11328125 173.069335938 l 1
+ 298.118164062 195.999023438 l 1
+ 10.1875 720 l 1
+EndSplineSet
 Kerns2: 214 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 199 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 194 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 156 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 155 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 143 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 141 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 138 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 137 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 131 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 130 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 129 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 128 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 127 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 116 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 63 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 61 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 49 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 46 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 39 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 36 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 32 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -120 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 30 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 28 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 27 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 26 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 25 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 22 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 16 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 15 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -130 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 13 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 10 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 9 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -110 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -140 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2137,7 +2667,35 @@ SplineSet
  265 498 195 462 195 360 c 0
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+343.029296875 -15 m 5
+ 343.029296875 74.859375 l 5
+ 120.9453125 145.391601562 l 5
+ 30.091796875 359.790039062 l 5
+ 120.9453125 573.5546875 l 5
+ 343.029296875 644.720703125 l 5
+ 343.029296875 734.747070312 l 5
+ 503 734.747070312 l 5
+ 503 644.720703125 l 5
+ 725.115234375 573.5546875 l 5
+ 815.9375 359.790039062 l 5
+ 725.115234375 145.391601562 l 5
+ 503 74.859375 l 5
+ 503 -15 l 5
+ 343.029296875 -15 l 5
+343.029296875 219.91015625 m 5
+ 343.029296875 499.75390625 l 5
+ 239.859375 467.301757812 l 5
+ 195.146484375 359.70703125 l 5
+ 236.764648438 252.01171875 l 5
+ 343.029296875 219.91015625 l 5
+503 500.00390625 m 5
+ 503 219.993164062 l 5
+ 605.8671875 252.0703125 l 5
+ 650.965820312 360.040039062 l 5
+ 609.244140625 467.41015625 l 5
+ 503 500.00390625 l 5
+EndSplineSet
 Kerns2: 214 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 178 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 156 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 155 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 143 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 141 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 128 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 127 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 58 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 51 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 50 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 36 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 32 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2245,7 +2803,25 @@ SplineSet
  611 720 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+611 0 m 5
+ 451.030273438 0 l 5
+ 451.030273438 276.008789062 l 5
+ 383.424804688 251.002929688 l 5
+ 288.059570312 240.997070312 l 5
+ 91.31640625 323.4609375 l 5
+ 40.0595703125 534.848632812 l 5
+ 40.0595703125 719.822265625 l 5
+ 200.029296875 719.822265625 l 5
+ 200.029296875 543.854492188 l 5
+ 225.236328125 416.331054688 l 5
+ 320.903320312 377.958984375 l 5
+ 397.189453125 386.129882812 l 5
+ 451.030273438 410.052734375 l 5
+ 451.030273438 719.905273438 l 5
+ 611 719.905273438 l 5
+ 611 0 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10042
@@ -2363,7 +2939,28 @@ SplineSet
  335 350 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+334.803710938 479.826171875 m 1
+ 457.927734375 479.826171875 l 1
+ 664.475585938 414.747070312 l 1
+ 736.854492188 240.997070312 l 1
+ 647.76171875 54.8486328125 l 1
+ 450.008789062 0 l 1
+ 175 0 l 1
+ 175 574.780273438 l 1
+ 20.1982421875 574.780273438 l 1
+ 20.1982421875 719.655273438 l 1
+ 334.969726562 719.655273438 l 1
+ 334.803710938 479.826171875 l 1
+334.803710938 139.880859375 m 1
+ 442.83984375 139.880859375 l 1
+ 543.915039062 170.172851562 l 1
+ 573.716796875 243.915039062 l 1
+ 547.84375 314.463867188 l 1
+ 444.756835938 349.868164062 l 1
+ 334.803710938 349.868164062 l 1
+ 334.803710938 139.880859375 l 1
+EndSplineSet
 Kerns2: 178 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 51 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 50 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2395,7 +2992,31 @@ SplineSet
  230 350 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+229.803710938 719.822265625 m 5
+ 229.803710938 479.826171875 l 5
+ 352.844726562 479.826171875 l 5
+ 559.434570312 414.747070312 l 5
+ 631.854492188 240.997070312 l 5
+ 542.751953125 54.8486328125 l 5
+ 344.924804688 0 l 5
+ 70 0 l 5
+ 70 719.822265625 l 5
+ 229.803710938 719.822265625 l 5
+229.803710938 139.880859375 m 5
+ 337.755859375 139.880859375 l 5
+ 438.904296875 170.172851562 l 5
+ 468.716796875 243.915039062 l 5
+ 442.84375 314.463867188 l 5
+ 339.756835938 349.868164062 l 5
+ 229.803710938 349.868164062 l 5
+ 229.803710938 139.880859375 l 5
+709.713867188 0.083984375 m 5
+ 709.713867188 719.905273438 l 5
+ 869.767578125 719.905273438 l 5
+ 869.767578125 0.083984375 l 5
+ 709.713867188 0.083984375 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10046
@@ -2419,6 +3040,27 @@ SplineSet
  433 140 469 186 469 244 c 0
  469 291 443 350 340 350 c 2
  230 350 l 1
+EndSplineSet
+Fore
+SplineSet
+229.803710938 719.821289062 m 5
+ 229.803710938 479.825195312 l 5
+ 352.760742188 479.825195312 l 5
+ 559.423828125 414.74609375 l 5
+ 631.854492188 240.99609375 l 5
+ 542.751953125 54.84765625 l 5
+ 344.924804688 0 l 5
+ 70 0 l 5
+ 70 719.821289062 l 5
+ 229.803710938 719.821289062 l 5
+229.803710938 139.879882812 m 5
+ 337.755859375 139.879882812 l 5
+ 438.873046875 170.171875 l 5
+ 468.716796875 243.915039062 l 5
+ 442.84375 314.463867188 l 5
+ 339.756835938 349.8671875 l 5
+ 229.803710938 349.8671875 l 5
+ 229.803710938 139.879882812 l 5
 EndSplineSet
 Kerns2: 178 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 51 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 50 -80 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
@@ -2446,7 +3088,30 @@ SplineSet
  285 305 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+284.75 430.213867188 m 5
+ 529.665039062 430.213867188 l 5
+ 477.720703125 551.75 l 5
+ 362.692382812 595.266601562 l 5
+ 258.366210938 566.0078125 l 5
+ 196.803710938 469.227539062 l 5
+ 44.919921875 513.15234375 l 5
+ 157.322265625 678.15625 l 5
+ 362.692382812 735.063476562 l 5
+ 617.986328125 628.9609375 l 5
+ 700.721679688 360.106445312 l 5
+ 619.2578125 91.369140625 l 5
+ 357.857421875 -14.68359375 l 5
+ 150.52734375 44 l 5
+ 39.91796875 206.217773438 l 5
+ 196.970703125 250.151367188 l 5
+ 257.616210938 155.713867188 l 5
+ 358.024414062 125.11328125 l 5
+ 478.856445312 170.4140625 l 5
+ 529.915039062 305 l 5
+ 285 305 l 5
+ 284.75 430.213867188 l 5
+EndSplineSet
 Kerns2: 214 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 178 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 58 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 51 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 50 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 36 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 32 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -2476,7 +3141,33 @@ SplineSet
  553 595 495 507 495 360 c 0
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+69.7802734375 0 m 5
+ 69.7802734375 719.73828125 l 5
+ 229.833984375 719.73828125 l 5
+ 229.833984375 439.90234375 l 5
+ 334.78515625 439.90234375 l 5
+ 436.142578125 652.966796875 l 5
+ 662.728515625 734.747070312 l 5
+ 910.821289062 628.64453125 l 5
+ 994.672851562 359.790039062 l 5
+ 910.821289062 91.052734375 l 5
+ 662.728515625 -15 l 5
+ 431.995117188 71.357421875 l 5
+ 333.868164062 295.01953125 l 5
+ 230 295.01953125 l 5
+ 230 0 l 5
+ 69.7802734375 0 l 5
+662.645507812 124.796875 m 5
+ 787.05078125 187.19921875 l 5
+ 829.6171875 359.70703125 l 5
+ 787.01953125 532.305664062 l 5
+ 662.645507812 594.616210938 l 5
+ 537.48828125 532.213867188 l 5
+ 494.671875 359.70703125 l 5
+ 537.48828125 187.173828125 l 5
+ 662.645507812 124.796875 l 5
+EndSplineSet
 Kerns2: 214 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 208 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 178 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 58 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 53 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 51 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 50 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 43 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 38 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 36 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 32 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -70 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -6115,7 +6806,37 @@ SplineSet
  228 375 182 335 182 243 c 0
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+500.412109375 601.014648438 m 1
+ 468.463867188 586.84765625 l 1
+ 431.389648438 581.01171875 l 1
+ 291.42578125 571.088867188 l 1
+ 199.791015625 531.482421875 l 1
+ 161.298828125 431.041992188 l 1
+ 235.063476562 488.974609375 l 1
+ 316.267578125 504.150390625 l 1
+ 483.208984375 437.470703125 l 1
+ 548.178710938 247.061523438 l 1
+ 472.788085938 52.3828125 l 1
+ 290.17578125 -14.939453125 l 1
+ 107.65625 56.560546875 l 1
+ 30.171875 289.994140625 l 1
+ 80.16796875 571.297851562 l 1
+ 310.098632812 719.799804688 l 1
+ 441.059570312 727.970703125 l 1
+ 482.625 734.807617188 l 1
+ 513 750 l 1
+ 500.412109375 601.014648438 l 1
+290.341796875 110.099609375 m 1
+ 367.544921875 142.109375 l 1
+ 398.294921875 243.142578125 l 1
+ 367.544921875 343.674804688 l 1
+ 290.341796875 375.184570312 l 1
+ 213.06640625 343.674804688 l 1
+ 182.305664062 243.142578125 l 1
+ 213.06640625 142.109375 l 1
+ 290.341796875 110.099609375 l 1
+EndSplineSet
 Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -6148,7 +6869,36 @@ SplineSet
  205 205 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55 519.83984375 m 1
+ 268.98828125 519.83984375 l 1
+ 406.294921875 493.491210938 l 1
+ 470.888671875 380.79296875 l 1
+ 448.016601562 312.604492188 l 1
+ 386.944335938 269.920898438 l 1
+ 467.7734375 221.251953125 l 1
+ 493.896484375 144.8828125 l 1
+ 436.637695312 31.9599609375 l 1
+ 299.915039062 0 l 1
+ 55 0 l 1
+ 55 519.83984375 l 1
+205.133789062 319.94140625 m 1
+ 218.0546875 319.94140625 l 2
+ 289.953125 326.028320312 l 1
+ 319.087890625 365.842773438 l 1
+ 294.048828125 400.36328125 l 1
+ 236.060546875 404.94921875 l 2
+ 205.133789062 404.94921875 l 1
+ 205.133789062 319.94140625 l 1
+205.133789062 114.95703125 m 1
+ 238.14453125 114.95703125 l 1
+ 315.28515625 123.454101562 l 1
+ 342.095703125 158.890625 l 1
+ 320.109375 196.162109375 l 1
+ 232.225585938 204.984375 l 2
+ 205.299804688 204.984375 l 1
+ 205.133789062 114.95703125 l 1
+EndSplineSet
 Kerns2: 21 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -7916,7 +8666,7 @@ EndChar
 StartChar: afii10110
 Encoding: 1118 1118 177
 Width: 1000
-Flags: HM
+Flags: HMO
 LayerCount: 4
 Back
 SplineSet
@@ -7942,7 +8692,37 @@ SplineSet
  311 664 342 680 347 720 c 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+84.681640625 -71.615234375 m 1
+ 121.90234375 -75.9501953125 l 1
+ 171.470703125 -62.326171875 l 1
+ 206.846679688 -9.01171875 l 1
+ 212.016601562 4.99609375 l 1
+ 10.115234375 520 l 1
+ 163 520 l 1
+ 282.873046875 177.13671875 l 1
+ 401.913085938 520 l 1
+ 549.795898438 520 l 1
+ 346.811523438 -28.8486328125 l 1
+ 266.471679688 -164.368164062 l 1
+ 147.744140625 -209.911132812 l 1
+ 102.604492188 -204.991210938 l 1
+ 70.71875 -194.869140625 l 1
+ 60.9638671875 -61.900390625 l 1
+ 60.9638671875 -61.900390625 l 1
+ 84.681640625 -71.615234375 l 1
+451.928710938 719.856445312 m 1
+ 404.923828125 610.66015625 l 1
+ 282.955078125 572.805664062 l 1
+ 161.029296875 611.03515625 l 1
+ 114.065429688 719.856445312 l 1
+ 219.1015625 719.856445312 l 1
+ 242.515625 676.83984375 l 1
+ 283.122070312 663.840820312 l 1
+ 323.739257812 676.815429688 l 1
+ 347.227539062 719.856445312 l 1
+ 451.928710938 719.856445312 l 1
+EndSplineSet
 Kerns2: 208 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 156 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 155 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 143 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 141 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 128 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 127 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
@@ -8268,7 +9048,30 @@ SplineSet
  328 315 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+328 210 m 1
+ 177.950195312 210 l 1
+ 209.3046875 135.673828125 l 1
+ 272.981445312 110.05078125 l 1
+ 332.876953125 130.204101562 l 1
+ 365.012695312 195.991210938 l 1
+ 512.978515625 174.987304688 l 1
+ 424.490234375 27.9365234375 l 1
+ 272.981445312 -14.8291015625 l 1
+ 98.705078125 50.599609375 l 1
+ 24.8994140625 260.01171875 l 1
+ 98.642578125 469.506835938 l 1
+ 272.981445312 535.01953125 l 1
+ 424.490234375 491.677734375 l 1
+ 512.978515625 344.04296875 l 1
+ 365.845703125 322.0390625 l 1
+ 333.325195312 389.26953125 l 1
+ 272.981445312 409.981445312 l 1
+ 212.12890625 385.767578125 l 1
+ 179.034179688 315.03515625 l 1
+ 328 315.03515625 l 1
+ 328 210 l 1
+EndSplineSet
 EndChar
 
 StartChar: afii10053
@@ -9724,7 +10527,44 @@ SplineSet
  190 603 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+222.055664062 199.8984375 m 5
+ 204.966796875 199.8984375 l 5
+ 204.966796875 0 l 5
+ 55 0 l 5
+ 55.0830078125 519.923828125 l 5
+ 55.0830078125 519.923828125 l 5
+ 130.075195312 519.915039062 l 5
+ 205.057617188 519.915039062 l 5
+ 205.057617188 325.01171875 l 5
+ 222.146484375 325.01171875 l 6
+ 261.618164062 330.34765625 l 5
+ 298.088867188 358.864257812 l 5
+ 325.670898438 408.967773438 l 5
+ 344.9375 452.818359375 l 5
+ 401.83203125 511.03515625 l 5
+ 487.985351562 524.926757812 l 5
+ 518.912109375 524.926757812 l 5
+ 503.903320312 391.875 l 5
+ 487.977539062 391.875 l 5
+ 451.288085938 379.634765625 l 5
+ 429.041015625 341.696289062 l 5
+ 398.90625 298.48828125 l 5
+ 347.014648438 273.840820312 l 5
+ 347.014648438 269.921875 l 5
+ 408.91015625 235.626953125 l 5
+ 455.05078125 172.890625 l 5
+ 540.99609375 0 l 5
+ 376.0234375 0 l 5
+ 307.166992188 148.9609375 l 5
+ 272.458007812 187.932617188 l 5
+ 222.055664062 199.8984375 l 5
+190.052734375 602.9375 m 5
+ 266.078125 789.836914062 l 5
+ 444.0546875 789.836914062 l 5
+ 321.095703125 602.9375 l 5
+ 190.052734375 602.9375 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10100
@@ -9793,7 +10633,40 @@ SplineSet
  540 243 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+327.145507812 519.923828125 m 5
+ 540.05078125 519.923828125 l 5
+ 540.05078125 354.954101562 l 5
+ 601.987304688 354.954101562 l 5
+ 754.622070312 319.817382812 l 5
+ 823.978515625 181.896484375 l 5
+ 760.249023438 44.1171875 l 5
+ 631.998046875 0 l 5
+ 390 0 l 5
+ 390 394.793945312 l 5
+ 254.038085938 394.793945312 l 5
+ 254.038085938 206.90234375 l 5
+ 223.705078125 54.681640625 l 5
+ 101.154296875 -15.0087890625 l 5
+ 53.0537109375 -9.421875 l 5
+ 19.9599609375 -0.0078125 l 5
+ 19.9599609375 118.860351562 l 5
+ 38.4873046875 111.189453125 l 5
+ 59.1396484375 107.9375 l 5
+ 108.708007812 154.689453125 l 5
+ 114.078125 256.897460938 l 5
+ 114.245117188 519.907226562 l 5
+ 114.245117188 519.907226562 l 5
+ 327.145507812 519.923828125 l 5
+540.216796875 121.953125 m 5
+ 563.224609375 121.953125 l 5
+ 645.053710938 134.34375 l 5
+ 672.177734375 182.063476562 l 5
+ 646.5546875 230.149414062 l 5
+ 572.227539062 242.915039062 l 5
+ 540.216796875 242.915039062 l 5
+ 540.216796875 121.953125 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10107
@@ -9827,7 +10700,34 @@ SplineSet
  525 243 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+55 519.923828125 m 5
+ 205.049804688 519.923828125 l 5
+ 205.049804688 325.020507812 l 5
+ 375.0234375 325.020507812 l 5
+ 375.0234375 519.923828125 l 5
+ 524.990234375 519.923828125 l 5
+ 524.990234375 354.954101562 l 5
+ 587.010742188 354.954101562 l 5
+ 739.603515625 319.817382812 l 5
+ 808.91796875 181.896484375 l 5
+ 745.177734375 44.1171875 l 5
+ 616.854492188 0 l 5
+ 375.0234375 0 l 5
+ 375.0234375 199.8984375 l 5
+ 205.049804688 199.8984375 l 5
+ 205.049804688 0 l 5
+ 55 0 l 5
+ 55 519.923828125 l 5
+524.90625 121.953125 m 5
+ 547.831054688 121.953125 l 5
+ 629.775390625 134.34375 l 5
+ 656.951171875 182.063476562 l 5
+ 631.328125 230.149414062 l 5
+ 557.000976562 242.915039062 l 5
+ 524.90625 242.915039062 l 5
+ 524.90625 121.953125 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10193
@@ -16206,7 +17106,33 @@ SplineSet
  244 0 l 1
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+93.9501953125 0 m 5
+ 93.9501953125 500.913085938 l 5
+ 19.92578125 500.913085938 l 5
+ 19.92578125 619.790039062 l 5
+ 93.9501953125 619.790039062 l 5
+ 93.9501953125 691.897460938 l 5
+ 244 734.9140625 l 5
+ 244 619.790039062 l 5
+ 343.034179688 619.790039062 l 5
+ 343.034179688 500.913085938 l 5
+ 244 500.913085938 l 5
+ 244 384.795898438 l 5
+ 301.884765625 446.231445312 l 5
+ 379.962890625 464.900390625 l 5
+ 528.512695312 403.348632812 l 5
+ 569.026367188 248.834960938 l 5
+ 569.026367188 -0.0830078125 l 5
+ 419.059570312 -0.0830078125 l 5
+ 419.059570312 244.833007812 l 5
+ 400.772460938 314.430664062 l 5
+ 339.032226562 338.9453125 l 5
+ 274.259765625 310.478515625 l 5
+ 244 224.98828125 l 5
+ 244 0 l 5
+ 93.9501953125 0 l 5
+EndSplineSet
 EndChar
 
 StartChar: afii10099
@@ -16243,7 +17169,41 @@ SplineSet
  368 -15 325 -10 303 -1 c 1xbe
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+321.026367188 122.870117188 m 5
+ 341.147460938 117.951171875 l 5
+ 355.955078125 116.8671875 l 5
+ 409.22265625 149.536132812 l 5
+ 418.975585938 221.90234375 l 5
+ 418.975585938 244.83203125 l 5
+ 400.73046875 314.346679688 l 5
+ 339.032226562 338.778320312 l 5
+ 274.259765625 310.311523438 l 5
+ 244 224.8203125 l 5
+ 244 0 l 5
+ 94.033203125 0 l 5
+ 94.033203125 500.829101562 l 5
+ 19.92578125 500.829101562 l 5
+ 19.92578125 619.873046875 l 5
+ 94.033203125 619.873046875 l 5
+ 94.033203125 691.813476562 l 5
+ 244 734.997070312 l 5
+ 244 619.873046875 l 5
+ 343.034179688 619.873046875 l 5
+ 343.034179688 500.829101562 l 5
+ 244 500.829101562 l 5
+ 244 384.87890625 l 5
+ 301.895507812 446.231445312 l 5
+ 380.045898438 464.817382812 l 5
+ 528.481445312 403.314453125 l 5
+ 568.942382812 248.91796875 l 5
+ 568.942382812 166.887695312 l 5
+ 522.510742188 36.2373046875 l 5
+ 392.05078125 -15.0087890625 l 5
+ 346.836914062 -11.4228515625 l 5
+ 303.186523438 -1.0087890625 l 5
+ 321.026367188 122.870117188 l 5
+EndSplineSet
 EndChar
 
 StartChar: percent
