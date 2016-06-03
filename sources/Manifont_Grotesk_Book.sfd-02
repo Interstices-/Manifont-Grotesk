@@ -1087,7 +1087,7 @@ EndChar
 StartChar: afii10086
 Encoding: 1092 1092 20
 Width: 820
-Flags: HMW
+Flags: HMWO
 HStem: -200 21G<365 455 365 365> -15 75<210 267 553 610> 460 75<210 272.5 166 281 547.5 610> 715 20G<455 455>
 VStem: 35 90<194 326 194 336> 365 90<-200 55 459 695 695 695> 695 90<194 326>
 CounterMasks: 1 0e
@@ -2362,7 +2362,7 @@ EndSplineSet
 Validated: 524297
 Layer: 2
 Kerns2: 208 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 199 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 194 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 177 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 139 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 138 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 137 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 136 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 135 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 131 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 130 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 129 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 116 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 61 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 52 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 49 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 46 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 39 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 31 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 30 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 29 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 28 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 27 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 26 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 25 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 24 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 23 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 22 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 21 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 20 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 19 -100 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 18 -90 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 17 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 16 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 15 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 14 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 13 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 12 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 11 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 10 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 9 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 8 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 7 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
-Colour: ffff00
+Colour: ff0000
 EndChar
 
 StartChar: afii10029
@@ -10576,7 +10576,7 @@ EndSplineSet
 Refer: 42 1050 N 1 0 0 1 0 0 3
 Validated: 524297
 Layer: 2
-Colour: ffff00
+Colour: ff0000
 EndChar
 
 StartChar: afii10052
