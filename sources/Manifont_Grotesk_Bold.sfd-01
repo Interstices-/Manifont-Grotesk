@@ -1691,7 +1691,7 @@ EndChar
 StartChar: afii10097
 Encoding: 1103 1103 31
 Width: 1000
-Flags: HM
+Flags: HMO
 LayerCount: 4
 Back
 SplineSet
