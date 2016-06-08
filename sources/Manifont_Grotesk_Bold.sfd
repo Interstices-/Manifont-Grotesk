@@ -23,7 +23,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911142
-ModificationTime: 1465384619
+ModificationTime: 1465385009
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -64,8 +64,7 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "ManifontGroteskBold" "" "" "" "Alexandre Liziard and Etienne Ozeray" "Alexandre Liziard and Etienne Ozeray" "Copyright (c) 2015 by interstices.io. All rights reserved." "" "http://interstices.io" "Copyright (c) 2015, interstices.io,+AAoA-with Reserved Font Name Vremena Grotesk Bold.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Manifont Grotesk" "Bold"
 OtfFeatName: 'ss01' 1033 "ManifontGroteskBold"
-Encoding: UnicodeBmp
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
@@ -143,10 +142,10 @@ Grid
 2000 52 m 1024
 EndSplineSet
 TeXData: 1 0 0 291504 145752 97168 544981 1048576 97168 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65538 365
+BeginChars: 366 366
 
 StartChar: arrowright
-Encoding: 8594 8594 0
+Encoding: 348 8594 0
 Width: 1066
 Flags: W
 HStem: 201.155 124.84<50 686.427>
@@ -182,7 +181,7 @@ Validated: 1
 EndChar
 
 StartChar: arrowleft
-Encoding: 8592 8592 1
+Encoding: 346 8592 1
 Width: 1066
 Flags: W
 HStem: 201.155 124.84<379.679 1016.11>
@@ -218,7 +217,7 @@ Validated: 1
 EndChar
 
 StartChar: arrowdown
-Encoding: 8595 8595 2
+Encoding: 349 8595 2
 Width: 615
 Flags: W
 VStem: 245.214 124.84<85.2197 712.959>
@@ -241,7 +240,7 @@ Validated: 1
 EndChar
 
 StartChar: space
-Encoding: 32 32 3
+Encoding: 0 32 3
 Width: 278
 Flags: W
 LayerCount: 4
@@ -250,7 +249,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10069
-Encoding: 1076 1076 4
+Encoding: 282 1076 4
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -306,7 +305,7 @@ Kerns2: 139 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10070
-Encoding: 1077 1077 5
+Encoding: 283 1077 5
 Width: 557
 Flags: HMW
 LayerCount: 4
@@ -359,7 +358,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10072
-Encoding: 1078 1078 6
+Encoding: 284 1078 6
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -457,7 +456,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10073
-Encoding: 1079 1079 7
+Encoding: 285 1079 7
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -523,7 +522,7 @@ Kerns2: 21 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 
 EndChar
 
 StartChar: afii10074
-Encoding: 1080 1080 8
+Encoding: 286 1080 8
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -560,7 +559,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10075
-Encoding: 1081 1081 9
+Encoding: 287 1081 9
 Width: 1001
 Flags: HMW
 LayerCount: 4
@@ -613,7 +612,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10076
-Encoding: 1082 1082 10
+Encoding: 288 1082 10
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -676,7 +675,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10077
-Encoding: 1083 1083 11
+Encoding: 289 1083 11
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -720,7 +719,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10078
-Encoding: 1084 1084 12
+Encoding: 290 1084 12
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -763,7 +762,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10079
-Encoding: 1085 1085 13
+Encoding: 291 1085 13
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -804,7 +803,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10080
-Encoding: 1086 1086 14
+Encoding: 292 1086 14
 Width: 566
 Flags: HMW
 LayerCount: 4
@@ -848,7 +847,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10081
-Encoding: 1087 1087 15
+Encoding: 293 1087 15
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -881,7 +880,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10082
-Encoding: 1088 1088 16
+Encoding: 294 1088 16
 Width: 582
 Flags: HMW
 LayerCount: 4
@@ -935,7 +934,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10083
-Encoding: 1089 1089 17
+Encoding: 295 1089 17
 Width: 519
 Flags: HMW
 LayerCount: 4
@@ -981,7 +980,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10084
-Encoding: 1090 1090 18
+Encoding: 296 1090 18
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -1015,7 +1014,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10085
-Encoding: 1091 1091 19
+Encoding: 297 1091 19
 Width: 536
 Flags: HMW
 LayerCount: 4
@@ -1058,7 +1057,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10086
-Encoding: 1092 1092 20
+Encoding: 298 1092 20
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1139,7 +1138,7 @@ Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10087
-Encoding: 1093 1093 21
+Encoding: 299 1093 21
 Width: 485
 Flags: HMW
 LayerCount: 4
@@ -1181,7 +1180,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10088
-Encoding: 1094 1094 22
+Encoding: 300 1094 22
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -1222,7 +1221,7 @@ Kerns2: 139 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10089
-Encoding: 1095 1095 23
+Encoding: 301 1095 23
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1266,7 +1265,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10090
-Encoding: 1096 1096 24
+Encoding: 302 1096 24
 Width: 1000
 Flags: HMW
 CounterMasks: 1 38
@@ -1308,7 +1307,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10091
-Encoding: 1097 1097 25
+Encoding: 303 1097 25
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -1358,7 +1357,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10092
-Encoding: 1098 1098 26
+Encoding: 304 1098 26
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1409,7 +1408,7 @@ Kerns2: 177 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10093
-Encoding: 1099 1099 27
+Encoding: 305 1099 27
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1465,7 +1464,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10094
-Encoding: 1100 1100 28
+Encoding: 306 1100 28
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1512,7 +1511,7 @@ Kerns2: 177 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10095
-Encoding: 1101 1101 29
+Encoding: 307 1101 29
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1563,7 +1562,7 @@ Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10096
-Encoding: 1102 1102 30
+Encoding: 308 1102 30
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1620,7 +1619,7 @@ Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10097
-Encoding: 1103 1103 31
+Encoding: 309 1103 31
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1675,7 +1674,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10017
-Encoding: 1040 1040 32
+Encoding: 246 1040 32
 Width: 692
 Flags: MW
 HStem: -8.24609 21G<100.705 158.305 531.85 590.233> 129.898 132.06<250.107 440.192> 700.163 20G<269.174 428.952>
@@ -1735,7 +1734,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10018
-Encoding: 1041 1041 33
+Encoding: 247 1041 33
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1786,7 +1785,7 @@ Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10019
-Encoding: 1042 1042 34
+Encoding: 248 1042 34
 Width: 711
 Flags: HMW
 LayerCount: 4
@@ -1850,7 +1849,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10020
-Encoding: 1043 1043 35
+Encoding: 249 1043 35
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -1880,7 +1879,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10021
-Encoding: 1044 1044 36
+Encoding: 250 1044 36
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -1935,7 +1934,7 @@ Kerns2: 199 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10022
-Encoding: 1045 1045 37
+Encoding: 251 1045 37
 Width: 667
 Flags: HMW
 LayerCount: 4
@@ -1977,7 +1976,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10024
-Encoding: 1046 1046 38
+Encoding: 252 1046 38
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -2078,7 +2077,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10025
-Encoding: 1047 1047 39
+Encoding: 253 1047 39
 Width: 627
 Flags: HMW
 LayerCount: 4
@@ -2140,7 +2139,7 @@ Kerns2: 208 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10026
-Encoding: 1048 1048 40
+Encoding: 254 1048 40
 Width: 769
 Flags: HMW
 LayerCount: 4
@@ -2176,7 +2175,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10027
-Encoding: 1049 1049 41
+Encoding: 255 1049 41
 Width: 769
 Flags: HMW
 LayerCount: 4
@@ -2229,7 +2228,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10028
-Encoding: 1050 1050 42
+Encoding: 256 1050 42
 Width: 674
 Flags: HMW
 LayerCount: 4
@@ -2292,7 +2291,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10029
-Encoding: 1051 1051 43
+Encoding: 257 1051 43
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -2337,7 +2336,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10030
-Encoding: 1052 1052 44
+Encoding: 258 1052 44
 Width: 923
 Flags: HMW
 LayerCount: 4
@@ -2379,7 +2378,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10031
-Encoding: 1053 1053 45
+Encoding: 259 1053 45
 Width: 800
 Flags: HMW
 LayerCount: 4
@@ -2419,7 +2418,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10032
-Encoding: 1054 1054 46
+Encoding: 260 1054 46
 Width: 764
 Flags: HMW
 LayerCount: 4
@@ -2463,7 +2462,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10033
-Encoding: 1055 1055 47
+Encoding: 261 1055 47
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -2496,7 +2495,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10034
-Encoding: 1056 1056 48
+Encoding: 262 1056 48
 Width: 672
 Flags: HMW
 LayerCount: 4
@@ -2544,7 +2543,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10035
-Encoding: 1057 1057 49
+Encoding: 263 1057 49
 Width: 720
 Flags: HMW
 LayerCount: 4
@@ -2590,7 +2589,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10036
-Encoding: 1058 1058 50
+Encoding: 264 1058 50
 Width: 664
 Flags: HMW
 LayerCount: 4
@@ -2624,7 +2623,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10037
-Encoding: 1059 1059 51
+Encoding: 265 1059 51
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -2669,7 +2668,7 @@ Kerns2: 214 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 2
 EndChar
 
 StartChar: afii10038
-Encoding: 1060 1060 52
+Encoding: 266 1060 52
 Width: 1000
 Flags: HM
 CounterMasks: 1 0e
@@ -2731,7 +2730,7 @@ Kerns2: 214 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 2
 EndChar
 
 StartChar: afii10039
-Encoding: 1061 1061 53
+Encoding: 267 1061 53
 Width: 629
 Flags: HMW
 LayerCount: 4
@@ -2773,7 +2772,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10040
-Encoding: 1062 1062 54
+Encoding: 268 1062 54
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -2815,7 +2814,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10041
-Encoding: 1063 1063 55
+Encoding: 269 1063 55
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -2859,7 +2858,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10042
-Encoding: 1064 1064 56
+Encoding: 270 1064 56
 Width: 1000
 Flags: HMW
 CounterMasks: 1 38
@@ -2901,7 +2900,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10043
-Encoding: 1065 1065 57
+Encoding: 271 1065 57
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -2951,7 +2950,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10044
-Encoding: 1066 1066 58
+Encoding: 272 1066 58
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -3002,7 +3001,7 @@ Kerns2: 178 -60 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5
 EndChar
 
 StartChar: afii10045
-Encoding: 1067 1067 59
+Encoding: 273 1067 59
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -3058,7 +3057,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10046
-Encoding: 1068 1068 60
+Encoding: 274 1068 60
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -3105,7 +3104,7 @@ Kerns2: 178 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 5
 EndChar
 
 StartChar: afii10047
-Encoding: 1069 1069 61
+Encoding: 275 1069 61
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -3159,7 +3158,7 @@ Kerns2: 214 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 2
 EndChar
 
 StartChar: afii10048
-Encoding: 1070 1070 62
+Encoding: 276 1070 62
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -3216,7 +3215,7 @@ Kerns2: 214 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 2
 EndChar
 
 StartChar: afii10049
-Encoding: 1071 1071 63
+Encoding: 277 1071 63
 Width: 669
 Flags: HMW
 LayerCount: 4
@@ -3272,7 +3271,7 @@ Colour: ffff00
 EndChar
 
 StartChar: a
-Encoding: 97 97 64
+Encoding: 65 97 64
 Width: 550
 VWidth: 964
 Flags: HMW
@@ -3340,7 +3339,7 @@ Colour: ffff
 EndChar
 
 StartChar: b
-Encoding: 98 98 65
+Encoding: 66 98 65
 Width: 580
 Flags: HMW
 HStem: 1.69949 119.266<302.174 328.889 272.595 389.477> 16.0114 104.954<66.9808 328.889> 407.205 119.266<305.513 330.32> 683.902 19.0826G<66.9808 210.1 210.1 210.1>
@@ -3396,7 +3395,7 @@ Colour: ffff
 EndChar
 
 StartChar: c
-Encoding: 99 99 66
+Encoding: 67 99 66
 Width: 519
 Flags: HMW
 HStem: -2346.04 1184.91<81.0144 616.594 81.0144 919.93> 1682.65 1184.91<95.2339 616.594>
@@ -3444,7 +3443,7 @@ Colour: ffff
 EndChar
 
 StartChar: d
-Encoding: 100 100 67
+Encoding: 68 100 67
 Width: 580
 Flags: HMW
 HStem: 1.69949 119.266<251.815 278.531> 16.0114 104.954<251.815 513.724 251.815 380.146> 407.205 119.266<250.384 275.191 195.999 311.449> 683.902 19.0826G<370.604 513.724 513.724 513.724>
@@ -3523,7 +3522,7 @@ Colour: ffff
 EndChar
 
 StartChar: e
-Encoding: 101 101 68
+Encoding: 69 101 68
 Width: 557
 Flags: HMW
 HStem: -2.38475 119.266<254.946 309.808 254.946 337.002> 218.973 97.3213<176.231 370.873 176.231 514.946 174.322 370.873> 403.12 119.266<249.699 301.221>
@@ -3577,7 +3576,7 @@ Colour: ffff
 EndChar
 
 StartChar: f
-Encoding: 102 102 69
+Encoding: 70 102 69
 Width: 385
 Flags: HMW
 HStem: 16.9226 20.0367G<102.239 242.497 102.239 102.239> 399.528 113.542<27.8173 102.239 27.8173 102.239 242.497 348.405> 592.262 122.129<202.423 301.652>
@@ -3633,7 +3632,7 @@ Colour: ffff
 EndChar
 
 StartChar: g
-Encoding: 103 103 70
+Encoding: 71 103 70
 Width: 580
 Flags: HMW
 HStem: -210.158 116.052<243.618 307.147 243.618 361.171> -5.06584 125.056<249.621 275.633> 410.121 110.05<251.122 525.745> 410.121 125.056<251.122 279.134 187.593 310.148>
@@ -3700,7 +3699,7 @@ Colour: ffff
 EndChar
 
 StartChar: h
-Encoding: 104 104 71
+Encoding: 72 104 71
 Width: 583
 Flags: HMW
 HStem: 23.2485 19.6439G<70.5449 210.858 70.5449 70.5449 374.557 374.557 374.557 514.869> 405.836 117.863<309.077 326.85> 678.043 18.7084G<70.5449 210.858 210.858 210.858>
@@ -3747,7 +3746,7 @@ Colour: ffff
 EndChar
 
 StartChar: i
-Encoding: 105 105 72
+Encoding: 73 105 72
 Width: 261
 Flags: HMW
 HStem: -0.164825 21.0095G<55.3049 205.372 55.3049 55.3049> 500.06 20.009G<55.3049 205.372 205.372 205.372> 584.098 136.061<55.3049 205.372 55.3049 205.372>
@@ -3789,7 +3788,7 @@ Colour: ffff
 EndChar
 
 StartChar: j
-Encoding: 106 106 73
+Encoding: 74 106 73
 Width: 247
 Flags: HMW
 HStem: -208.713 131.636<16.1549 21.1411 -12.7651 83.9672> 499.328 19.9448G<55.0473 204.634 204.634 204.634> 583.096 135.625<55.0473 204.634 55.0473 204.634>
@@ -3841,7 +3840,7 @@ Colour: ffff
 EndChar
 
 StartChar: k
-Encoding: 107 107 74
+Encoding: 75 107 74
 Width: 1000
 Flags: HMW
 HStem: -0.163847 21.0095G<55.3298 55.3298 55.3298 205.397 381.476 381.476 381.476 546.551> 199.926 125.056<205.397 227.407 205.397 227.407> 387.01 133.06<476.019 524.541 493.527 509.534> 700.151 20.009G<55.3298 205.397 205.397 205.397>
@@ -3904,7 +3903,7 @@ Colour: ffff
 EndChar
 
 StartChar: l
-Encoding: 108 108 75
+Encoding: 76 108 75
 Width: 261
 Flags: HMW
 HStem: -25.2 22.47G<50.8192 211.319 50.8192 50.8192> 739.85 21.4G<211.319 211.319>
@@ -3931,7 +3930,7 @@ Colour: ffff
 EndChar
 
 StartChar: m
-Encoding: 109 109 76
+Encoding: 77 109 76
 Width: 869
 Flags: HMW
 HStem: 17.4364 19.6439G<81.9568 222.27 81.9568 81.9568 362.584 362.584 362.584 502.896 642.274 642.274 642.274 782.587> 400.024 103.832<81.9568 321.425> 400.024 117.863<319.086 321.425 599.713 606.26>
@@ -3996,7 +3995,7 @@ Colour: ffff
 EndChar
 
 StartChar: n
-Encoding: 110 110 77
+Encoding: 78 110 77
 Width: 588
 Flags: HMW
 HStem: -0.127484 21.0095G<56.2813 206.349 56.2813 56.2813 381.428 381.428 381.428 531.495> 409.057 111.05<56.2813 330.405> 409.057 126.057<311.396 330.405>
@@ -4043,7 +4042,7 @@ Colour: ffff
 EndChar
 
 StartChar: o
-Encoding: 111 111 78
+Encoding: 79 111 78
 Width: 566
 Flags: HMW
 HStem: -15.1238 125.056<248.01 317.041 248.01 352.057> 410.068 125.056<248.01 317.041>
@@ -4089,7 +4088,7 @@ Colour: ffff
 EndChar
 
 StartChar: p
-Encoding: 112 112 79
+Encoding: 80 112 79
 Width: 582
 Flags: HMW
 HStem: -207.592 21.4296G<50.1663 203.236 50.1663 50.1663> -18.807 127.557<305.282 331.814 266.505 389.98> 414.888 112.25<50.1663 330.283> 414.888 127.557<301.71 330.283>
@@ -4145,7 +4144,7 @@ Colour: ffff
 EndChar
 
 StartChar: q
-Encoding: 113 113 80
+Encoding: 81 113 80
 Width: 582
 Flags: HMW
 HStem: -200.173 21.0095G<377.4 527.468 377.4 377.4> -15.089 125.056<251.343 277.355> 410.102 110.05<252.844 527.468> 410.102 125.056<252.844 280.857 189.315 311.871>
@@ -4200,7 +4199,7 @@ Colour: ffff
 EndChar
 
 StartChar: r
-Encoding: 114 114 81
+Encoding: 82 114 81
 Width: 444
 Flags: HMW
 HStem: 12.3835 20.0367G<61.6539 204.774 61.6539 61.6539> 389.264 119.266<61.6539 342.645> 389.264 133.578<295.893 342.645>
@@ -4242,7 +4241,7 @@ Colour: ffff
 EndChar
 
 StartChar: s
-Encoding: 115 115 82
+Encoding: 83 115 82
 Width: 469
 Flags: HMW
 HStem: -2.38643 109.725<204.772 251.047 204.772 287.782> 412.66 109.725<206.204 243.415>
@@ -4306,7 +4305,7 @@ Colour: ffff
 EndChar
 
 StartChar: t
-Encoding: 116 116 83
+Encoding: 84 116 83
 Width: 395
 Flags: HMW
 HStem: 5.4325 124.037<191.621 291.327> 397.58 113.542<27.9876 98.5932 27.9876 98.5932 241.712 336.172> 635.158 19.0826G<241.712 241.712>
@@ -4360,7 +4359,7 @@ Colour: ffff
 EndChar
 
 StartChar: u
-Encoding: 117 117 84
+Encoding: 85 117 84
 Width: 584
 Flags: HMW
 HStem: 2.11355 117.863<255.685 273.457> 16.1449 103.832<255.685 511.99 255.685 380.096> 483.855 18.7084G<67.6648 207.978 207.978 207.978 371.677 511.99 511.99 511.99>
@@ -4407,7 +4406,7 @@ Colour: ffff
 EndChar
 
 StartChar: v
-Encoding: 118 118 85
+Encoding: 86 118 85
 Width: 541
 Flags: HMW
 HStem: -0.118903 21.0095G<207.023 339.082 207.023 207.023> 500.106 20.009G<-5.07271 146.996 146.996 146.996 400.109 550.177 550.177 550.177>
@@ -4440,7 +4439,7 @@ Colour: ffff
 EndChar
 
 StartChar: w
-Encoding: 119 119 86
+Encoding: 87 119 86
 Width: 775
 Flags: HMW
 HStem: -0.1188 21.0095G<159.067 292.127 159.067 159.067 480.212 480.212 480.212 611.271> 500.106 20.009G<1.99642 153.064 153.064 153.064 323.141 454.2 454.2 454.2 628.278 773.343 773.343 773.343>
@@ -4485,7 +4484,7 @@ Colour: ffff
 EndChar
 
 StartChar: x
-Encoding: 120 120 87
+Encoding: 88 120 87
 Width: 485
 Flags: HMW
 HStem: -18.2 22.47G<-47.9025 136.138 -47.9025 -47.9025 344.788 344.788 344.788 535.248> 516.8 21.4G<-35.0625 158.608 158.608 158.608 339.438 520.268 520.268 520.268>
@@ -4528,7 +4527,7 @@ Colour: ffff
 EndChar
 
 StartChar: y
-Encoding: 121 121 88
+Encoding: 89 121 88
 Width: 536
 Flags: HMW
 HStem: -210.165 134.06<116.491 128.497 91.4801 182.521> 500.154 20.009G<-3.06238 150.006 150.006 150.006 389.114 537.181 537.181 537.181>
@@ -4571,7 +4570,7 @@ Colour: ffff
 EndChar
 
 StartChar: z
-Encoding: 122 122 89
+Encoding: 90 122 89
 Width: 504
 Flags: HMW
 HStem: -18.2 133.75<208.228 484.288 19.9077 19.9077> 404.45 133.75<40.2377 284.198 40.2377 477.868 40.2377 477.868>
@@ -4610,7 +4609,7 @@ Colour: ffff
 EndChar
 
 StartChar: A
-Encoding: 65 65 90
+Encoding: 33 65 90
 Width: 692
 Flags: HW
 HStem: -8.24609 21G<100.705 158.305 531.85 590.233> 129.898 132.06<250.107 440.192> 700.163 20G<269.174 428.952>
@@ -4686,7 +4685,7 @@ Colour: ffff
 EndChar
 
 StartChar: B
-Encoding: 66 66 91
+Encoding: 34 66 91
 Width: 711
 Flags: HMW
 HStem: 16.515 119.266<231.9 373.111 373.111 382.652> 307.524 119.266<231.9 354.982 231.9 354.982 354.982 360.707> 584.221 119.266<231.9 231.9 231.9 343.532>
@@ -4751,7 +4750,7 @@ Colour: ffff
 EndChar
 
 StartChar: C
-Encoding: 67 67 92
+Encoding: 35 67 92
 Width: 720
 Flags: HMW
 HStem: 9.20904 130.959<341.056 428.986 341.056 473.418> 579.816 130.959<336.379 424.308>
@@ -4798,7 +4797,7 @@ Colour: ffff
 EndChar
 
 StartChar: D
-Encoding: 68 68 93
+Encoding: 36 68 93
 Width: 714
 Flags: HMW
 HStem: -0.162935 144.065<229.66 294.689 294.689 319.701> 575.096 145.065<229.66 229.66 229.66 291.688>
@@ -4844,7 +4843,7 @@ Colour: ffff
 EndChar
 
 StartChar: E
-Encoding: 69 69 94
+Encoding: 37 69 94
 Width: 667
 Flags: HMW
 HStem: 23.2485 135.636<237.128 589.781 237.128 589.781> 299.198 135.636<237.128 533.656 237.128 533.656> 561.115 135.636<237.128 580.427 237.128 237.128>
@@ -4888,7 +4887,7 @@ Colour: ffff
 EndChar
 
 StartChar: F
-Encoding: 70 70 95
+Encoding: 38 70 95
 Width: 637
 Flags: HMW
 HStem: -0.162 21.0095G<69.9999 230.072 69.9999 69.9999> 294.971 145.065<230.072 507.196 230.072 507.196> 575.097 145.065<230.072 587.232 230.072 230.072>
@@ -4928,7 +4927,7 @@ Colour: ffff
 EndChar
 
 StartChar: G
-Encoding: 71 71 96
+Encoding: 39 71 96
 Width: 759
 Flags: HMW
 HStem: 2.197 133.578<339.02 433.002 339.02 457.809> 265.536 118.312<393.405 534.616 393.405 684.415> 584.216 133.578<334.249 428.708>
@@ -4981,7 +4980,7 @@ Colour: ffff
 EndChar
 
 StartChar: H
-Encoding: 72 72 97
+Encoding: 40 72 97
 Width: 800
 Flags: HMW
 HStem: -25.2 22.47G<69.9997 241.2 69.9997 69.9997 558.99 558.99 558.99 730.19> 290.45 155.15<241.2 558.99 241.2 558.99> 723.8 21.4G<69.9997 241.2 241.2 241.2 558.99 730.19 730.19 730.19>
@@ -5023,7 +5022,7 @@ Colour: ffff
 EndChar
 
 StartChar: I
-Encoding: 73 73 98
+Encoding: 41 73 98
 Width: 300
 Flags: HMW
 HStem: -0.162 21.0095G<69.9992 230.071 69.9992 69.9992> 700.153 20.009G<69.9992 230.071 230.071 230.071>
@@ -5050,7 +5049,7 @@ Colour: ffff
 EndChar
 
 StartChar: J
-Encoding: 74 74 99
+Encoding: 42 74 99
 Width: 572
 Flags: HMW
 HStem: 8.50685 130.959<228.24 294.186 228.24 323.184> 677.333 18.7084G<337.216 487.818 487.818 487.818>
@@ -5089,7 +5088,7 @@ Colour: ffff
 EndChar
 
 StartChar: K
-Encoding: 75 75 100
+Encoding: 43 75 100
 Width: 674
 Flags: HMW
 HStem: -25.1949 22.47G<50.0389 221.239 50.0389 50.0389 515.489 515.489 515.489 724.139> 723.805 21.4G<50.0389 221.239 221.239 221.239 507.999 713.439 713.439 713.439>
@@ -5133,7 +5132,7 @@ Colour: ffff
 EndChar
 
 StartChar: L
-Encoding: 76 76 101
+Encoding: 44 76 101
 Width: 638
 Flags: HMW
 HStem: -0.162 145.065<230.072 608.242 230.072 608.242> 700.153 20.009G<70 230.072 230.072 230.072>
@@ -5165,7 +5164,7 @@ Colour: ffff
 EndChar
 
 StartChar: M
-Encoding: 77 77 102
+Encoding: 45 77 102
 Width: 923
 Flags: HMW
 HStem: -25.2 22.47G<42.7718 213.972 42.7718 42.7718 389.452 389.452 389.452 533.902 709.382 709.382 709.382 880.582> 723.8 21.4G<42.7718 256.772 256.772 256.772 666.582 880.582 880.582 880.582>
@@ -5210,7 +5209,7 @@ Colour: ffff
 EndChar
 
 StartChar: N
-Encoding: 78 78 103
+Encoding: 46 78 103
 Width: 769
 Flags: HMW
 HStem: -0.162 21.0095G<70.0001 226.071 70.0001 70.0001 537.211 537.211 537.211 699.284> 700.153 20.009G<70.0001 232.073 232.073 232.073 543.213 699.284 699.284 699.284>
@@ -5249,7 +5248,7 @@ Colour: ffff
 EndChar
 
 StartChar: O
-Encoding: 79 79 104
+Encoding: 47 79 104
 Width: 764
 Flags: HMW
 HStem: 2.19981 133.578<330.224 434.7 330.224 487.177> 584.219 133.578<330.224 434.7>
@@ -5295,7 +5294,7 @@ Colour: ffff
 EndChar
 
 StartChar: P
-Encoding: 80 80 105
+Encoding: 48 80 105
 Width: 672
 Flags: HMW
 HStem: 16.5136 20.0367G<83.227 235.887 83.227 83.227> 235.963 133.578<235.887 340.842 340.842 353.246 235.887 340.842> 569.908 133.578<235.887 235.887 235.887 338.933>
@@ -5345,7 +5344,7 @@ Colour: ffff
 EndChar
 
 StartChar: Q
-Encoding: 81 81 106
+Encoding: 49 81 106
 Width: 764
 Flags: HMW
 HStem: -40.6015 20.0367G<596.387 596.387> 1.38015 133.578<332.094 393.157 332.094 412.24> 583.399 133.578<332.094 436.57>
@@ -5405,7 +5404,7 @@ Colour: ffff
 EndChar
 
 StartChar: R
-Encoding: 82 82 107
+Encoding: 50 82 107
 Width: 679
 Flags: HMW
 HStem: 16.2984 20.0367G<83.1503 83.1503 83.1503 235.811 489.609 489.609 489.609 669.94> 254.83 128.807<235.811 276.838 235.811 302.6> 564.922 138.349<235.811 235.811 235.811 300.691>
@@ -5463,7 +5462,7 @@ Colour: ffff
 EndChar
 
 StartChar: S
-Encoding: 83 83 108
+Encoding: 51 83 108
 Width: 618
 Flags: HMW
 HStem: 2.20392 133.578<266.569 336.698 266.569 375.339> 2.20392 237.578 503.122 214.679 584.223 133.578<262.752 330.496>
@@ -5528,7 +5527,7 @@ Colour: ffff
 EndChar
 
 StartChar: T
-Encoding: 84 84 109
+Encoding: 52 84 109
 Width: 664
 Flags: HMW
 HStem: -0.162 21.0095G<252.1 412.172 252.1 252.1> 575.097 145.065<29.9998 252.1 29.9998 634.272 412.172 412.172 412.172 634.272>
@@ -5564,7 +5563,7 @@ Colour: ffff
 EndChar
 
 StartChar: U
-Encoding: 85 85 110
+Encoding: 53 85 110
 Width: 752
 Flags: HMW
 HStem: 46.4756 120.948<337.841 415.415 337.841 458.79> 642.874 16.6825G<120.553 254.012 254.012 254.012 498.41 631.87 631.87 631.87>
@@ -5607,7 +5606,7 @@ Colour: ffff
 EndChar
 
 StartChar: V
-Encoding: 86 86 111
+Encoding: 54 86 111
 Width: 704
 Flags: HMW
 HStem: -0.163774 21.0095G<278.118 420.182 278.118 278.118> 700.151 20.009G<-2.00793 163.066 163.066 163.066 545.238 708.311 708.311 708.311>
@@ -5640,7 +5639,7 @@ Colour: ffff
 EndChar
 
 StartChar: W
-Encoding: 87 87 112
+Encoding: 55 87 112
 Width: 1019
 Flags: HMW
 HStem: -0.163774 21.0095G<182.076 372.161 182.076 182.076 646.284 646.284 646.284 836.37> 700.151 20.009G<8.99746 176.073 176.073 176.073 417.181 601.264 601.264 601.264 843.373 1009.44 1009.44 1009.44>
@@ -5685,7 +5684,7 @@ Colour: ffff
 EndChar
 
 StartChar: X
-Encoding: 88 88 113
+Encoding: 56 88 113
 Width: 629
 Flags: HMW
 HStem: -25.1949 22.47G<-57.1922 139.688 -57.1922 -57.1922 482.088 482.088 482.088 683.248> 723.805 21.4G<-37.9322 173.928 173.928 173.928 482.088 677.898 677.898 677.898>
@@ -5728,7 +5727,7 @@ Colour: ffff
 EndChar
 
 StartChar: Y
-Encoding: 89 89 114
+Encoding: 57 89 114
 Width: 621
 Flags: HMW
 HStem: -25.4778 22.47G<223.431 395.701 223.431 223.431> 723.522 21.4G<-56.9093 130.341 130.341 130.341 494.141 676.041 676.041 676.041>
@@ -5766,7 +5765,7 @@ Colour: ffff
 EndChar
 
 StartChar: Z
-Encoding: 90 90 115
+Encoding: 58 90 115
 Width: 662
 Flags: HMW
 HStem: -25.2 155.15<216.636 631.796 30.456 30.456> 590.05 155.15<51.856 429.566 51.856 621.096 51.856 621.096>
@@ -5805,7 +5804,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10068
-Encoding: 1075 1075 116
+Encoding: 281 1075 116
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -5835,7 +5834,7 @@ Colour: ffff00
 EndChar
 
 StartChar: zero
-Encoding: 48 48 117
+Encoding: 16 48 117
 Width: 601
 VWidth: 958
 InSpiro: 1
@@ -5932,7 +5931,7 @@ Colour: ffff
 EndChar
 
 StartChar: one
-Encoding: 49 49 118
+Encoding: 17 49 118
 Width: 610
 Flags: HMW
 HStem: -0.162007 21.0095G<274.066 429.136 274.066 274.066> 700.153 20.009G<325.089 429.136 429.136 429.136>
@@ -5976,7 +5975,7 @@ Colour: ffff
 EndChar
 
 StartChar: two
-Encoding: 50 50 119
+Encoding: 18 50 119
 Width: 605
 Flags: HMW
 HStem: -25.873 155.15<241.902 544.712 241.902 544.712> 610.777 149.8<276.677 325.362>
@@ -6027,7 +6026,7 @@ Colour: ffff
 EndChar
 
 StartChar: three
-Encoding: 51 51 120
+Encoding: 19 51 120
 Width: 603
 Flags: HMW
 HStem: -15.1688 140.063<266.789 316.311 266.789 360.831> 325.985 135.061<228.772 280.795 228.772 280.795> 608.111 127.057<264.788 306.807>
@@ -6092,7 +6091,7 @@ Colour: ffff
 EndChar
 
 StartChar: four
-Encoding: 52 52 121
+Encoding: 20 52 121
 Width: 596
 VWidth: 958
 Flags: HMW
@@ -6142,7 +6141,7 @@ Colour: ffff
 EndChar
 
 StartChar: five
-Encoding: 53 53 122
+Encoding: 21 53 122
 Width: 604
 Flags: HMW
 HStem: -15.1638 140.063<250.085 312.613 250.085 359.134> 365.007 140.063<281.599 312.113> 575.101 145.065<220.071 493.194 220.071 220.071>
@@ -6199,7 +6198,7 @@ Colour: ffff
 EndChar
 
 StartChar: six
-Encoding: 54 54 123
+Encoding: 22 54 123
 Width: 614
 Flags: HMW
 HStem: -15.1688 140.063<282.165 340.691 282.165 393.215> 326.985 135.061<302.174 340.691> 600.108 135.061<286.167 341.692>
@@ -6259,7 +6258,7 @@ Colour: ffff
 EndChar
 
 StartChar: seven
-Encoding: 55 55 124
+Encoding: 23 55 124
 Width: 586
 Flags: HMW
 HStem: -0.160186 21.0095G<160.045 316.115 160.045 160.045> 575.099 145.065<60.0004 371.14 60.0004 531.212 60.0004 531.212>
@@ -6294,7 +6293,7 @@ Colour: ffff
 EndChar
 
 StartChar: eight
-Encoding: 56 56 125
+Encoding: 24 56 125
 Width: 613
 Flags: HMW
 HStem: -15.1688 140.063<274.455 325.478 274.455 369.998> 325.984 125.056<278.957 320.976 278.957 325.478> 605.11 130.059<278.957 320.976>
@@ -6365,7 +6364,7 @@ Colour: ffff
 EndChar
 
 StartChar: nine
-Encoding: 57 57 126
+Encoding: 25 57 126
 Width: 614
 Flags: HMW
 HStem: -15.1688 135.061<280.852 336.377 280.852 379.397> 257.954 135.061<271.848 310.366> 595.105 140.063<271.848 330.375>
@@ -6424,7 +6423,7 @@ Colour: ffff
 EndChar
 
 StartChar: comma
-Encoding: 44 44 127
+Encoding: 12 44 127
 Width: 257
 Flags: HMW
 HStem: -160.201 21.4296G<106.61 106.61> 0.0109688 153.069<51.5051 130.081 51.5051 205.595 51.5051 205.595>
@@ -6471,7 +6470,7 @@ Colour: ffff
 EndChar
 
 StartChar: period
-Encoding: 46 46 128
+Encoding: 14 46 128
 Width: 266
 Flags: HMW
 HStem: -6.86008 163.71<42.766 207.567 42.766 207.567>
@@ -6508,7 +6507,7 @@ Colour: ffff
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 129
+Encoding: 13 45 129
 Width: 370
 VWidth: 951
 Flags: HMW
@@ -6536,7 +6535,7 @@ Colour: ffff
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 130
+Encoding: 328 8211 130
 Width: 556
 Flags: HMW
 HStem: 195.625 133.75<12.64 543.36 12.64 543.36>
@@ -6562,7 +6561,7 @@ Kerns2: 340 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 3
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 131
+Encoding: 329 8212 131
 Width: 800
 Flags: HMW
 HStem: 199.972 125.056<-0.0003125 800.36 -0.0003125 800.36>
@@ -6588,7 +6587,7 @@ Kerns2: 340 -32 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 3
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 132
+Encoding: 1 33 132
 Width: 261
 Flags: HMW
 HStem: -0.160872 150.067<55.2874 206.355 55.2874 206.355> 700.154 20.009G<51.2856 210.357 210.357 210.357>
@@ -6629,7 +6628,7 @@ Colour: ffff
 EndChar
 
 StartChar: question
-Encoding: 63 63 133
+Encoding: 31 63 133
 Width: 599
 VWidth: 959
 Flags: HMW
@@ -6695,7 +6694,7 @@ Colour: ffff
 EndChar
 
 StartChar: .grave
-Encoding: 65536 -1 134
+Encoding: 363 -1 134
 Width: 500
 Flags: HMW
 HStem: -34.25 80.25<4330.24 4405.14 4330.24 4432.43> 474 80.25<4335.6 4405.14>
@@ -6757,7 +6756,7 @@ Validated: 5
 EndChar
 
 StartChar: afii10065
-Encoding: 1072 1072 135
+Encoding: 278 1072 135
 Width: 550
 VWidth: 964
 Flags: HMW
@@ -6823,7 +6822,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10066
-Encoding: 1073 1073 136
+Encoding: 279 1073 136
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -6884,7 +6883,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10067
-Encoding: 1074 1074 137
+Encoding: 280 1074 137
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -6947,7 +6946,7 @@ Kerns2: 21 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 4 
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 138
+Encoding: 108 183 138
 Width: 251
 Flags: HMW
 HStem: 185.465 153.069<48.4554 202.545 48.4554 202.545>
@@ -6980,7 +6979,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10071
-Encoding: 1105 1105 139
+Encoding: 311 1105 139
 Width: 557
 Flags: HMW
 LayerCount: 4
@@ -7039,7 +7038,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10023
-Encoding: 1025 1025 140
+Encoding: 231 1025 140
 Width: 667
 Flags: HMW
 LayerCount: 4
@@ -7099,7 +7098,7 @@ Colour: ffff00
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 141
+Encoding: 63 95 141
 Width: 656
 VWidth: 939
 Flags: HMW
@@ -7126,7 +7125,7 @@ Colour: ffff
 EndChar
 
 StartChar: colon
-Encoding: 58 58 142
+Encoding: 26 58 142
 Width: 271
 Flags: HMW
 HStem: 32.7756 163.71<53.6882 218.49 53.6882 218.49> 327.454 163.71<53.6882 218.49 53.6882 218.49>
@@ -7173,7 +7172,7 @@ Colour: ffff
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 143
+Encoding: 339 8230 143
 Width: 671
 Flags: HMW
 HStem: -6.86008 163.71<23.9053 188.707 23.9053 188.707 23.9053 253.099 253.099 417.901 482.293 647.095>
@@ -7235,7 +7234,7 @@ Validated: 1
 EndChar
 
 StartChar: plus
-Encoding: 43 43 144
+Encoding: 11 43 144
 Width: 596
 VWidth: 958
 Flags: HMW
@@ -7279,7 +7278,7 @@ Colour: ffff
 EndChar
 
 StartChar: equal
-Encoding: 61 61 145
+Encoding: 29 61 145
 Width: 596
 VWidth: 958
 Flags: HMW
@@ -7316,7 +7315,7 @@ Colour: ffff
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 146
+Encoding: 2 34 146
 Width: 459
 VWidth: 966
 Flags: HMW
@@ -7353,7 +7352,7 @@ Colour: ffff
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 147
+Encoding: 7 39 147
 Width: 257
 Flags: HMW
 HStem: 476.604 252.681<73.7973 196.953 73.7973 73.7973>
@@ -7388,7 +7387,7 @@ Colour: ffff
 EndChar
 
 StartChar: bar
-Encoding: 124 124 148
+Encoding: 92 124 148
 Width: 280
 VWidth: 958
 Flags: HMW
@@ -7416,7 +7415,7 @@ Colour: ffff
 EndChar
 
 StartChar: brokenbar
-Encoding: 166 166 149
+Encoding: 99 166 149
 Width: 280
 Flags: HMW
 HStem: -100.207 21.0095G<59.9992 220.071 59.9992 59.9992> 800.198 20.009G<59.9992 220.071 220.071 220.071>
@@ -7453,7 +7452,7 @@ Colour: ffff
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 150
+Encoding: 59 91 150
 Width: 357
 VWidth: 957
 Flags: HMW
@@ -7489,7 +7488,7 @@ Colour: ffff
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 151
+Encoding: 61 93 151
 Width: 357
 VWidth: 957
 Flags: HMW
@@ -7525,7 +7524,7 @@ Colour: ffff
 EndChar
 
 StartChar: slash
-Encoding: 47 47 152
+Encoding: 15 47 152
 Width: 381
 VWidth: 958
 Flags: HMW
@@ -7552,7 +7551,7 @@ Colour: ffff
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 153
+Encoding: 60 92 153
 Width: 381
 VWidth: 958
 Flags: HMW
@@ -7579,7 +7578,7 @@ Colour: ffff
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 154
+Encoding: 27 59 154
 Width: 271
 Flags: HMW
 HStem: -185.515 22.9194G<112.624 112.624> -14.1655 163.71<53.6882 137.726 53.6882 218.49 53.6882 218.49> 337.265 163.71<53.6882 218.49 53.6882 218.49>
@@ -7633,7 +7632,7 @@ Colour: ffff
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 8218 8218 155
+Encoding: 332 8218 155
 Width: 253
 Flags: HMW
 HStem: -167.743 22.47G<103.545 103.545> 0.246641 160.5<45.7648 128.155 45.7648 207.335 45.7648 207.335>
@@ -7670,7 +7669,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 156
+Encoding: 335 8222 156
 Width: 451
 Flags: HMW
 HStem: -171.028 22.9194G<92.8949 92.8949 311.175 311.175> 0.321998 163.71<33.9593 117.997 33.9593 198.761 33.9593 198.761 33.9593 252.239 252.239 336.277>
@@ -7728,7 +7727,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 157
+Encoding: 334 8221 157
 Width: 451
 Flags: HMW
 HStem: 398.972 22.9194G<92.8949 92.8949 311.175 311.175> 570.322 163.71<33.9593 117.997 33.9593 198.761 33.9593 198.761 33.9593 252.239 252.239 336.277>
@@ -7786,7 +7785,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 158
+Encoding: 333 8220 158
 Width: 451
 Flags: HMW
 HStem: 413.972 163.71<114.723 198.761 33.9593 33.9593 333.003 417.041> 727.204 21.828G<139.825 139.825 358.105 358.105>
@@ -7844,7 +7843,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 159
+Encoding: 330 8216 159
 Width: 251
 Flags: W
 HStem: 409.888 313.179
@@ -7881,7 +7880,7 @@ Validated: 1
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 160
+Encoding: 331 8217 160
 Width: 251
 Flags: HMW
 HStem: 402.257 22.47G<102.495 102.495> 570.247 160.5<44.715 127.105 44.715 206.285 44.715 206.285>
@@ -7918,7 +7917,7 @@ Validated: 1
 EndChar
 
 StartChar: numbersign
-Encoding: 35 35 161
+Encoding: 3 35 161
 Width: 719
 VWidth: 958
 Flags: HMW
@@ -8005,7 +8004,7 @@ Colour: ffff
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 162
+Encoding: 109 187 162
 Width: 471
 Flags: HMW
 HStem: 93.924 21.0095G<19.9997 146.057 19.9997 19.9997 210.086 210.086 210.086 336.142> 412.067 20.009G<19.9997 146.057 146.057 146.057 210.086 336.142 336.142 336.142>
@@ -8049,7 +8048,7 @@ Colour: ffff
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 163
+Encoding: 102 171 163
 Width: 471
 Flags: HMW
 HStem: 93.924 21.0095G<135.052 261.108 135.052 135.052 325.137 451.194 325.137 325.137> 412.067 20.009G<135.052 261.108 261.108 261.108 325.137 451.194 451.194 451.194>
@@ -8093,7 +8092,7 @@ Colour: ffff
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 8249 8249 164
+Encoding: 341 8249 164
 Width: 341
 Flags: HMW
 HStem: 93.9237 21.0095G<154.993 321.068 154.993 154.993> 412.067 20.009G<154.993 321.068 321.068 321.068>
@@ -8122,7 +8121,7 @@ Validated: 1
 EndChar
 
 StartChar: guilsinglright
-Encoding: 8250 8250 165
+Encoding: 342 8250 165
 Width: 341
 Flags: HMW
 HStem: 93.9237 21.0095G<19.9323 186.007 19.9323 19.9323> 412.067 20.009G<19.9323 186.007 186.007 186.007>
@@ -8151,7 +8150,7 @@ Validated: 1
 EndChar
 
 StartChar: less
-Encoding: 60 60 166
+Encoding: 28 60 166
 Width: 590
 VWidth: 957
 Flags: HMW
@@ -8184,7 +8183,7 @@ Colour: ffff
 EndChar
 
 StartChar: greater
-Encoding: 62 62 167
+Encoding: 30 62 167
 Width: 596
 VWidth: 957
 Flags: HMW
@@ -8217,7 +8216,7 @@ Colour: ffff
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 168
+Encoding: 4 36 168
 Width: 592
 VWidth: 958
 Flags: HMW
@@ -8316,7 +8315,7 @@ Colour: ffff
 EndChar
 
 StartChar: Euro
-Encoding: 8364 8364 169
+Encoding: 343 8364 169
 Width: 588
 Flags: HMW
 HStem: -15.1688 138.062<310.509 362.532 310.509 407.052> 254.952 75.0337<9.87375 84.9075 9.87375 89.9097 9.87375 84.9075 243.979 366.034 243.979 243.979> 395.015 75.0337<9.87375 84.9075 9.87375 89.9097 244.979 366.034> 597.106 138.062<311.009 362.532>
@@ -8390,7 +8389,7 @@ Validated: 1
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 170
+Encoding: 62 94 170
 Width: 527
 VWidth: 975
 Flags: HMW
@@ -8440,7 +8439,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10103
-Encoding: 1110 1110 171
+Encoding: 316 1110 171
 Width: 261
 Flags: HMW
 LayerCount: 4
@@ -8480,7 +8479,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10055
-Encoding: 1030 1030 172
+Encoding: 236 1030 172
 Width: 300
 Flags: HMW
 LayerCount: 4
@@ -8504,7 +8503,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10102
-Encoding: 1109 1109 173
+Encoding: 315 1109 173
 Width: 469
 Flags: HMW
 LayerCount: 4
@@ -8565,7 +8564,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10054
-Encoding: 1029 1029 174
+Encoding: 235 1029 174
 Width: 618
 Flags: HMW
 LayerCount: 4
@@ -8627,7 +8626,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10105
-Encoding: 1112 1112 175
+Encoding: 318 1112 175
 Width: 247
 Flags: HMW
 LayerCount: 4
@@ -8678,7 +8677,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10057
-Encoding: 1032 1032 176
+Encoding: 238 1032 176
 Width: 572
 Flags: HMW
 LayerCount: 4
@@ -8715,7 +8714,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10110
-Encoding: 1118 1118 177
+Encoding: 324 1118 177
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -8775,7 +8774,7 @@ Kerns2: 208 -40 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 1
 EndChar
 
 StartChar: afii10062
-Encoding: 1038 1038 178
+Encoding: 244 1038 178
 Width: 713
 Flags: HMW
 LayerCount: 4
@@ -8837,7 +8836,7 @@ Kerns2: 214 -50 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 2
 EndChar
 
 StartChar: afii10056
-Encoding: 1031 1031 179
+Encoding: 237 1031 179
 Width: 300
 Flags: HMW
 LayerCount: 4
@@ -8888,7 +8887,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10104
-Encoding: 1111 1111 180
+Encoding: 317 1111 180
 Width: 260
 Flags: HMW
 LayerCount: 4
@@ -8943,7 +8942,7 @@ Colour: ffff00
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 181
+Encoding: 93 125 181
 Width: 341
 VWidth: 958
 Flags: HMW
@@ -9008,7 +9007,7 @@ Colour: ffff
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 182
+Encoding: 91 123 182
 Width: 349
 Flags: HMW
 HStem: -110.21 129.058<186.008 319.068> 695.152 129.058<186.008 283.051 186.008 319.068>
@@ -9072,7 +9071,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10101
-Encoding: 1108 1108 183
+Encoding: 314 1108 183
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -9122,7 +9121,7 @@ Validated: 9
 EndChar
 
 StartChar: afii10053
-Encoding: 1028 1028 184
+Encoding: 234 1028 184
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -9171,7 +9170,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 185
+Encoding: 6 38 185
 Width: 598
 VWidth: 958
 Flags: HMW
@@ -9318,7 +9317,7 @@ Colour: ffff
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 186
+Encoding: 8 40 186
 Width: 326
 VWidth: 969
 Flags: HMW
@@ -9358,7 +9357,7 @@ Colour: ffff
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 187
+Encoding: 9 41 187
 Width: 326
 Flags: HMW
 HStem: -109.391 21.4296G<-15.3063 110.21 -15.3063 -15.3063> 809.022 20.4092G<-15.3063 110.21 110.21 110.21>
@@ -9393,7 +9392,7 @@ Colour: ffff
 EndChar
 
 StartChar: degree
-Encoding: 176 176 188
+Encoding: 104 176 188
 Width: 366
 Flags: HMW
 HStem: 443.154 96.8006<168.837 196.941 168.837 224.003> 641.96 98.8825<168.837 196.941>
@@ -9438,7 +9437,7 @@ Colour: ffff
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 189
+Encoding: 101 169 189
 Width: 590
 Flags: HMW
 HStem: -20.6232 95.9231<241.617 348.765 241.617 372.746> 123.261 81.6367<281.925 305.396 281.925 325.805> 313.066 83.6776<281.925 305.396> 444.706 95.9231<241.617 348.765>
@@ -9513,7 +9512,7 @@ Colour: ffff
 EndChar
 
 StartChar: registered
-Encoding: 174 174 190
+Encoding: 103 174 190
 Width: 590
 Flags: HMW
 HStem: -20.6222 95.9231<241.423 348.571 241.423 372.552> 134.488 157.151<189.889 286.833 189.889 286.833 267.444 332.754 267.444 418.472> 444.707 95.9231<241.423 348.571>
@@ -9597,7 +9596,7 @@ Colour: ffff
 EndChar
 
 StartChar: trademark
-Encoding: 8482 8482 191
+Encoding: 345 8482 191
 Width: 732
 Flags: HMW
 HStem: 421.92 22.47G<109.2 214.06 109.2 109.2 307.15 412.01 307.15 307.15 471.93 471.93 471.93 561.81 620.66 620.66 620.66 725.52> 629.5 100.58<6.48 109.2 6.48 452.67 214.06 307.15 214.06 214.06>
@@ -9653,7 +9652,7 @@ Validated: 1
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 192
+Encoding: 10 42 192
 Width: 405
 VWidth: 979
 Flags: HMW
@@ -9702,7 +9701,7 @@ Colour: ffff
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 193
+Encoding: 105 177 193
 Width: 596
 Flags: HMW
 HStem: 48.6066 137.762<55.2382 540.976 55.2382 540.976> 385.358 137.762<55.2382 228.716 55.2382 228.716 366.478 540.976> 665.984 20.4092G<228.716 366.478 366.478 366.478>
@@ -9755,7 +9754,7 @@ Colour: ffff
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 194
+Encoding: 94 126 194
 Width: 675
 VWidth: 969
 Flags: HMW
@@ -9797,7 +9796,7 @@ Colour: ffff
 EndChar
 
 StartChar: grave
-Encoding: 96 96 195
+Encoding: 64 96 195
 Width: 306
 VWidth: 979
 Flags: HMW
@@ -9834,7 +9833,7 @@ Colour: ffff
 EndChar
 
 StartChar: percent
-Encoding: 65537 -1 196
+Encoding: 364 -1 196
 Width: 839
 Flags: HMW
 HStem: -5.16275 105.047<625.573 647.582 625.573 679.597> -0.160499 21.0095G<148.358 287.42 287.42 287.42> 219.939 105.047<625.573 647.582> 395.018 105.047<175.37 197.38 175.37 229.394> 620.119 105.047<175.37 197.38> 700.155 20.009G<534.532 674.595 534.532 534.532>
@@ -9916,7 +9915,7 @@ Validated: 1
 EndChar
 
 StartChar: dagger
-Encoding: 8224 8224 197
+Encoding: 336 8224 197
 Width: 404
 Flags: HMW
 HStem: 249.894 21.0095G<126.966 277.034 126.966 126.966> 485 125.056<29.9226 126.966 29.9226 126.966 277.034 374.077> 700.097 20.009G<126.966 277.034 277.034 277.034>
@@ -9958,7 +9957,7 @@ Validated: 1
 EndChar
 
 StartChar: daggerdbl
-Encoding: 8225 8225 198
+Encoding: 337 8225 198
 Width: 384
 Flags: HMW
 HStem: 249.894 21.0095G<116.966 267.034 116.966 116.966> 329.93 125.056<29.9271 116.966 29.9271 116.966 267.034 354.073> 515.014 125.056<29.9271 116.966 29.9271 116.966 267.034 354.073> 700.097 20.009G<116.966 267.034 267.034 267.034>
@@ -10016,7 +10015,7 @@ Validated: 1
 EndChar
 
 StartChar: bullet
-Encoding: 8226 8226 199
+Encoding: 338 8226 199
 Width: 388
 Flags: HMW
 HStem: 215.712 269.576<156.903 231.118 156.903 231.664>
@@ -10047,7 +10046,7 @@ Kerns2: 340 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 3
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 200
+Encoding: 107 182 200
 Width: 636
 Flags: HMW
 HStem: -100.206 21.0095G<210.951 290.987 210.951 210.951 380.027 380.027 380.027 543.101> 735.169 85.0383<290.987 380.027 290.987 290.987 543.101 624.137 543.101 543.101>
@@ -10092,7 +10091,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii61352
-Encoding: 8470 8470 201
+Encoding: 344 8470 201
 Width: 1104
 Flags: HMW
 HStem: -25.1996 22.47G<34.8665 201.786 34.8665 34.8665 534.556 534.556 534.556 707.896> 129.95 112.35<775.306 1109.15 775.306 1109.15> 129.95 160.5<896.216 988.236 896.216 1109.15 775.306 988.236> 402.8 128.4<930.456 953.996> 723.8 21.4G<34.8665 208.206 208.206 208.206 540.976 707.896 707.896 707.896>
@@ -10168,7 +10167,7 @@ Validated: 1
 EndChar
 
 StartChar: at
-Encoding: 64 64 202
+Encoding: 32 64 202
 Width: 803
 Flags: HMW
 HStem: -110.166 110.05<334.038 438.085 334.038 446.589> 84.9214 100.045<568.644 602.659 568.644 635.174> 335.034 100.045<378.558 395.566 337.54 414.574> 511.113 119.054<333.038 474.601>
@@ -10259,7 +10258,7 @@ Colour: ffff
 EndChar
 
 StartChar: perthousand
-Encoding: 8240 8240 203
+Encoding: 340 8240 203
 Width: 1182
 Flags: HMW
 HStem: -30.2 112.35<627.382 650.922 627.382 685.162 1012.58 1036.12> -24.85 22.47G<116.992 265.722 265.722 265.722> 210.55 112.35<627.382 650.922 1012.58 1036.12> 397.8 112.35<145.882 169.422 145.882 203.662> 638.55 112.35<145.882 169.422> 724.15 21.4G<530.012 679.812 530.012 530.012>
@@ -10369,7 +10368,7 @@ Validated: 1
 EndChar
 
 StartChar: section
-Encoding: 167 167 204
+Encoding: 100 167 204
 Width: 526
 Flags: HMW
 HStem: -15.1688 115.052<233.005 291.531 233.005 325.046> 620.117 115.052<226.502 277.525>
@@ -10460,7 +10459,7 @@ Colour: ffff
 EndChar
 
 StartChar: currency
-Encoding: 164 164 205
+Encoding: 97 164 205
 Width: 595
 Flags: HMW
 HStem: 97 21G<127.75 127.75 467.75 467.75> 138 134<278.75 316.25> 448 134<279.25 316.25 279.25 319.75> 604 20G<127.75 127.75 467.75 467.75>
@@ -10533,7 +10532,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10109
-Encoding: 1116 1116 206
+Encoding: 322 1116 206
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -10601,7 +10600,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10100
-Encoding: 1107 1107 207
+Encoding: 313 1107 207
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -10637,7 +10636,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10106
-Encoding: 1113 1113 208
+Encoding: 319 1113 208
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -10703,7 +10702,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10107
-Encoding: 1114 1114 209
+Encoding: 320 1114 209
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -10765,7 +10764,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10193
-Encoding: 1119 1119 210
+Encoding: 325 1119 210
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -10806,7 +10805,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10098
-Encoding: 1169 1169 211
+Encoding: 327 1169 211
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -10839,7 +10838,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10050
-Encoding: 1168 1168 212
+Encoding: 326 1168 212
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -10872,7 +10871,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10059
-Encoding: 1034 1034 213
+Encoding: 240 1034 213
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -10934,7 +10933,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10058
-Encoding: 1033 1033 214
+Encoding: 239 1033 214
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -11001,7 +11000,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10145
-Encoding: 1039 1039 215
+Encoding: 245 1039 215
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -11042,7 +11041,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10061
-Encoding: 1036 1036 216
+Encoding: 242 1036 216
 Width: 674
 Flags: HMW
 LayerCount: 4
@@ -11114,7 +11113,7 @@ Colour: ffff00
 EndChar
 
 StartChar: afii10052
-Encoding: 1027 1027 217
+Encoding: 233 1027 217
 Width: 1000
 Flags: HMW
 LayerCount: 4
@@ -11154,7 +11153,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Idieresis
-Encoding: 207 207 218
+Encoding: 126 207 218
 Width: 300
 Flags: HMW
 HStem: -31.6369 22.47G<64.4696 234.599 64.4696 64.4696> 717.363 21.4G<64.4696 234.599 234.599 234.599> 801.893 150.87<-45.7404 114.759 -45.7404 114.759 -45.7404 184.309 184.309 344.809>
@@ -11207,7 +11206,7 @@ Colour: ffff
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 219
+Encoding: 158 239 219
 Width: 260
 Flags: HMW
 HStem: -25.6939 22.47G<49.7494 210.249 49.7494 49.7494> 509.306 21.4G<49.7494 210.249 210.249 210.249> 599.186 145.52<-51.9006 97.8994 -51.9006 97.8994 -51.9006 162.099 162.099 311.899>
@@ -11264,7 +11263,7 @@ Colour: ffff
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 220
+Encoding: 154 235 220
 Width: 557
 Flags: HMW
 HStem: -41.0802 133.75<240.139 301.664 240.139 332.159> 92.6698 114.49<240.139 301.664> 207.16 109.14<151.864 370.144 151.864 531.714 149.724 370.144> 316.3 97.37<234.254 292.034 234.254 370.144 234.254 370.144> 413.67 133.75<234.254 292.034> 595.57 149.8<66.2637 227.834 66.2637 227.834 66.2637 308.084 308.084 469.654>
@@ -11326,7 +11325,7 @@ Colour: ffff
 EndChar
 
 StartChar: Edieresis
-Encoding: 203 203 221
+Encoding: 122 203 221
 Width: 667
 Flags: HMW
 HStem: -31.6369 155.15<222.526 625.916 222.526 625.916> 284.013 155.15<222.526 561.716 222.526 561.716> 583.613 155.15<222.526 615.216 222.526 222.526> 801.893 150.87<126.226 286.726 126.226 286.726 126.226 383.026 383.026 543.526>
@@ -11388,7 +11387,7 @@ Colour: ffff
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 222
+Encoding: 174 255 222
 Width: 536
 Flags: HMW
 HStem: -242.645 143.38<135.716 148.556 108.966 206.336> 517.055 21.4G<7.85129 171.561 171.561 171.561 427.291 585.651 585.651 585.651> 602.655 149.8<113.781 275.351 113.781 275.351 113.781 334.201 334.201 495.771>
@@ -11449,7 +11448,7 @@ Colour: ffff
 EndChar
 
 StartChar: thorn
-Encoding: 254 254 223
+Encoding: 173 254 223
 Width: 582
 Flags: HMW
 HStem: -200.207 21.0095G<54.8859 204.954 54.8859 54.8859> -15.1238 125.056<304.999 331.011 266.982 388.036> 410.067 125.056<301.497 329.51> 700.198 20.009G<54.8859 204.954 204.954 204.954>
@@ -11509,7 +11508,7 @@ Colour: ffff
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 224
+Encoding: 171 252 224
 Width: 585
 Flags: HMW
 HStem: -41.0789 134.82<253.437 273.767> -25.0289 118.77<253.437 546.617 253.437 395.747> 509.971 21.4G<38.3674 198.867 198.867 198.867 386.117 546.617 546.617 546.617> 595.571 149.8<96.1474 257.717 96.1474 257.717 96.1474 316.567 316.567 478.137>
@@ -11586,7 +11585,7 @@ Colour: ffff
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 225
+Encoding: 165 246 225
 Width: 566
 Flags: HMW
 HStem: -41.0786 133.75<222.287 296.117 222.287 333.567> 413.671 133.75<222.287 296.117> 595.571 149.8<67.6719 229.242 67.6719 229.242 67.6719 288.092 288.092 449.662>
@@ -11644,7 +11643,7 @@ Colour: ffff
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 226
+Encoding: 147 228 226
 Width: 550
 Flags: HMW
 HStem: -41.0701 119.84<203.277 222.002> -25.0201 22.47G<372.872 534.442 372.872 372.872> 416.89 130.54<223.072 287.807> 595.58 149.8<71.132 232.702 71.132 232.702 71.132 291.552 291.552 453.122>
@@ -11713,7 +11712,7 @@ Colour: ffff
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 227
+Encoding: 172 253 227
 Width: 536
 Flags: HMW
 HStem: -248.302 143.38<145.716 158.556 118.966 216.336> 511.398 21.4G<17.8513 181.561 17.8513 17.8513 437.291 595.651 437.291 437.291> 621.608 200.09<221.151 492.931 302.471 361.321>
@@ -11747,7 +11746,7 @@ Colour: ffff
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 228
+Encoding: 169 250 228
 Width: 584
 Flags: HMW
 HStem: -46.8086 134.82<250.782 271.112> -30.7586 118.77<250.782 543.962> 504.241 21.4G<35.712 196.212 35.712 35.712 383.462 543.962 383.462 383.462> 614.451 200.09<190.862 462.642 272.182 331.032>
@@ -11782,7 +11781,7 @@ Colour: ffff
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 229
+Encoding: 162 243 229
 Width: 566
 Flags: HMW
 HStem: -46.7605 133.75<246.288 320.118 246.288 357.568> 407.989 133.75<246.288 320.118> 614.499 200.09<194.393 466.173 275.713 334.563>
@@ -11815,7 +11814,7 @@ Colour: ffff
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 230
+Encoding: 156 237 230
 Width: 260
 Flags: HMW
 HStem: -32.1534 22.47G<47.1173 207.617 207.617 207.617> 502.847 21.4G<47.1173 207.617 47.1173 47.1173> 613.057 200.09<31.0673 302.847 112.387 171.237>
@@ -11848,7 +11847,7 @@ Colour: ffff
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 231
+Encoding: 152 233 231
 Width: 557
 Flags: HMW
 HStem: -46.7811 133.75<262.639 324.164 262.639 354.659> 201.459 109.14<174.364 392.644 174.364 554.214 172.224 392.644> 407.969 133.75<256.754 314.534> 614.479 200.09<188.274 460.054 269.594 328.444>
@@ -11884,7 +11883,7 @@ Colour: ffff
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 232
+Encoding: 144 225 232
 Width: 550
 Flags: HMW
 HStem: -46.7608 119.84<147.478 166.203> -30.7108 22.47G<317.073 478.643 478.643 478.643> 411.199 130.54<167.273 232.008> 614.499 200.09<97.7229 369.503 179.043 237.893>
@@ -11928,7 +11927,7 @@ Colour: ffff
 EndChar
 
 StartChar: agrave
-Encoding: 224 224 233
+Encoding: 143 224 233
 Width: 550
 Flags: HMW
 HStem: -46.7608 119.84<147.478 166.203> -30.7108 22.47G<317.073 478.643 317.073 317.073> 411.199 130.54<167.273 232.008> 614.499 200.09<154.433 213.283 22.8223 294.603 154.433 154.433>
@@ -11972,7 +11971,7 @@ Colour: ffff
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 234
+Encoding: 151 232 234
 Width: 557
 Flags: HMW
 HStem: -46.7898 133.75<262.639 324.164 262.639 354.659> 86.9602 114.49<262.639 324.164> 201.45 109.14<174.364 392.644 174.364 554.214 172.224 392.644> 310.59 97.37<256.754 314.534 256.754 392.644 256.754 392.644> 407.96 133.75<256.754 314.534> 614.47 200.09<244.984 303.834 113.374 385.154 244.984 244.984>
@@ -12008,7 +12007,7 @@ Colour: ffff
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 235
+Encoding: 155 236 235
 Width: 260
 Flags: HMW
 HStem: -32.1009 22.47G<52.1398 212.64 52.1398 52.1398> 502.899 21.4G<52.1398 212.64 212.64 212.64> 613.109 200.09<92.7998 151.65 -38.8102 232.97 92.7998 92.7998>
@@ -12041,7 +12040,7 @@ Colour: ffff
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 236
+Encoding: 161 242 236
 Width: 566
 Flags: HMW
 HStem: -46.778 133.75<246.288 320.118 246.288 357.568> 407.972 133.75<246.288 320.118> 614.482 200.09<229.703 288.553 98.0931 369.873 229.703 229.703>
@@ -12074,7 +12073,7 @@ Colour: ffff
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 237
+Encoding: 168 249 237
 Width: 584
 Flags: HMW
 HStem: -46.8174 134.82<250.782 271.112> -30.7674 118.77<250.782 543.962 250.782 393.092> 504.233 21.4G<35.712 196.212 196.212 196.212 383.462 543.962 543.962 543.962> 614.443 200.09<236.872 295.722 105.262 377.042 236.872 236.872>
@@ -12109,7 +12108,7 @@ Colour: ffff
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 238
+Encoding: 115 196 238
 Width: 692
 Flags: HMW
 HStem: -31.3441 22.47G<33.0973 207.507 33.0973 33.0973 616.247 792.797 616.247 616.247> 107.756 141.24<310.227 513.527 310.227 564.887 257.797 513.527> 717.656 21.4G<339.117 493.197 493.197 493.197> 802.186 150.87<217.137 377.637 217.137 377.637 217.137 447.187 447.187 607.687>
@@ -12170,7 +12169,7 @@ Colour: ffff
 EndChar
 
 StartChar: Odieresis
-Encoding: 214 214 239
+Encoding: 133 214 239
 Width: 764
 Flags: HMW
 HStem: -46.8488 149.8<323.91 441.075 323.91 499.925> 605.851 149.8<323.91 441.075> 802.731 150.87<177.32 337.82 177.32 337.82 177.32 434.12 434.12 594.62>
@@ -12228,7 +12227,7 @@ Colour: ffff
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 240
+Encoding: 139 220 240
 Width: 752
 Flags: HMW
 HStem: -47.3941 155.15<326.995 426.505 326.995 482.145> 717.656 21.4G<48.2603 219.46 219.46 219.46 532.97 704.17 704.17 704.17> 802.186 150.87<168.1 328.6 168.1 328.6 168.1 424.9 424.9 585.4>
@@ -12287,7 +12286,7 @@ Colour: ffff
 EndChar
 
 StartChar: exclamdown
-Encoding: 161 161 241
+Encoding: 95 161 241
 Width: 261
 Flags: HMW
 HStem: -225.381 22.47G<45.7575 215.887 45.7575 45.7575> 384.519 160.5<50.0375 211.607 50.0375 211.607>
@@ -12329,7 +12328,7 @@ Colour: ffff
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 242
+Encoding: 110 191 242
 Width: 596
 Flags: HMW
 HStem: -240.544 149.8<269.421 318.641 269.421 362.511> 385.406 160.5<213.781 375.351 213.781 375.351>
@@ -12393,7 +12392,7 @@ Colour: ffff
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 243
+Encoding: 112 193 243
 Width: 692
 Flags: HMW
 LayerCount: 4
@@ -12432,7 +12431,7 @@ Colour: ffff
 EndChar
 
 StartChar: Eacute
-Encoding: 201 201 244
+Encoding: 120 201 244
 Width: 667
 Flags: HMW
 HStem: -33.7855 155.15<222.526 625.916 222.526 625.916 222.526 625.916> 121.365 160.5<222.526 561.716 222.526 625.916 222.526 561.716> 281.865 155.15<222.526 561.716 222.526 561.716> 581.465 155.15<222.526 615.216 51.3261 615.216> 825.425 200.09<243.926 515.706 325.246 384.096>
@@ -12474,7 +12473,7 @@ Colour: ffff
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 245
+Encoding: 124 205 245
 Width: 300
 Flags: HMW
 HStem: -33.908 22.47G<62.4962 233.696 233.696 233.696> 715.092 21.4G<62.4962 233.696 62.4962 62.4962> 825.302 200.09<51.7962 323.576 133.116 191.966>
@@ -12507,7 +12506,7 @@ Colour: ffff
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 246
+Encoding: 130 211 246
 Width: 764
 Flags: HMW
 HStem: -49.5224 149.8<323.91 441.075 323.91 499.925> 603.178 149.8<323.91 441.075> 825.738 200.09<283.25 555.03 364.57 423.42>
@@ -12545,7 +12544,7 @@ Colour: ffff
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 247
+Encoding: 137 218 247
 Width: 752
 Flags: HMW
 HStem: -49.5427 155.15<326.995 426.505 326.995 482.145> 715.507 21.4G<48.2603 219.46 48.2603 48.2603 532.97 704.17 532.97 532.97> 825.717 200.09<294.36 566.14 375.68 434.53>
@@ -12584,7 +12583,7 @@ Colour: ffff
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 248
+Encoding: 140 221 248
 Width: 621
 Flags: HMW
 HStem: -33.8192 22.47G<221.275 393.545 393.545 393.545> 715.181 21.4G<-59.0652 128.185 -59.0652 -59.0652 491.985 673.885 491.985 491.985> 825.391 200.09<219.135 490.915 300.455 359.305>
@@ -12623,7 +12622,7 @@ Colour: ffff
 EndChar
 
 StartChar: Agrave
-Encoding: 192 192 249
+Encoding: 111 192 249
 Width: 692
 Flags: HMW
 HStem: 822.472 4.54494e-27G<190.119 190.119 190.119 190.119 190.119 190.119 190.119 190.119> 822.472 2.85683e-26<190.119 190.119 190.119 190.119 190.119 190.119> 822.472 4.32851e-27G<190.119 190.119 190.119 190.119> 822.472 4.04717e-26<190.119 190.119 190.119 190.119 190.119 190.119>
@@ -12692,7 +12691,7 @@ Colour: ffff
 EndChar
 
 StartChar: Egrave
-Encoding: 200 200 250
+Encoding: 119 200 250
 Width: 667
 Flags: HMW
 HStem: -33.8205 155.15<222.526 625.916 222.526 625.916> 281.83 155.15<222.526 561.716 222.526 561.716> 581.43 155.15<222.526 615.216 222.526 222.526> 825.39 200.09<279.236 338.086 147.626 419.406 279.236 279.236>
@@ -12734,7 +12733,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 251
+Encoding: 129 210 251
 Width: 764
 Flags: HMW
 HStem: -49.0587 149.8<323.91 441.075 323.91 499.925> 603.641 149.8<323.91 441.075> 826.201 200.09<329.26 388.11 197.65 469.43 329.26 329.26>
@@ -12772,7 +12771,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 252
+Encoding: 136 217 252
 Width: 752
 Flags: HMW
 HStem: -49.5861 155.15<326.995 426.505 326.995 482.145> 715.464 21.4G<48.2603 219.46 219.46 219.46 532.97 704.17 704.17 704.17> 825.674 200.09<318.97 377.82 187.36 459.14 318.97 318.97>
@@ -12810,7 +12809,7 @@ Colour: ffff
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 253
+Encoding: 113 194 253
 Width: 692
 Flags: HMW
 HStem: -33.5186 22.47G<37.0973 211.507 37.0973 37.0973 620.247 796.797 620.247 620.247> 105.581 141.24<314.227 517.527 314.227 568.887 261.797 517.527> 715.481 21.4G<343.117 497.197 497.197 497.197> 1015.08 21.4G<347.397 493.987 493.987 493.987>
@@ -12856,7 +12855,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 202 202 254
+Encoding: 121 202 254
 Width: 667
 Flags: HMW
 HStem: -33.8114 155.15<222.526 625.916 222.526 625.916> 281.839 155.15<222.526 561.716 222.526 561.716> 581.439 155.15<222.526 615.216 222.526 222.526> 993.389 21.4G<265.326 411.916 411.916 411.916>
@@ -12904,7 +12903,7 @@ Colour: ffff
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 255
+Encoding: 125 206 255
 Width: 300
 Flags: HMW
 HStem: -33.8114 22.47G<64.3127 235.513 64.3127 64.3127> 715.189 21.4G<64.3127 235.513 235.513 235.513> 993.389 21.4G<78.2227 224.813 224.813 224.813>
@@ -12943,7 +12942,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 212 212 256
+Encoding: 131 212 256
 Width: 764
 Flags: HMW
 HStem: -49.0233 149.8<323.91 441.075 323.91 499.925> 603.677 149.8<323.91 441.075> 753.477 262.15<310 456.59 310 499.925>
@@ -12987,7 +12986,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 257
+Encoding: 138 219 257
 Width: 752
 Flags: HMW
 HStem: -49.5686 155.15<326.995 426.505 326.995 482.145> 715.481 21.4G<48.2603 219.46 219.46 219.46 532.97 704.17 704.17 704.17> 993.681 21.4G<306.13 452.72 452.72 452.72>
@@ -13032,7 +13031,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ydieresis
-Encoding: 376 376 258
+Encoding: 222 376 258
 Width: 621
 Flags: HMW
 LayerCount: 4
@@ -13097,7 +13096,7 @@ Colour: ffff00
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 259
+Encoding: 170 251 259
 Width: 584
 Flags: HMW
 HStem: -46.9446 134.82<250.782 271.112> -30.8946 118.77<250.782 543.962 250.782 393.092> 504.105 21.4G<35.712 196.212 196.212 196.212 383.462 543.962 543.962 543.962> 611.105 192.6<215.472 225.102 77.442 362.062 349.222 362.062 215.472 500.092 349.222 349.222>
@@ -13135,7 +13134,7 @@ Colour: ffff
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 260
+Encoding: 163 244 260
 Width: 566
 Flags: HMW
 HStem: -46.914 133.75<246.288 320.118 246.288 357.568> 407.836 133.75<246.288 320.118> 611.136 192.6<210.443 220.073 72.4125 357.033 344.193 357.033 210.443 495.063 344.193 344.193>
@@ -13171,7 +13170,7 @@ Colour: ffff
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 261
+Encoding: 153 234 261
 Width: 557
 Flags: HMW
 HStem: -46.9171 133.75<262.639 324.164 262.639 354.659> 86.8329 114.49<262.639 324.164> 201.323 109.14<174.364 392.644 174.364 554.214 172.224 392.644> 310.463 97.37<256.754 314.534 256.754 392.644 256.754 392.644> 407.833 133.75<256.754 314.534> 611.133 192.6<215.024 224.654 76.9937 361.614 348.774 361.614 215.024 499.644 348.774 348.774>
@@ -13210,7 +13209,7 @@ Colour: ffff
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 262
+Encoding: 145 226 262
 Width: 550
 Flags: HMW
 HStem: -46.9055 119.84<147.478 166.203> -30.8555 22.47G<317.073 478.643 317.073 317.073> 411.054 130.54<167.273 232.008> 611.144 192.6<128.753 138.383 -9.27761 275.343 262.503 275.343 128.753 413.373 262.503 262.503>
@@ -13257,7 +13256,7 @@ Colour: ffff
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 263
+Encoding: 123 204 263
 Width: 300
 Flags: HMW
 HStem: -33.8205 22.47G<66.0855 237.285 66.0855 66.0855> 715.18 21.4G<66.0855 237.285 237.285 237.285> 825.39 200.09<112.095 170.945 -19.5145 252.265 112.095 112.095>
@@ -13290,7 +13289,7 @@ Colour: ffff
 EndChar
 
 StartChar: Scaron
-Encoding: 352 352 264
+Encoding: 212 352 264
 Width: 618
 Flags: HMW
 LayerCount: 4
@@ -13340,7 +13339,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Zcaron
-Encoding: 381 381 265
+Encoding: 227 381 265
 Width: 662
 Flags: HM
 LayerCount: 4
@@ -13384,7 +13383,7 @@ Colour: ffff00
 EndChar
 
 StartChar: scaron
-Encoding: 353 353 266
+Encoding: 213 353 266
 Width: 469
 Flags: HM
 LayerCount: 4
@@ -13425,7 +13424,7 @@ Colour: ffff00
 EndChar
 
 StartChar: zcaron
-Encoding: 382 382 267
+Encoding: 228 382 267
 Width: 504
 Flags: HM
 LayerCount: 4
@@ -13459,7 +13458,7 @@ Colour: ffff00
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 268
+Encoding: 157 238 268
 Width: 260
 Flags: HMW
 HStem: -32.2544 22.47G<49.7184 210.218 49.7184 49.7184> 502.746 21.4G<49.7184 210.218 210.218 210.218> 609.746 192.6<58.2784 67.9084 -79.7516 204.868 192.028 204.868 58.2784 342.898 192.028 192.028>
@@ -13495,7 +13494,7 @@ Colour: ffff
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 269
+Encoding: 116 197 269
 Width: 692
 Flags: HMW
 HStem: -35.5264 22.47G<35.0973 209.507 209.507 209.507 618.247 794.797 794.797 794.797> 713.474 21.4G<341.117 495.197 341.117 341.117> 765.904 99.51<402.642 431.532 402.642 459.352> 970.274 101.65<402.642 431.532>
@@ -13535,7 +13534,7 @@ Colour: ffff
 EndChar
 
 StartChar: aring
-Encoding: 229 229 270
+Encoding: 148 229 270
 Width: 550
 Flags: HMW
 HStem: -45.3973 119.84<147.478 166.203> -29.3473 22.47G<317.073 478.643 478.643 478.643> 412.563 130.54<167.273 232.008> 590.183 99.51<191.348 220.238 191.348 248.058> 689.693 104.86<191.348 220.238> 794.553 101.65<191.348 220.238>
@@ -13584,7 +13583,7 @@ Colour: ffff
 EndChar
 
 StartChar: rcaron
-Encoding: 345 345 271
+Encoding: 209 345 271
 Width: 444
 Flags: HM
 LayerCount: 4
@@ -13619,7 +13618,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 369 369 272
+Encoding: 221 369 272
 Width: 584
 Flags: HMW
 LayerCount: 4
@@ -13676,7 +13675,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 368 368 273
+Encoding: 220 368 273
 Width: 752
 Flags: HMW
 LayerCount: 4
@@ -13737,7 +13736,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 336 336 274
+Encoding: 202 336 274
 Width: 764
 Flags: HMW
 LayerCount: 4
@@ -13784,7 +13783,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uring
-Encoding: 367 367 275
+Encoding: 219 367 275
 Width: 584
 Flags: HM
 LayerCount: 4
@@ -13822,7 +13821,7 @@ Colour: ffff00
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 337 337 276
+Encoding: 203 337 276
 Width: 566
 Flags: HMW
 LayerCount: 4
@@ -13867,7 +13866,7 @@ Colour: ffff00
 EndChar
 
 StartChar: ncaron
-Encoding: 328 328 277
+Encoding: 201 328 277
 Width: 588
 Flags: HM
 LayerCount: 4
@@ -13903,7 +13902,7 @@ Colour: ffff00
 EndChar
 
 StartChar: nacute
-Encoding: 324 324 278
+Encoding: 199 324 278
 Width: 588
 Flags: HM
 LayerCount: 4
@@ -13936,7 +13935,7 @@ Colour: ffff00
 EndChar
 
 StartChar: ecaron
-Encoding: 283 283 279
+Encoding: 191 283 279
 Width: 557
 Flags: HMW
 LayerCount: 4
@@ -13982,7 +13981,7 @@ Colour: ffff00
 EndChar
 
 StartChar: ccaron
-Encoding: 269 269 280
+Encoding: 182 269 280
 Width: 519
 Flags: HM
 LayerCount: 4
@@ -14017,7 +14016,7 @@ Colour: ffff00
 EndChar
 
 StartChar: cacute
-Encoding: 263 263 281
+Encoding: 180 263 281
 Width: 519
 Flags: HMW
 LayerCount: 4
@@ -14049,7 +14048,7 @@ Colour: ffff00
 EndChar
 
 StartChar: lacute
-Encoding: 314 314 282
+Encoding: 193 314 282
 Width: 261
 Flags: HM
 LayerCount: 4
@@ -14080,7 +14079,7 @@ Colour: ffff00
 EndChar
 
 StartChar: abreve
-Encoding: 259 259 283
+Encoding: 176 259 283
 Width: 550
 VWidth: 964
 Flags: HMW
@@ -14178,7 +14177,7 @@ Colour: ffff00
 EndChar
 
 StartChar: racute
-Encoding: 341 341 284
+Encoding: 207 341 284
 Width: 444
 Flags: HM
 LayerCount: 4
@@ -14210,7 +14209,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Tcommaaccent
-Encoding: 354 354 285
+Encoding: 214 354 285
 Width: 664
 Flags: HMW
 LayerCount: 4
@@ -14266,7 +14265,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Uring
-Encoding: 366 366 286
+Encoding: 218 366 286
 Width: 752
 Flags: HM
 LayerCount: 4
@@ -14302,7 +14301,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Rcaron
-Encoding: 344 344 287
+Encoding: 208 344 287
 Width: 679
 Flags: HM
 LayerCount: 4
@@ -14354,7 +14353,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Ncaron
-Encoding: 327 327 288
+Encoding: 200 327 288
 Width: 769
 Flags: HMW
 LayerCount: 4
@@ -14397,7 +14396,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Nacute
-Encoding: 323 323 289
+Encoding: 198 323 289
 Width: 769
 Flags: HM
 LayerCount: 4
@@ -14434,7 +14433,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Dcaron
-Encoding: 270 270 290
+Encoding: 183 270 290
 Width: 714
 Flags: HM
 LayerCount: 4
@@ -14479,7 +14478,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Ecaron
-Encoding: 282 282 291
+Encoding: 190 282 291
 Width: 667
 Flags: HM
 LayerCount: 4
@@ -14525,7 +14524,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Ccaron
-Encoding: 268 268 292
+Encoding: 181 268 292
 Width: 720
 Flags: HM
 LayerCount: 4
@@ -14569,7 +14568,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Cacute
-Encoding: 262 262 293
+Encoding: 179 262 293
 Width: 720
 Flags: HMW
 LayerCount: 4
@@ -14607,7 +14606,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Lacute
-Encoding: 313 313 294
+Encoding: 192 313 294
 Width: 638
 Flags: HM
 LayerCount: 4
@@ -14641,7 +14640,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Abreve
-Encoding: 258 258 295
+Encoding: 175 258 295
 Width: 692
 Flags: HMW
 LayerCount: 4
@@ -14717,7 +14716,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Racute
-Encoding: 340 340 296
+Encoding: 206 340 296
 Width: 679
 Flags: HM
 LayerCount: 4
@@ -14763,7 +14762,7 @@ Colour: ffff00
 EndChar
 
 StartChar: zdotaccent
-Encoding: 380 380 297
+Encoding: 226 380 297
 Width: 504
 Flags: HM
 LayerCount: 4
@@ -14794,7 +14793,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Lcaron
-Encoding: 317 317 298
+Encoding: 194 317 298
 Width: 638
 Flags: HMW
 LayerCount: 4
@@ -14825,7 +14824,7 @@ Colour: ffff00
 EndChar
 
 StartChar: scommaaccent
-Encoding: 537 537 299
+Encoding: 230 537 299
 Width: 469
 Flags: HM
 LayerCount: 4
@@ -14866,7 +14865,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 379 379 300
+Encoding: 225 379 300
 Width: 662
 Flags: HM
 LayerCount: 4
@@ -14898,7 +14897,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Scommaaccent
-Encoding: 536 536 301
+Encoding: 229 536 301
 Width: 618
 Flags: HM
 LayerCount: 4
@@ -14939,7 +14938,7 @@ Colour: ffff00
 EndChar
 
 StartChar: zacute
-Encoding: 378 378 302
+Encoding: 224 378 302
 Width: 504
 Flags: HM
 LayerCount: 4
@@ -14970,7 +14969,7 @@ Colour: ffff00
 EndChar
 
 StartChar: sacute
-Encoding: 347 347 303
+Encoding: 211 347 303
 Width: 469
 Flags: HM
 LayerCount: 4
@@ -15008,7 +15007,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Zacute
-Encoding: 377 377 304
+Encoding: 223 377 304
 Width: 662
 Flags: HMW
 LayerCount: 4
@@ -15046,7 +15045,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Tcaron
-Encoding: 356 356 305
+Encoding: 216 356 305
 Width: 664
 Flags: HM
 LayerCount: 4
@@ -15088,7 +15087,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Sacute
-Encoding: 346 346 306
+Encoding: 210 346 306
 Width: 618
 Flags: HM
 LayerCount: 4
@@ -15132,7 +15131,7 @@ Colour: ffff00
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 307
+Encoding: 134 215 307
 Width: 556
 Flags: HMW
 HStem: 171.989 21.001G<155.994 155.994 400.006 400.006> 573.01 20.001G<155.994 155.994 400.006 400.006>
@@ -15174,7 +15173,7 @@ Colour: ffff
 EndChar
 
 StartChar: tcommaaccent
-Encoding: 355 355 308
+Encoding: 215 355 308
 Width: 395
 Flags: HMW
 LayerCount: 4
@@ -15248,7 +15247,7 @@ Colour: ffff00
 EndChar
 
 StartChar: lslash
-Encoding: 322 322 309
+Encoding: 197 322 309
 Width: 469
 Flags: HMW
 LayerCount: 4
@@ -15288,7 +15287,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Lslash
-Encoding: 321 321 310
+Encoding: 196 321 310
 Width: 724
 Flags: HMW
 LayerCount: 4
@@ -15334,7 +15333,7 @@ Colour: ffff00
 EndChar
 
 StartChar: lcaron
-Encoding: 318 318 311
+Encoding: 195 318 311
 Width: 422
 Flags: HMW
 HStem: -25.4547 22.47G<42.8352 203.335 42.8352 42.8352> 584.445 160.5<262.185 344.575 262.185 423.755 262.185 423.755>
@@ -15381,7 +15380,7 @@ Colour: ffff
 EndChar
 
 StartChar: tcaron
-Encoding: 357 357 312
+Encoding: 217 357 312
 Width: 395
 Flags: HMW
 LayerCount: 4
@@ -15421,7 +15420,7 @@ Colour: ffff00
 EndChar
 
 StartChar: dcaron
-Encoding: 271 271 313
+Encoding: 184 271 313
 Width: 747
 Flags: HMW
 HStem: -40.4711 133.75<258.028 287.988> 414.279 133.75<256.423 284.243 195.433 324.903> 585.479 160.5<610.593 692.983 391.243 610.593>
@@ -15461,7 +15460,7 @@ Colour: ffff
 EndChar
 
 StartChar: dcroat
-Encoding: 273 273 314
+Encoding: 186 273 314
 Width: 607
 Flags: HMW
 LayerCount: 4
@@ -15530,7 +15529,7 @@ Colour: ffff00
 EndChar
 
 StartChar: Dcroat
-Encoding: 272 272 315
+Encoding: 185 272 315
 Width: 779
 Flags: HMW
 LayerCount: 4
@@ -15589,7 +15588,7 @@ Colour: ffff00
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 316
+Encoding: 167 248 316
 Width: 566
 Flags: HMW
 HStem: -15.1237 125.056<274.997 317.516 274.997 352.532> 410.068 125.056<248.485 290.504>
@@ -15666,7 +15665,7 @@ Colour: ffff
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 317
+Encoding: 135 216 317
 Width: 765
 Flags: HMW
 HStem: -15.1688 140.063<364.492 437.525 364.492 492.55> 595.106 140.063<327.976 400.008>
@@ -15742,7 +15741,7 @@ Colour: ffff
 EndChar
 
 StartChar: Thorn
-Encoding: 222 222 318
+Encoding: 141 222 318
 Width: 672
 Flags: HMW
 HStem: -25.7249 22.47G<50.0618 221.262 50.0618 50.0618> 113.375 149.8<221.262 338.962 338.962 352.872 221.262 338.962> 487.875 149.8<221.262 344.312 221.262 336.822> 739.325 21.4G<50.0618 221.262 221.262 221.262>
@@ -15796,7 +15795,7 @@ Colour: ffff
 EndChar
 
 StartChar: oe
-Encoding: 339 339 319
+Encoding: 205 339 319
 Width: 933
 Flags: HMW
 HStem: -34.2405 133.75<241.22 315.05 241.22 316.12 645.68 707.205> 214 109.14<557.405 775.685 557.405 937.255 555.265 775.685> 420.51 133.75<241.22 315.05 639.795 697.575>
@@ -15876,7 +15875,7 @@ Colour: ffff
 EndChar
 
 StartChar: OE
-Encoding: 338 338 320
+Encoding: 204 338 320
 Width: 1011
 Flags: HMW
 HStem: -25.1995 155.15<612.074 983.364 612.074 983.364> 290.451 155.15<612.074 919.164 612.074 919.164> 590.051 155.15<399.144 417.334 417.334 440.874 612.074 972.664 612.074 612.074>
@@ -15939,7 +15938,7 @@ Colour: ffff
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 321
+Encoding: 127 208 321
 Width: 784
 Flags: HMW
 HStem: -25.1824 154.08<294.307 363.857 363.857 390.607> 295.818 133.75<-15.9931 123.107 -15.9931 123.107 294.307 429.127> 590.068 155.15<294.307 360.647 294.307 294.307>
@@ -16000,7 +15999,7 @@ Colour: ffff
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 322
+Encoding: 160 241 322
 Width: 588
 Flags: W
 HStem: -0.127484 21.0095G<56.2813 206.349 56.2813 56.2813 381.428 381.428 381.428 531.495> 409.057 111.05<56.2813 330.405> 409.057 126.057<311.396 330.405> 593.379 105.255<350.87 394.852> 661.043 37.591 661.043 105.255<211.408 255.389>
@@ -16039,7 +16038,7 @@ Colour: ffff
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 323
+Encoding: 164 245 323
 Width: 566
 Flags: HMW
 HStem: -43.9858 133.75<242.639 316.469 242.639 353.919> 410.764 133.75<242.639 316.469> 662.214 74.9 662.214 128.4<189.674 230.869>
@@ -16076,7 +16075,7 @@ Colour: ffff
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 324
+Encoding: 146 227 324
 Width: 550
 Flags: HMW
 HStem: -41.7863 119.84<145.876 164.601> -25.7363 22.47G<315.471 477.041 315.471 315.471> 416.174 130.54<165.671 230.406> 610.914 128.4<262.506 293.001> 664.414 128.4<106.821 148.016>
@@ -16124,7 +16123,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ntilde
-Encoding: 209 209 325
+Encoding: 128 209 325
 Width: 769
 Flags: HMW
 HStem: -32.6427 22.47G<48.1266 215.047 48.1266 48.1266 547.817 547.817 547.817 721.157> 716.357 21.4G<48.1266 221.467 221.467 221.467 554.237 721.157 721.157 721.157> 818.007 139.1<454.192 484.687> 871.507 139.1<277.107 318.302>
@@ -16160,7 +16159,7 @@ Colour: ffff
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 326
+Encoding: 132 213 326
 Width: 764
 Flags: HMW
 HStem: -47.8634 149.8<323.91 441.075 323.91 499.925> 604.837 149.8<323.91 441.075> 872.337 85.6 872.337 139.1<276.83 318.025>
@@ -16196,7 +16195,7 @@ Colour: ffff
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 327
+Encoding: 114 195 327
 Width: 692
 Flags: HMW
 HStem: -32.3587 22.47G<1.69883 176.109 1.69883 1.69883 584.849 761.399 584.849 584.849> 106.741 141.24<278.829 482.129 278.829 533.489 226.399 482.129> 716.641 21.4G<307.719 461.799 461.799 461.799> 871.791 85.6 871.791 139.1<284.179 325.374>
@@ -16234,7 +16233,7 @@ Colour: ffff
 EndChar
 
 StartChar: AE
-Encoding: 198 198 328
+Encoding: 117 198 328
 Width: 1074
 Flags: HMW
 HStem: -0.162 145.065<637.282 1014.46 637.282 1014.46> 124.894 145.065<344.15 477.21 344.15 477.21 256.111 477.21> 294.971 145.065<637.282 954.425 637.282 954.425> 575.097 145.065<637.282 1004.45 637.282 637.282>
@@ -16293,7 +16292,7 @@ Colour: ffff
 EndChar
 
 StartChar: ae
-Encoding: 230 230 329
+Encoding: 149 230 329
 Width: 887
 Flags: HMW
 HStem: -34.2464 119.84<207.62 239.72> -34.2464 133.75<590.145 650.6 590.145 681.095> 213.994 109.14<500.8 719.08 500.8 880.65 499.73 719.08> 423.714 130.54<220.46 285.195>
@@ -16389,7 +16388,7 @@ Colour: ffff
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 330
+Encoding: 142 223 330
 Width: 693
 Flags: HMW
 HStem: -15.1678 115.052<462.329 500.847 462.329 539.364> -0.161072 21.0095G<98.1657 245.232 98.1657 98.1657> 603.111 128.058<327.769 400.302>
@@ -16462,7 +16461,7 @@ Colour: ffff
 EndChar
 
 StartChar: eth
-Encoding: 240 240 331
+Encoding: 159 240 331
 Width: 568
 Flags: HMW
 HStem: -43.3257 133.75<255.653 308.083 255.653 350.883> 368.624 133.75<259.933 282.938 195.733 312.363> 808.394 21.4G<336.438 336.438>
@@ -16533,7 +16532,7 @@ Colour: ffff
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 332
+Encoding: 150 231 332
 Width: 520
 Flags: HMW
 HStem: -207.522 47.9616<259.021 272.797 259.021 286.573> -86.0875 46.9411<259.021 266.164 266.164 272.286> -18.7372 127.557<263.102 273.307 263.102 263.102> 414.958 127.557<241.673 297.798>
@@ -16613,7 +16612,7 @@ Colour: ffff
 EndChar
 
 StartChar: Ccedilla
-Encoding: 199 199 333
+Encoding: 118 199 333
 Width: 741
 Flags: HMW
 HStem: -276.192 60.99<377.971 395.626 377.971 412.746> -123.182 58.85<377.971 387.066 387.066 394.556> -33.302 149.8<382.786 389.206 382.786 382.786> 619.398 149.8<325.006 425.586>
@@ -16693,7 +16692,7 @@ Colour: ffff
 EndChar
 
 StartChar: cent
-Encoding: 162 162 334
+Encoding: 96 162 334
 Width: 526
 Flags: HMW
 HStem: -115.169 21.0095G<235.57 235.57 235.57 310.604> 615.16 20.009G<235.57 310.604 310.604 310.604>
@@ -16758,7 +16757,7 @@ Colour: ffff
 EndChar
 
 StartChar: yen
-Encoding: 165 165 335
+Encoding: 98 165 335
 Width: 621
 Flags: HMW
 HStem: -0.1638 21.0095G<229.099 390.172 229.099 229.099> 107.885 75.0337<79.0317 229.099 79.0317 229.099 390.172 540.239> 227.939 75.0337<79.0317 223.097 79.0317 229.099 79.0317 223.097 396.174 540.239> 700.151 20.009G<-33.0188 142.06 142.06 142.06 482.213 652.29 652.29 652.29>
@@ -16823,7 +16822,7 @@ Colour: ffff
 EndChar
 
 StartChar: divide
-Encoding: 247 247 336
+Encoding: 166 247 336
 Width: 556
 Flags: HMW
 HStem: 83.7961 160.5<196.68 358.25 196.68 358.25> 295.656 133.75<34.04 521.96 34.04 521.96> 479.696 160.5<196.68 358.25 196.68 358.25>
@@ -16880,7 +16879,7 @@ Colour: ffff
 EndChar
 
 StartChar: eogonek
-Encoding: 281 281 337
+Encoding: 189 281 337
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -16956,7 +16955,7 @@ Kerns2: 87 -30 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 1" 86
 EndChar
 
 StartChar: aogonek
-Encoding: 261 261 338
+Encoding: 178 261 338
 Width: 550
 VWidth: 964
 Flags: HMW
@@ -17045,7 +17044,7 @@ Kerns2: 227 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 1" 2
 EndChar
 
 StartChar: Eogonek
-Encoding: 280 280 339
+Encoding: 188 280 339
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -17109,7 +17108,7 @@ Kerns2: 340 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 1" 3
 EndChar
 
 StartChar: Aogonek
-Encoding: 260 260 340
+Encoding: 177 260 340
 Width: 732
 Flags: HMW
 LayerCount: 4
@@ -17199,7 +17198,7 @@ Kerns2: 338 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 1" 3
 EndChar
 
 StartChar: afii10060
-Encoding: 1035 1035 341
+Encoding: 241 1035 341
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -17251,7 +17250,7 @@ Validated: 1
 EndChar
 
 StartChar: afii10051
-Encoding: 1026 1026 342
+Encoding: 232 1026 342
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -17312,7 +17311,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10108
-Encoding: 1115 1115 343
+Encoding: 321 1115 343
 Width: 1000
 Flags: HM
 LayerCount: 4
@@ -17372,9 +17371,9 @@ Validated: 1
 EndChar
 
 StartChar: afii10099
-Encoding: 1106 1106 344
+Encoding: 312 1106 344
 Width: 1000
-Flags: HMO
+Flags: HM
 LayerCount: 4
 Back
 SplineSet
@@ -17443,7 +17442,7 @@ EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 37 37 345
+Encoding: 5 37 345
 Width: 1000
 VWidth: 0
 LayerCount: 4
@@ -17496,7 +17495,7 @@ Colour: ffff
 EndChar
 
 StartChar: acute
-Encoding: 180 180 346
+Encoding: 106 180 346
 Width: 306
 VWidth: 979
 Flags: W
@@ -17516,7 +17515,7 @@ Colour: ffff
 EndChar
 
 StartChar: uniFB01
-Encoding: 64257 64257 347
+Encoding: 357 64257 347
 Width: 643
 Flags: W
 HStem: -0.166016 21G<97.958 245.263 438.128 588.195> 401.03 118.97<20 97.958 245.263 438.128> 712.59 20G<459.857 567.424>
@@ -17559,38 +17558,38 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-432.932617188 619.098632812 m 1025,0,-1
-547.416015625 572.095703125 m 1,1,-1
- 479.9296875 572.095703125 l 1,2,-1
- 432.932617188 619.098632812 l 1,3,-1
- 432.856445312 685.595703125 l 1,4,-1
- 479.861328125 732.58984375 l 1,5,-1
- 547.426757812 732.58984375 l 1,6,-1
- 594.423828125 685.586914062 l 1,7,-1
- 594.5 619.098632812 l 1,8,-1
- 547.416015625 572.095703125 l 1,1,-1
-97.9580078125 -0.166015625 m 1,9,-1
- 97.9580078125 401.0390625 l 1,10,-1
- 20 401.0390625 l 1,11,-1
- 20 520.006835938 l 1,12,-1
- 97.9580078125 520.006835938 l 1,13,-1
- 97.9580078125 544.702148438 l 1,14,-1
- 134.750976562 683.674804688 l 1,15,-1
- 258.44921875 738.563476562 l 1,16,-1
- 375.841796875 722.142578125 l 1,17,-1
- 354.08984375 598.103515625 l 1,18,-1
- 300.216796875 607.981445312 l 1,19,-1
- 260.108398438 594.162109375 l 1,20,-1
- 245.262695312 546.649414062 l 1,21,-1
- 245.262695312 520 l 1,22,-1
- 588.1953125 520.068359375 l 1,23,-1
- 588.1953125 -0.166015625 l 1,24,-1
- 438.127929688 -0.166015625 l 1,25,-1
- 438.127929688 401.030273438 l 1,26,-1
- 245.262695312 401.030273438 l 1,27,-1
- 245.262695312 -0.1748046875 l 1,28,-1
- 170.235351562 -0.1748046875 l 1,29,-1
- 97.9580078125 -0.166015625 l 1,9,-1
+432.932617188 619.098632812 m 1029,0,-1
+547.416015625 572.095703125 m 5,1,-1
+ 479.9296875 572.095703125 l 5,2,-1
+ 432.932617188 619.098632812 l 5,3,-1
+ 432.856445312 685.595703125 l 5,4,-1
+ 479.861328125 732.58984375 l 5,5,-1
+ 547.426757812 732.58984375 l 5,6,-1
+ 594.423828125 685.586914062 l 5,7,-1
+ 594.5 619.098632812 l 5,8,-1
+ 547.416015625 572.095703125 l 5,1,-1
+97.9580078125 -0.166015625 m 5,9,-1
+ 97.9580078125 401.0390625 l 5,10,-1
+ 20 401.0390625 l 5,11,-1
+ 20 520.006835938 l 5,12,-1
+ 97.9580078125 520.006835938 l 5,13,-1
+ 97.9580078125 544.702148438 l 5,14,-1
+ 134.750976562 683.674804688 l 5,15,-1
+ 258.44921875 738.563476562 l 5,16,-1
+ 375.841796875 722.142578125 l 5,17,-1
+ 354.08984375 598.103515625 l 5,18,-1
+ 300.216796875 607.981445312 l 5,19,-1
+ 260.108398438 594.162109375 l 5,20,-1
+ 245.262695312 546.649414062 l 5,21,-1
+ 245.262695312 520 l 5,22,-1
+ 588.1953125 520.068359375 l 5,23,-1
+ 588.1953125 -0.166015625 l 5,24,-1
+ 438.127929688 -0.166015625 l 5,25,-1
+ 438.127929688 401.030273438 l 5,26,-1
+ 245.262695312 401.030273438 l 5,27,-1
+ 245.262695312 -0.1748046875 l 5,28,-1
+ 170.235351562 -0.1748046875 l 5,29,-1
+ 97.9580078125 -0.166015625 l 5,9,-1
 EndSplineSet
 Validated: 1
 LCarets2: 1 -1
@@ -17598,7 +17597,7 @@ Ligature2: "'liga' Ligatures standard lookups0-1" f i
 EndChar
 
 StartChar: uniFB00
-Encoding: 64256 64256 348
+Encoding: 356 64256 348
 Width: 768
 Flags: W
 HStem: -0.174805 20.9756G<97.9561 245.262 481.068 628.374> 401.03 118.97<20 97.9561 245.262 481.068 628.374 739.263>
@@ -17689,7 +17688,7 @@ Ligature2: "'liga' Ligatures standard lookups0-1" f f
 EndChar
 
 StartChar: uniFB02
-Encoding: 64258 64258 349
+Encoding: 358 64258 349
 Width: 643
 Flags: W
 HStem: -0.166016 21G<97.957 245.263 438.128 588.195> 401.03 118.97<20 97.957 245.263 438.128> 700.158 20G<438.128 588.195>
@@ -17763,7 +17762,7 @@ Ligature2: "'liga' Ligatures standard lookups0-1" f l
 EndChar
 
 StartChar: uniFB03
-Encoding: 64259 64259 350
+Encoding: 359 64259 350
 Width: 1032
 Flags: W
 HStem: -0.174805 21G<97.8018 245.107 480.914 628.219 821.173 971.241> 401.038 118.969<19.8457 97.8018 245.107 480.914 628.219 821.173> 712.58 20G<842.869 950.436>
@@ -17840,7 +17839,7 @@ Ligature2: "'liga' Ligatures standard lookups0-1" f f i
 EndChar
 
 StartChar: uniFB04
-Encoding: 64260 64260 351
+Encoding: 360 64260 351
 Width: 1027
 Flags: W
 HStem: -0.166016 21G<97.8037 245.109 480.915 628.221 821.158 972.226> 401.038 118.969<19.8467 97.8037 245.109 480.915 628.221 821.158> 700.158 20G<821.158 972.226>
@@ -17894,7 +17893,7 @@ Ligature2: "'liga' Ligatures standard lookups0-1" f f l
 EndChar
 
 StartChar: uniFB05
-Encoding: 64261 64261 352
+Encoding: 361 64261 352
 Width: 781
 Flags: W
 HStem: -0.170898 21G<97.8555 245.161> 400.94 119.298<19.8984 97.8555 244.938 476.793 627.328 726.135>
@@ -17966,7 +17965,7 @@ Ligature2: "'liga' Ligatures standard lookups0-1" f t
 EndChar
 
 StartChar: uniFB06
-Encoding: 64262 64262 353
+Encoding: 362 64262 353
 Width: 871
 GlyphClass: 3
 Flags: W
@@ -18096,7 +18095,7 @@ EndSplineSet
 EndChar
 
 StartChar: arrowup
-Encoding: 8593 8593 354
+Encoding: 347 8593 354
 Width: 615
 Flags: W
 HStem: 700.529 20G<248.767 366.502>
@@ -18120,7 +18119,7 @@ Validated: 1
 EndChar
 
 StartChar: arrowboth
-Encoding: 8596 8596 355
+Encoding: 350 8596 355
 Width: 1237
 Flags: W
 HStem: 201.155 124.84<379.678 857.977>
@@ -18149,7 +18148,7 @@ Validated: 1
 EndChar
 
 StartChar: arrowupdn
-Encoding: 8597 8597 356
+Encoding: 351 8597 356
 Width: 635
 Flags: W
 VStem: 255.214 124.84<91.1826 605.984>
@@ -18178,7 +18177,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2197
-Encoding: 8599 8599 357
+Encoding: 353 8599 357
 Width: 775
 Flags: W
 LayerCount: 4
@@ -18213,7 +18212,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2196
-Encoding: 8598 8598 358
+Encoding: 352 8598 358
 Width: 775
 Flags: W
 LayerCount: 4
@@ -18248,7 +18247,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2199
-Encoding: 8601 8601 359
+Encoding: 355 8601 359
 Width: 775
 Flags: W
 LayerCount: 4
@@ -18283,7 +18282,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2198
-Encoding: 8600 8600 360
+Encoding: 354 8600 360
 Width: 775
 Flags: W
 LayerCount: 4
@@ -18318,7 +18317,7 @@ Validated: 1
 EndChar
 
 StartChar: Emacron
-Encoding: 274 274 361
+Encoding: 187 274 361
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -18328,7 +18327,7 @@ Validated: 1
 EndChar
 
 StartChar: uni040D
-Encoding: 1037 1037 362
+Encoding: 243 1037 362
 Width: 769
 Flags: HW
 LayerCount: 4
@@ -18355,7 +18354,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni0450
-Encoding: 1104 1104 363
+Encoding: 310 1104 363
 Width: 557
 Flags: HW
 LayerCount: 4
@@ -18388,7 +18387,7 @@ Colour: ffff00
 EndChar
 
 StartChar: uni045D
-Encoding: 1117 1117 364
+Encoding: 323 1117 364
 Width: 1000
 Flags: HW
 LayerCount: 4
@@ -18407,6 +18406,48 @@ SplineSet
  55 0 l 5
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: t_i
+Encoding: 365 0 365
+Width: 643
+Flags: HWO
+LayerCount: 4
+Fore
+SplineSet
+244.400390625 400.83203125 m 1
+ 244.400390625 194.197265625 l 1
+ 250.010742188 138.09765625 l 1
+ 292.084960938 115.657226562 l 1
+ 334.16015625 122.202148438 l 1
+ 358.470703125 3.45703125 l 1xe0
+ 246.270507812 -17.1123046875 l 1
+ 127.525390625 26.83203125 l 1
+ 93.865234375 148.3828125 l 1
+ 93.865234375 400.83203125 l 1
+ 20 400.83203125 l 1
+ 20 520.512695312 l 1
+ 93.865234375 520.512695312 l 1
+ 93.865234375 670.112304688 l 1
+ 244.400390625 670.112304688 l 1
+ 244.400390625 520.512695312 l 1
+ 588.1953125 520.068359375 l 1
+ 588.1953125 -0.166015625 l 1
+ 438.127929688 -0.166015625 l 1
+ 438.127929688 401.030273438 l 1
+ 244.400390625 400.83203125 l 1
+432.932617188 619.098632812 m 1025
+547.416015625 572.095703125 m 1
+ 479.9296875 572.095703125 l 1
+ 432.932617188 619.098632812 l 1
+ 432.856445312 685.595703125 l 1
+ 479.861328125 732.58984375 l 1
+ 547.426757812 732.58984375 l 1
+ 594.423828125 685.586914062 l 1
+ 594.5 619.098632812 l 1
+ 547.416015625 572.095703125 l 1
+EndSplineSet
+Ligature2: "'liga' Ligatures standard lookups0-1" t i
 EndChar
 EndChars
 EndSplineFont
