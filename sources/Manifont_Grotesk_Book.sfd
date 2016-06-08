@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911182
-ModificationTime: 1465314477
+ModificationTime: 1465382790
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -61,7 +61,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 0" { "Ligature Substitution lookup 0
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 1"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "Regular" "" "ManifontGroteskBook" "" "" "" "" "Alexandre Liziard & +AMkA-tienne Ozeray" "" "" "http://interstices.io" "" "" "" "Manifont Grotesk" "Book"
+LangName: 1033 "" "" "Regular" "" "ManifontGroteskBook" "" "" "" "" "Alexandre Liziard & +AMkA-tienne Ozeray" "" "" "http://interstices.io" "Copyright (c) 2016, Alexandre Liziard & +AMkA-tienne Ozeray (<bonjour@interstices.io>),+AAoA-with Reserved Font Name Manifont Grotesk Book.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Manifont Grotesk" "Book"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -134,14 +134,14 @@ BeginChars: 65539 371
 StartChar: ti
 Encoding: 0 0 0
 Width: 538
-Flags: HW
-HStem: 0 21G<386 476> 451 69<20 94 184 393> 700.245 20G<407.567 471.273>
-VStem: 94 90<109.185 451 520 700> 375.9 109.422<635.393 684.607> 386 90<0 451> 386 7<451 520>
+Flags: W
+HStem: 0 21G<386 476> 451 69<20 94 184 386> 700.245 20G<407.567 471.273>
+VStem: 94 90<109.185 451 520 700> 375.9 109.422<635.393 684.607> 386 90<0 451>
 LayerCount: 3
 Back
 Fore
 SplineSet
-476 520 m 1
+476 520 m 1xf4
  476 0 l 1
  386 0 l 1
  386 451 l 1
@@ -161,7 +161,7 @@ SplineSet
  94 700 l 1
  184 700 l 1
  184 520 l 1
- 476 520 l 1
+ 476 520 l 1xf4
 453.432617188 600 m 1
  408.107421875 599.754882812 l 1
  375.900390625 634.799804688 l 1
@@ -169,7 +169,7 @@ SplineSet
  407.567382812 720 l 1
  452.892578125 720.245117188 l 1
  485.099609375 685.200195312 l 1
- 485.322265625 635.392578125 l 1
+ 485.322265625 635.392578125 l 1xf8
  453.432617188 600 l 1
 EndSplineSet
 Validated: 1
@@ -269,7 +269,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-133.193359375 520.048828125 m 1
+133.193359375 520.048828125 m 1xb8
  499.146484375 520.048828125 l 1
  499.146484375 75.044921875 l 1
  568.185546875 75.044921875 l 1
@@ -282,7 +282,7 @@ SplineSet
  14.951171875 75.044921875 l 1
  48.876953125 75.044921875 l 1
  133.193359375 224.408203125 l 1
- 133.193359375 520.048828125 l 1
+ 133.193359375 520.048828125 l 1xb8
 223.24609375 445.09375 m 1
  223.236328125 200.728515625 l 1
  152.2890625 75.048828125 l 1
@@ -699,7 +699,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-316.975585938 519.96484375 m 1
+316.975585938 519.96484375 m 1x64
  505 519.96484375 l 1
  505 0 l 1
  415.032226562 0 l 1
@@ -717,7 +717,7 @@ SplineSet
  128.98046875 230.306640625 l 5
  128.896484375 520.006835938 l 5
  128.896484375 520.006835938 l 5
- 316.975585938 519.96484375 l 1
+ 316.975585938 519.96484375 l 1x64
 EndSplineSet
 Validated: 5
 Layer: 2
@@ -1968,12 +1968,12 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-531.047851562 82.6953125 m 1
+531.047851562 82.6953125 m 1xf8
  531.043945312 633.678710938 l 1
  257.158203125 633.686523438 l 5
  257.141601562 271.770507812 l 5
  159.133789062 82.7119140625 l 5
- 531.047851562 82.6953125 l 1
+ 531.047851562 82.6953125 l 1xf8
 161.8671875 294.850585938 m 5
  162.034179688 719.986328125 l 5
  626.21875 719.986328125 l 1
@@ -2388,7 +2388,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-241.428710938 635.03125 m 1
+241.428710938 635.03125 m 1x64
  242.637695312 294.694335938 l 1
  233.569335938 141.9453125 l 1
  187.270507812 27.4365234375 l 1
@@ -2400,11 +2400,11 @@ SplineSet
  140.173828125 184.572265625 l 1
  146.611328125 290.80859375 l 1
  146.374023438 719.997070312 l 1
- 636 719.997070312 l 1x64
+ 636 719.997070312 l 1
  636 0 l 1
  540.9453125 0 l 1
  540.9453125 635.03125 l 1
- 241.428710938 635.03125 l 1
+ 241.428710938 635.03125 l 1x64
 EndSplineSet
 Validated: 1
 Layer: 2
@@ -4338,11 +4338,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-285.428710938 453.368164062 m 0
+285.428710938 453.368164062 m 0xd0
  187.903320312 406.379882812 l 1
  155 281 l 1
  155 0 l 1
- 65 5.0869140625 l 1xb0
+ 65 5.0869140625 l 1
  65 520 l 1
  146 520 l 1
  146 430 l 1
@@ -4350,7 +4350,7 @@ SplineSet
  291.909179688 540.348632812 l 1
  380 507 l 1
  353 431 l 5
- 285.428710938 453.368164062 l 0
+ 285.428710938 453.368164062 l 0xd0
 EndSplineSet
 Validated: 1
 Layer: 2
@@ -6729,7 +6729,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-490.131835938 646.576171875 m 1
+490.131835938 646.576171875 m 1x9c
  418.690429688 626.20703125 l 1
  288.140625 616.000976562 l 1
  206.25 592.254882812 l 1
@@ -6748,7 +6748,7 @@ SplineSet
  276.999023438 702.750976562 l 1
  428.982421875 716.018554688 l 1
  467 727 l 1
- 490.131835938 646.576171875 l 1
+ 490.131835938 646.576171875 l 1x9c
 280.061523438 53.9560546875 m 1
  387.532226562 98.0458984375 l 1
  436.125976562 250.758789062 l 1
@@ -8908,7 +8908,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-440.896484375 58.861328125 m 5
+440.896484375 58.861328125 m 5x22
  361.029296875 -2.484375 l 1
  257.291015625 -22.5986328125 l 1
  89.1826171875 34.3837890625 l 1
@@ -8922,7 +8922,7 @@ SplineSet
  427.081054688 682.711914062 l 1
  467.53125 563.983398438 l 1
  429.85546875 452.909179688 l 1
- 299.065429688 345.943359375 l 1x32
+ 299.065429688 345.943359375 l 1
  299.065429688 345.943359375 l 1
  431.057617188 199.942382812 l 1
  452.690429688 269.833984375 l 1
@@ -8932,7 +8932,7 @@ SplineSet
  495.01171875 129.90234375 l 1
  567 50 l 1
  502 -8 l 5
- 440.896484375 58.861328125 l 5
+ 440.896484375 58.861328125 l 5x22
 250.0625 58.9638671875 m 1
  328.338867188 73.982421875 l 1
  383.947265625 119.896484375 l 1
@@ -10143,7 +10143,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-485.051757812 520.048828125 m 1
+485.051757812 520.048828125 m 1x73
  485.051757812 315.014648438 l 1
  582.579101562 313.846679688 l 1
  724.727539062 286.112304688 l 1
@@ -10164,7 +10164,7 @@ SplineSet
  122.071289062 153.926757812 l 1
  126.48046875 230.306640625 l 1
  128.896484375 520.006835938 l 1
- 485.051757812 520.048828125 l 1
+ 485.051757812 520.048828125 l 1x73
 583.487304688 73.2919921875 m 1
  663.705078125 89.9384765625 l 1
  696.4921875 157 l 1
@@ -10459,7 +10459,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-19 0 m 5
+19 0 m 5x73
  39 84 l 5
  65.4521484375 75.037109375 l 5
  119.75 105.365234375 l 5
@@ -10480,7 +10480,7 @@ SplineSet
  238.069335938 141.9453125 l 5
  191.770507812 27.4365234375 l 5
  87.9892578125 -16.900390625 l 5
- 19 0 l 5
+ 19 0 l 5x73
 609.887695312 84.9658203125 m 5
  752.885742188 84.9658203125 l 5
  872.55859375 106.96484375 l 5
@@ -17945,7 +17945,9 @@ EndChar
 StartChar: uni040D
 Encoding: 1037 1037 369
 Width: 724
-Flags: HW
+Flags: W
+HStem: 0 21G<80 197.483 547 642> 700 20G<80 175 524.409 642>
+VStem: 80 95<145 720> 547 95<0 580>
 LayerCount: 3
 Back
 Fore
