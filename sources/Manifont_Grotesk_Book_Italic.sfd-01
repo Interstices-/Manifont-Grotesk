@@ -68,7 +68,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 65 13 11
+WinInfo: 221 13 11
 BeginPrivate: 2
 BlueValues 23 [-15 0 520 535 720 735]
 OtherBlues 11 [-210 -200]
@@ -17717,7 +17717,7 @@ EndChar
 StartChar: uniFB05
 Encoding: 64261 64261 352
 Width: 626
-Flags: HW
+Flags: HWO
 HStem: 450.965 69.0352<100.198 179.816 280.634 500.378 591.07 668.53>
 LayerCount: 2
 Back
