@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911300
-ModificationTime: 1465483456
+ModificationTime: 1465484150
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -822,8 +822,8 @@ EndChar
 
 StartChar: afii10084
 Encoding: 1090 1090 18
-Width: 1000
-Flags: HM
+Width: 619
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -849,7 +849,17 @@ SplineSet
  150 0 l 1xc0
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+354 -15 m 5
+ 262 3 l 5
+ 383 635 l 5
+ 141 635 l 5
+ 141 720 l 5
+ 737 720 l 5
+ 737 635 l 5
+ 478 635 l 5
+ 354 -15 l 5
+EndSplineSet
 Colour: ff0000
 EndChar
 
@@ -5331,8 +5341,8 @@ EndChar
 
 StartChar: afii10068
 Encoding: 1075 1075 115
-Width: 1000
-Flags: HM
+Width: 518
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -5355,8 +5365,16 @@ SplineSet
  457 150 l 1
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+472 520 m 5
+ 472 445 l 5
+ 239.018554688 445.080078125 l 5
+ 234 445 l 5
+ 147 -15 l 5
+ 60 0 l 5
+ 157 520 l 5
+ 472 520 l 5
+EndSplineSet
 EndChar
 
 StartChar: zero
@@ -10168,18 +10186,16 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-472 520 m 1
- 472 445 l 1
- 239.018554688 445.080078125 l 1
- 234 445 l 1
- 147 -15 l 1
- 60 0 l 1
- 157 520 l 1
- 472 520 l 1
-153 0 m 1xb8
- 65 0 l 1025xd8
+472 520 m 5
+ 472 445 l 5
+ 239.018554688 445.080078125 l 5
+ 234 445 l 5
+ 147 -15 l 5
+ 60 0 l 5
+ 157 520 l 5
+ 472 520 l 5
 EndSplineSet
-Refer: 345 180 S 1 0 0 1 262.29 63.1084 2
+Refer: 345 180 N 1 0 0 1 262.29 63.1084 2
 EndChar
 
 StartChar: afii10193

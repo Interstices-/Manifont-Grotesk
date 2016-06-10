@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911300
-ModificationTime: 1465479824
+ModificationTime: 1465479832
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -10220,7 +10220,7 @@ EndChar
 StartChar: afii10098
 Encoding: 1169 1169 217
 Width: 518
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet

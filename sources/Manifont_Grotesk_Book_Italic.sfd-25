@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911300
-ModificationTime: 1465479076
+ModificationTime: 1465479162
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -67,7 +67,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8164 13 11
+WinInfo: 0 13 11
 BeginPrivate: 2
 BlueValues 23 [-15 0 520 535 720 735]
 OtherBlues 11 [-210 -200]
@@ -8421,61 +8421,59 @@ EndChar
 StartChar: dagger
 Encoding: 8224 8224 184
 Width: 364
-Flags: MW
+Flags: HMW
 HStem: 300 21G<195 285 195 195> 535 75<143 255 158 240 345 427> 535 185<143 366 143 366 330 330 330 366 276 427>
 LayerCount: 2
 Back
 Fore
 SplineSet
-143 535 m 1xc0
+158 535 m 1xc0
  158 610 l 1
  255 610 l 1xc0
- 276 720 l 1
+ 278 735 l 1
  366 720 l 1xa0
  345 610 l 1
- 442 610 l 1
+ 427 610 l 1
  427 535 l 1
  330 535 l 1
  285 300 l 1
- 195 300 l 1
+ 199 317 l 5
  240 535 l 1
- 143 535 l 1xc0
+ 158 535 l 1xc0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: daggerdbl
 Encoding: 8225 8225 185
 Width: 364
-Flags: MW
+Flags: HMW
 HStem: 300 175<195 229 132 285 195 195> 400 75<132 214 117 229 319 401> 545 75<160 242 145 257 347 429> 545 175<145 366 145 366 332 332 332 366 276 429>
 LayerCount: 2
 Back
 Fore
 SplineSet
-416 475 m 1xa0
+401 475 m 1xa0
  401 400 l 1
  304 400 l 1
- 285 300 l 1
+ 282 285 l 1
  195 300 l 1xa0
  214 400 l 1
- 117 400 l 1x60
+ 132 400 l 1x60
  132 475 l 1
  229 475 l 1
  242 545 l 1
- 145 545 l 1
+ 160 545 l 1
  160 620 l 1
  257 620 l 1xa0
- 276 720 l 1
- 366 720 l 1x90
+ 279 735 l 1
+ 365 718 l 5x90
  347 620 l 1
- 444 620 l 1
+ 429 620 l 1
  429 545 l 1
  332 545 l 1
  319 475 l 1
- 416 475 l 1xa0
+ 401 475 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: bullet

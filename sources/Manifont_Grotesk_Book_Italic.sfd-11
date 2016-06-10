@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911300
-ModificationTime: 1465484869
+ModificationTime: 1465485074
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -176,11 +176,48 @@ EndChar
 
 StartChar: afii10069
 Encoding: 1076 1076 4
-Width: 1000
-Flags: HM
+Width: 583
+Flags: HMWO
 LayerCount: 2
 Back
+SplineSet
+570 445 m 5
+ 239.018554688 445.080078125 l 5
+ 234 445 l 5
+ 147 -15 l 5
+ 60 0 l 5
+ 157 520 l 5
+ 570 520 l 5
+ 570 445 l 5
+570 445 m 5
+ 483 -15 l 5
+ 396 0 l 5
+ 479 445 l 5
+ 570 445 l 5
+EndSplineSet
 Fore
+SplineSet
+223.193359375 520.048828125 m 1xb8
+ 619.146484375 520.048828125 l 1
+ 539.146484375 75.044921875 l 1
+ 608.185546875 75.044921875 l 1
+ 568.185546875 -147 l 1
+ 483.135742188 -147 l 1
+ 513 0 l 1
+ 126 0 l 1
+ 100 -147 l 1
+ 14.951171875 -147 l 1
+ 54.951171875 75.044921875 l 1
+ 88.876953125 75.044921875 l 1
+ 173.193359375 224.408203125 l 1
+ 223.193359375 520.048828125 l 1xb8
+302.24609375 445.09375 m 1
+ 263.236328125 200.728515625 l 1
+ 192.2890625 75.048828125 l 1
+ 449.094726562 75.048828125 l 1
+ 520.094726562 445.09375 l 5
+ 302.24609375 445.09375 l 1
+EndSplineSet
 Colour: ff0000
 EndChar
 
@@ -441,7 +478,6 @@ SplineSet
  150 -15 l 1
  65 0 l 5
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: afii10075
@@ -497,7 +533,6 @@ SplineSet
  150 -15 l 1
  65 2 l 1
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: afii10076
@@ -749,19 +784,19 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-570 445 m 1
- 239.018554688 445.080078125 l 1
- 234 445 l 1
- 147 -15 l 1
- 60 0 l 1
- 157 520 l 1
- 570 520 l 1
- 570 445 l 1
-570 445 m 1
- 483 -15 l 1
- 396 0 l 1
- 479 445 l 1
- 570 445 l 1
+570 445 m 5
+ 239.018554688 445.080078125 l 5
+ 234 445 l 5
+ 147 -15 l 5
+ 60 0 l 5
+ 157 520 l 5
+ 570 520 l 5
+ 570 445 l 5
+570 445 m 5
+ 483 -15 l 5
+ 396 0 l 5
+ 479 445 l 5
+ 570 445 l 5
 EndSplineSet
 EndChar
 

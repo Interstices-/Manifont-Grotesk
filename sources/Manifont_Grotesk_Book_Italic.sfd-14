@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911300
-ModificationTime: 1465484150
+ModificationTime: 1465484461
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -700,8 +700,8 @@ EndChar
 
 StartChar: afii10081
 Encoding: 1087 1087 15
-Width: 1000
-Flags: HM
+Width: 518
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -720,7 +720,21 @@ SplineSet
  150 0 l 1xa0
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+570 445 m 1
+ 239.018554688 445.080078125 l 1
+ 234 445 l 1
+ 147 -15 l 1
+ 60 0 l 1
+ 157 520 l 1
+ 570 520 l 1
+ 570 445 l 1
+570 445 m 1
+ 483 -15 l 1
+ 396 0 l 1
+ 479 445 l 1
+ 570 445 l 1
+EndSplineSet
 Colour: ff0000
 EndChar
 
@@ -823,7 +837,7 @@ EndChar
 StartChar: afii10084
 Encoding: 1090 1090 18
 Width: 619
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -860,7 +874,6 @@ SplineSet
  478 635 l 5
  354 -15 l 5
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: afii10086

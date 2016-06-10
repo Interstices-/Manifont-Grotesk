@@ -10222,7 +10222,7 @@ EndChar
 StartChar: afii10098
 Encoding: 1169 1169 217
 Width: 518
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -10262,7 +10262,6 @@ SplineSet
 153 0 m 1xb8
  65 0 l 1025xd8
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: afii10060

@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911300
-ModificationTime: 1465479832
+ModificationTime: 1465479986
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -73,6 +73,8 @@ BlueValues 23 [-15 0 520 535 720 735]
 OtherBlues 11 [-210 -200]
 EndPrivate
 Grid
+-1000 639.666666667 m 0
+ 2000 639.666666667 l 1024
 -1000 455 m 0
  2000 455 l 1024
 487 1250 m 0
@@ -10220,7 +10222,7 @@ EndChar
 StartChar: afii10098
 Encoding: 1169 1169 217
 Width: 518
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Back
 SplineSet
@@ -10247,18 +10249,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-153 0 m 5xb8
- 65 0 l 1029xd8
-403 630 m 5
- 481 630 l 5
- 481.333007812 445.080078125 l 5
- 239.018554688 445.080078125 l 5
- 235.397465071 448.653370716 l 5
- 147 -15 l 5
- 60 0 l 5
- 158 520 l 5
- 403 520.099896404 l 5
- 403 630 l 1029
+472 445 m 1
+ 239.018554688 445.080078125 l 1
+ 235.397465071 448.653370716 l 1
+ 147 -15 l 1
+ 60 0 l 1
+ 158 520 l 1
+ 403 520.099896404 l 1
+ 430 639.666992188 l 1
+ 512 622 l 5
+ 472 445 l 1
+153 0 m 1xb8
+ 65 0 l 1025xd8
 EndSplineSet
 Colour: ff0000
 EndChar

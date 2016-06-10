@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911300
-ModificationTime: 1465479813
+ModificationTime: 1465479824
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -10247,18 +10247,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-153 0 m 1xb8
- 65 0 l 1025xd8
-403 630 m 1
+153 0 m 5xb8
+ 65 0 l 1029xd8
+403 630 m 5
  481 630 l 5
  481.333007812 445.080078125 l 5
- 239.018554688 445.080078125 l 1
- 235.397465071 448.653370716 l 1
- 147 -15 l 1
- 60 0 l 1
- 158 520 l 1
- 403 520.099896404 l 1
- 403 630 l 1025
+ 239.018554688 445.080078125 l 5
+ 235.397465071 448.653370716 l 5
+ 147 -15 l 5
+ 60 0 l 5
+ 158 520 l 5
+ 403 520.099896404 l 5
+ 403 630 l 1029
 EndSplineSet
 Colour: ff0000
 EndChar
