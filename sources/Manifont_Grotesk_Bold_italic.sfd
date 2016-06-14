@@ -23,7 +23,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1251911308
-ModificationTime: 1465836301
+ModificationTime: 1465916379
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -76,6 +76,12 @@ BlueValues 23 [-15 0 520 535 720 735]
 OtherBlues 11 [-210 -200]
 EndPrivate
 Grid
+245.133333333 1250 m 0
+ 245.133333333 -750 l 1024
+-1000 347.9375 m 0
+ 2000 347.9375 l 1024
+-1000 655 m 0
+ 2000 655 l 1024
 -1000 864.975543478 m 0
  2000 864.975543478 l 1024
 -1000 170.833328247 m 0
@@ -431,32 +437,33 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-265.1796875 735.046875 m 1
- 557.346679688 588.788085938 l 1
- 581.041992188 239.954101562 l 1
- 459.614257812 44.3251953125 l 1
- 272.099609375 -14.8837890625 l 1
- 118.1171875 43.041015625 l 1
- 66.109375 244.95703125 l 1
- 176.0234375 441.912109375 l 1
- 324.951171875 494.875976562 l 1
- 418.443359375 473.163085938 l 1
- 466.918945312 434.94140625 l 1
- 419.829101562 539.100585938 l 1
- 228 596 l 1
- 265.1796875 735.046875 l 1
-296.107421875 110.154296875 m 1
- 375.177734375 138.779296875 l 1
- 430.989257812 240.12109375 l 1
- 416.556640625 341.579101562 l 1
- 351.043945312 370.25390625 l 1
- 271.828125 341.604492188 l 1
- 214.99609375 240.12109375 l 1
- 230.44921875 138.754882812 l 1
- 296.107421875 110.154296875 l 1
+278 728 m 1
+ 557.166992188 588.739257812 l 1
+ 604.625 435.037109375 l 1
+ 585.827148438 239.90625 l 1
+ 461.969726562 40.3623046875 l 1
+ 270.706054688 -20.03125 l 1
+ 113.64453125 39.0537109375 l 1
+ 60.595703125 245.008789062 l 1
+ 172.708007812 445.90234375 l 1
+ 324.614257812 499.928710938 l 1
+ 419.9765625 477.778320312 l 1
+ 469.421875 438.791992188 l 1
+ 443 514 l 1
+ 227.8203125 595.950195312 l 1
+ 278 728 l 1
+295.194335938 107.514648438 m 1
+ 375.845703125 136.711914062 l 1
+ 432.7734375 240.077148438 l 1
+ 418.052734375 343.557617188 l 1
+ 351.229492188 372.809570312 l 1
+ 270.4296875 343.590820312 l 1
+ 212.4609375 240.077148438 l 1
+ 228.221679688 136.680664062 l 1
+ 295.194335938 107.514648438 l 1
 EndSplineSet
 Kerns2: 211 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 193 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 20 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 6 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Colour: ff0000
+Colour: ffff00
 EndChar
 
 StartChar: afii10070
@@ -681,8 +688,8 @@ EndChar
 
 StartChar: afii10074
 Encoding: 1080 1080 8
-Width: 1000
-Flags: HM
+Width: 574
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -701,14 +708,32 @@ SplineSet
  464 520 l 1xa0
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+513.75 -15 m 1
+ 378.123046875 11.01953125 l 1
+ 389.37109375 71.15625 l 1
+ 310.506835938 0.837890625 l 1
+ 223.22265625 -20.509765625 l 1
+ 83.921875 42.22265625 l 1
+ 76.064453125 199.724609375 l 1
+ 140.25 535 l 1
+ 284.884765625 507.15234375 l 1
+ 227.134765625 203.883789062 l 1
+ 231.428710938 132.901367188 l 1
+ 289.291992188 107.888671875 l 1
+ 363.821289062 140.028320312 l 1
+ 411.565429688 236.45703125 l 1
+ 468.5 535.25 l 1
+ 613.283203125 507.666015625 l 1
+ 513.75 -15 l 1
+EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: afii10075
 Encoding: 1081 1081 9
-Width: 1000
-Flags: HM
+Width: 574
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -734,8 +759,37 @@ SplineSet
  464 520 l 1
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+554.787109375 667 m 1
+ 521.09765625 610.520507812 l 1
+ 389.747070312 571.909179688 l 1
+ 272.352539062 610.903320312 l 1
+ 255.787109375 686.25 l 1
+ 354.038085938 720 l 1
+ 368.362304688 678.0234375 l 1
+ 407.264648438 664.756835938 l 1
+ 451.223632812 677.9296875 l 1
+ 482 720 l 1
+ 554.787109375 667 l 1
+513.75 -15 m 5
+ 378.123046875 11.01953125 l 5
+ 389.37109375 71.15625 l 5
+ 310.506835938 0.837890625 l 5
+ 223.22265625 -20.509765625 l 5
+ 83.921875 42.22265625 l 5
+ 76.064453125 199.724609375 l 5
+ 140.25 535 l 5
+ 284.884765625 507.15234375 l 5
+ 227.134765625 203.883789062 l 5
+ 231.428710938 132.901367188 l 5
+ 289.291992188 107.888671875 l 5
+ 363.821289062 140.028320312 l 5
+ 411.565429688 236.45703125 l 5
+ 468.5 535.25 l 5
+ 613.283203125 507.666015625 l 5
+ 513.75 -15 l 5
+EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: afii10076
@@ -909,19 +963,19 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-52.75 14.25 m 1
- 152 535 l 1
- 296 505 l 1
- 261 325 l 1
- 431 325 l 1
- 472 535 l 1
- 616 505 l 1
- 517.25 -15 l 1
- 372.75 14.25 l 1
- 407 200 l 1
- 237 200 l 1
- 197.25 -15 l 1
- 52.75 14.25 l 1
+52.75 14.25 m 5
+ 152 535 l 5
+ 296 505 l 5
+ 261 325 l 5
+ 431 325 l 5
+ 472 535 l 5
+ 616 505 l 5
+ 517.25 -15 l 5
+ 372.75 14.25 l 5
+ 407 200 l 5
+ 237 200 l 5
+ 197.25 -15 l 5
+ 52.75 14.25 l 5
 EndSplineSet
 EndChar
 
@@ -969,8 +1023,8 @@ EndChar
 
 StartChar: afii10081
 Encoding: 1087 1087 15
-Width: 1000
-Flags: HM
+Width: 584
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -989,8 +1043,27 @@ SplineSet
  200 0 l 1xa0
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+50.75 13 m 5
+ 150.25 535 l 5
+ 285.875 508.981445312 l 5
+ 274.799804688 448.520507812 l 5
+ 352.805664062 518.9921875 l 5
+ 439.928710938 540.356445312 l 5
+ 579.326171875 477.624023438 l 5
+ 587.797851562 320.62109375 l 5
+ 523.75 -15 l 5
+ 379.196289062 13.31640625 l 5
+ 436.953125 315.962890625 l 5
+ 432.087890625 386.799804688 l 5
+ 373.779296875 411.787109375 l 5
+ 299.239257812 379.665039062 l 5
+ 251.420898438 283.389648438 l 5
+ 195.25 -15 l 5
+ 50.75 12.830078125 l 5
+ 50.75 13 l 5
+EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: afii10082
@@ -1091,8 +1164,8 @@ EndChar
 
 StartChar: afii10084
 Encoding: 1090 1090 18
-Width: 1000
-Flags: HM
+Width: 862
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -1118,8 +1191,37 @@ SplineSet
  200 0 l 1xc0
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+49.51171875 12.9921875 m 5
+ 149 535 l 5
+ 284.57421875 508.977539062 l 5
+ 273.569335938 449.706054688 l 5
+ 349.171875 519.514648438 l 5
+ 440.909179688 540.352539062 l 5
+ 532.220703125 514.803710938 l 5
+ 572.451171875 442.5625 l 5
+ 651.69921875 517.856445312 l 5
+ 744.72265625 540.352539062 l 5
+ 855.899414062 493.506835938 l 5
+ 872.00390625 358.203125 l 5
+ 801.75 -15 l 5
+ 657.375 13.3125 l 5
+ 715.131835938 318.162109375 l 5
+ 714.451171875 385.69921875 l 5
+ 670.256835938 412.0390625 l 5
+ 600.094726562 380.553710938 l 5
+ 555.4296875 291.797851562 l 5
+ 497.25 -15 l 5
+ 352.646484375 13.5673828125 l 5
+ 410.403320312 318.416992188 l 5
+ 406.635742188 391.3125 l 5
+ 365.50390625 412.293945312 l 5
+ 291.14453125 373.392578125 l 5
+ 248.162109375 269.446289062 l 5
+ 194 -15 l 5
+ 49.51171875 12.9921875 l 5
+EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: afii10086
@@ -2391,7 +2493,7 @@ EndChar
 StartChar: afii10029
 Encoding: 1051 1051 42
 Width: 1000
-Flags: HM
+Flags: HMWO
 LayerCount: 3
 Back
 SplineSet
@@ -2411,25 +2513,26 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-285.024414062 720.004882812 m 1
+412.883789062 574.958984375 m 1
+ 373.953125 372.893554688 l 1
+ 338.47265625 222.865234375 l 1
+ 287.432617188 99.4951171875 l 1
+ 211.649414062 15.8720703125 l 1
+ 101.939453125 -14.9130859375 l 1
+ 14.908203125 4.9482421875 l 1
+ 49 149 l 1
+ 89.0185546875 135.08203125 l 1
+ 141.944335938 155.435546875 l 1
+ 177.873046875 212.434570312 l 1
+ 203.84375 299.993164062 l 1
+ 285.920898438 720.092773438 l 1
  823.965820312 720.004882812 l 1
  686 0 l 1
  526.109375 0 l 1
  635.899414062 574.87109375 l 1
- 411.985351562 574.87109375 l 1
- 372.888671875 372.805664062 l 1
- 286.399414062 99.4072265625 l 1
- 100.875 -15.0009765625 l 1
- 51.87890625 -9.4970703125 l 1
- 15.01171875 4.8603515625 l 1
- 37.853515625 151.912109375 l 1
- 57.65234375 140.831054688 l 1
- 87.953125 134.994140625 l 1
- 176.704101562 212.346679688 l 1
- 225.001953125 411.927734375 l 1
- 285.024414062 720.004882812 l 1
+ 412.883789062 574.958984375 l 1
 EndSplineSet
-Colour: ff0000
+Colour: ffff00
 EndChar
 
 StartChar: afii10030
@@ -4156,34 +4259,34 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-49.51171875 12.9921875 m 1
- 149 535 l 1
- 284.57421875 508.977539062 l 1
- 273.569335938 449.706054688 l 1
- 349.171875 519.514648438 l 1
- 440.909179688 540.352539062 l 1
- 532.220703125 514.803710938 l 1
- 572.451171875 442.5625 l 1
- 651.69921875 517.856445312 l 1
- 744.72265625 540.352539062 l 1
- 855.899414062 493.506835938 l 1
- 872.00390625 358.203125 l 1
- 801.75 -15 l 1
- 657.375 13.3125 l 1
- 715.131835938 318.162109375 l 1
- 714.451171875 385.69921875 l 1
- 670.256835938 412.0390625 l 1
- 600.094726562 380.553710938 l 1
- 555.4296875 291.797851562 l 1
- 497.25 -15 l 1
- 352.646484375 13.5673828125 l 1
- 410.403320312 318.416992188 l 1
- 406.635742188 391.3125 l 1
- 365.50390625 412.293945312 l 1
- 291.14453125 373.392578125 l 1
- 248.162109375 269.446289062 l 1
- 194 -15 l 1
- 49.51171875 12.9921875 l 1
+49.51171875 12.9921875 m 5
+ 149 535 l 5
+ 284.57421875 508.977539062 l 5
+ 273.569335938 449.706054688 l 5
+ 349.171875 519.514648438 l 5
+ 440.909179688 540.352539062 l 5
+ 532.220703125 514.803710938 l 5
+ 572.451171875 442.5625 l 5
+ 651.69921875 517.856445312 l 5
+ 744.72265625 540.352539062 l 5
+ 855.899414062 493.506835938 l 5
+ 872.00390625 358.203125 l 5
+ 801.75 -15 l 5
+ 657.375 13.3125 l 5
+ 715.131835938 318.162109375 l 5
+ 714.451171875 385.69921875 l 5
+ 670.256835938 412.0390625 l 5
+ 600.094726562 380.553710938 l 5
+ 555.4296875 291.797851562 l 5
+ 497.25 -15 l 5
+ 352.646484375 13.5673828125 l 5
+ 410.403320312 318.416992188 l 5
+ 406.635742188 391.3125 l 5
+ 365.50390625 412.293945312 l 5
+ 291.14453125 373.392578125 l 5
+ 248.162109375 269.446289062 l 5
+ 194 -15 l 5
+ 49.51171875 12.9921875 l 5
 EndSplineSet
 Validated: 1
 Colour: ffff00
@@ -5982,8 +6085,8 @@ EndChar
 
 StartChar: afii10068
 Encoding: 1075 1075 115
-Width: 1000
-Flags: HM
+Width: 536
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -6006,8 +6109,38 @@ SplineSet
  486 150 l 1xc0
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+236.044921875 -20.3828125 m 5
+ 86.4775390625 22.8388671875 l 5
+ 49.4033203125 154.009765625 l 5
+ 119.637695312 270.934570312 l 5
+ 219.71875 315.228515625 l 5
+ 346.159179688 340.649414062 l 5
+ 376.004882812 353.465820312 l 5
+ 389.014648438 375.349609375 l 5
+ 375.240234375 412.634765625 l 5
+ 324.731445312 423.129882812 l 5
+ 276.752929688 410.508789062 l 5
+ 244.208007812 364.973632812 l 5
+ 152.41015625 430.340820312 l 5
+ 191.403320312 494.375976562 l 5
+ 342.078125 540.301757812 l 5
+ 480.421875 501.229492188 l 5
+ 519.536132812 371.096679688 l 5
+ 460.716796875 266.954101562 l 5
+ 361.46484375 217.022460938 l 5
+ 229.922851562 189.63671875 l 5
+ 200.875 177.287109375 l 5
+ 184.006835938 149.756835938 l 5
+ 200.969726562 107.19921875 l 5
+ 255.431640625 96.7890625 l 5
+ 328.090820312 115.788085938 l 5
+ 368.606445312 169.233398438 l 5
+ 456.37109375 102.920898438 l 5
+ 400.439453125 27.4228515625 l 5
+ 236.044921875 -20.3828125 l 5
+EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: zero
@@ -9207,7 +9340,7 @@ EndChar
 StartChar: percent
 Encoding: 65537 -1 183
 Width: 822
-Flags: HMWO
+Flags: HMW
 HStem: -5 105<644 666 644 678> 0 21G<148 287 287 287> 220 105<667 689> 395 105<272 294 272 305> 620 105<295 317> 700 20G<673 813 673 673>
 LayerCount: 3
 Back
@@ -10138,11 +10271,11 @@ SplineSet
  163.31640625 630.764648438 l 1
  178.043945312 704.88671875 l 1
  224.5 732.75 l 1
-197 -15 m 1
- 52 11 l 1
- 152 535 l 1
- 296 505 l 1
- 197 -15 l 1
+197 -15 m 5
+ 52 11 l 5
+ 152 535 l 5
+ 296 505 l 5
+ 197 -15 l 5
 EndSplineSet
 EndChar
 
@@ -10623,37 +10756,39 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-65 140 m 1
- 89.35546875 134.994140625 l 1
- 178.209960938 212.346679688 l 1
- 227.237304688 411.927734375 l 1
- 286.2578125 720.004882812 l 1
- 795.106445312 720.004882812 l 1
- 749.08984375 480.008789062 l 1
- 852.04296875 480.008789062 l 1
- 1045.99707031 414.837890625 l 1
- 1083.95898438 241.004882812 l 1
- 959.091796875 54.8564453125 l 1
- 751.006835938 0 l 1
- 496 0 l 1
- 606.956054688 574.87109375 l 1
- 413.220703125 574.87109375 l 1
- 374.290039062 372.805664062 l 1
- 287.76953125 99.4072265625 l 1
- 102.276367188 -15.0009765625 l 1
- 52.7900390625 -9.4970703125 l 1
- 15.2451171875 4.8603515625 l 1
- 65 140 l 1
-683.149414062 140.0546875 m 1
- 771.264648438 140.0546875 l 1
- 878.270507812 170.28125 l 1
- 922.317382812 244.08984375 l 1
- 910.198242188 314.596679688 l 1
- 814.36328125 349.958984375 l 1
- 724.331054688 349.958984375 l 1
- 683.149414062 140.0546875 l 1
+89.0185546875 135.08203125 m 5
+ 141.944335938 155.435546875 l 5
+ 177.873046875 212.434570312 l 5
+ 203.84375 299.993164062 l 5
+ 285.920898438 720.092773438 l 5
+ 794.76953125 720.092773438 l 1
+ 748.752929688 480.096679688 l 1
+ 850.397460938 480.096679688 l 1
+ 1048.23046875 414.92578125 l 1
+ 1086.95117188 241.092773438 l 1
+ 959.586914062 54.9443359375 l 1
+ 747.340820312 0.087890625 l 1
+ 495.663085938 0.087890625 l 1
+ 606.619140625 574.958984375 l 1
+ 412.883789062 574.958984375 l 5
+ 373.953125 372.893554688 l 5
+ 338.47265625 222.865234375 l 5
+ 287.432617188 99.4951171875 l 5
+ 211.649414062 15.8720703125 l 5
+ 101.939453125 -14.9130859375 l 5
+ 14.908203125 4.9482421875 l 5
+ 49 149 l 5
+ 89.0185546875 135.08203125 l 5
+682.8125 140.142578125 m 1
+ 768.002929688 140.142578125 l 1
+ 877.149414062 170.369140625 l 1
+ 922.077148438 244.177734375 l 1
+ 909.715820312 314.684570312 l 1
+ 811.963867188 350.046875 l 1
+ 723.994140625 350.046875 l 1
+ 682.8125 140.142578125 l 1
 EndSplineSet
-Colour: ff0000
+Colour: ffff00
 EndChar
 
 StartChar: afii10056
@@ -10847,17 +10982,17 @@ SplineSet
  -1 -197 l 1
  25.0048828125 -62 l 1
  93.0244140625 -75.9580078125 l 1
-545 667 m 1
- 511.310546875 610.520507812 l 1
- 379.959960938 571.909179688 l 1
- 262.565429688 610.903320312 l 1
- 246 686.25 l 1
- 344.250976562 720 l 1
- 358.575195312 678.0234375 l 1
- 397.477539062 664.756835938 l 1
- 441.436523438 677.9296875 l 1
- 472.212890625 720 l 1
- 545 667 l 1
+545 667 m 5
+ 511.310546875 610.520507812 l 5
+ 379.959960938 571.909179688 l 5
+ 262.565429688 610.903320312 l 5
+ 246 686.25 l 5
+ 344.250976562 720 l 5
+ 358.575195312 678.0234375 l 5
+ 397.477539062 664.756835938 l 5
+ 441.436523438 677.9296875 l 5
+ 472.212890625 720 l 5
+ 545 667 l 5
 EndSplineSet
 Kerns2: 201 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 155 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 154 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 140 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 136 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 135 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 134 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 127 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 126 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 115 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 30 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 19 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 17 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 11 -30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 5 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 4 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
@@ -11034,18 +11169,18 @@ SplineSet
  494.891601562 511.828125 l 1
  577.822265625 519.607421875 l 1
  577.805664062 386.72265625 l 1
-451.5 868 m 1
- 580.5 782 l 1
- 433 557.75 l 1
- 341.5 595 l 1
- 451.5 868 l 1
+423 868 m 5
+ 552 782 l 5
+ 404.5 557.75 l 5
+ 313 595 l 5
+ 423 868 l 5
 EndSplineSet
 EndChar
 
 StartChar: afii10100
 Encoding: 1107 1107 215
-Width: 1000
-Flags: HM
+Width: 536
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
@@ -11073,8 +11208,43 @@ SplineSet
  568 790 l 1
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+392.75 868 m 1
+ 521.75 782 l 1
+ 374.25 557.75 l 1
+ 282.75 595 l 1
+ 392.75 868 l 1
+236.044921875 -20.3828125 m 1
+ 86.4775390625 22.8388671875 l 1
+ 49.4033203125 154.009765625 l 1
+ 119.637695312 270.934570312 l 1
+ 219.71875 315.228515625 l 1
+ 346.159179688 340.649414062 l 1
+ 376.004882812 353.465820312 l 1
+ 389.014648438 375.349609375 l 1
+ 375.240234375 412.634765625 l 1
+ 324.731445312 423.129882812 l 1
+ 276.752929688 410.508789062 l 1
+ 244.208007812 364.973632812 l 1
+ 152.41015625 430.340820312 l 1
+ 191.403320312 494.375976562 l 1
+ 342.078125 540.301757812 l 1
+ 480.421875 501.229492188 l 1
+ 519.536132812 371.096679688 l 1
+ 460.716796875 266.954101562 l 1
+ 361.46484375 217.022460938 l 1
+ 229.922851562 189.63671875 l 1
+ 200.875 177.287109375 l 1
+ 184.006835938 149.756835938 l 1
+ 200.969726562 107.19921875 l 1
+ 255.431640625 96.7890625 l 1
+ 328.090820312 115.788085938 l 1
+ 368.606445312 169.233398438 l 1
+ 456.37109375 102.920898438 l 1
+ 400.439453125 27.4228515625 l 1
+ 236.044921875 -20.3828125 l 1
+EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: afii10193
@@ -11155,8 +11325,42 @@ SplineSet
  177 640 l 1xc0
 EndSplineSet
 Fore
-Validated: 1
-Colour: ff0000
+SplineSet
+303 628 m 1
+ 273.841796875 512.233398438 l 1
+ 307.556640625 534.768554688 l 1
+ 352.196289062 540.63671875 l 1
+ 477.850585938 501.565429688 l 1
+ 519.451171875 371.422851562 l 1
+ 460.673828125 267.297851562 l 1
+ 361.463867188 217.43359375 l 1
+ 229.836914062 189.88671875 l 1
+ 200.809570312 177.623046875 l 1
+ 184.091796875 150.177734375 l 1
+ 200.979492188 107.465820312 l 1
+ 255.431640625 97.0302734375 l 1
+ 328.08984375 116.038085938 l 1
+ 368.607421875 169.474609375 l 1
+ 456.370117188 102.916015625 l 1
+ 400.546875 27.5966796875 l 1
+ 236.130859375 -20.2265625 l 1
+ 86.63671875 23.0029296875 l 1
+ 49.57421875 154.174804688 l 1
+ 119.776367188 271.091796875 l 1
+ 219.888671875 315.307617188 l 1
+ 346.243164062 340.899414062 l 1
+ 376.057617188 353.65625 l 1
+ 389.099609375 375.590820312 l 1
+ 375.32421875 412.875976562 l 1
+ 324.81640625 423.379882812 l 1
+ 276.880859375 410.75 l 1
+ 245.165039062 363.15625 l 1
+ 241.75 347.9375 l 1
+ 119 375 l 1
+ 180.25 655 l 1
+ 303 628 l 1
+EndSplineSet
+Colour: ffff00
 EndChar
 
 StartChar: afii10060
@@ -11743,8 +11947,8 @@ SplineSet
  402 790 l 1
 EndSplineSet
 Fore
-Refer: 182 96 N 1 0 0 1 92.5201 62 2
-Refer: 83 117 N 1 0 0 1 0 0 3
+Refer: 182 96 S 1 0 0 1 92.5201 62 2
+Refer: 83 117 S 1 0 0 1 0 0 3
 Colour: ffff00
 EndChar
 
@@ -15383,7 +15587,7 @@ SplineSet
  393 770 366 748 361 722 c 0
 EndSplineSet
 Fore
-Refer: 175 176 S 1 0 0 1 118.185 130.108 2
+Refer: 175 176 N 1 0 0 1 118.185 130.108 2
 Refer: 83 117 N 1 0 0 1 0 0 3
 Colour: ff
 EndChar
@@ -17370,7 +17574,7 @@ SplineSet
 EndSplineSet
 Refer: 108 84 N 1 0 0 1 0 0 3
 Kerns2: 344 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 343 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 340 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 337 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 336 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 334 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 330 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 329 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 327 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 325 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 315 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 309 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 305 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 304 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 303 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 300 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 296 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 293 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 291 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 290 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 284 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 283 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 282 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 281 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 280 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 279 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 266 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 265 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 264 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 263 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 262 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 260 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 252 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 251 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 250 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 249 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 248 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 247 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 245 -90 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 244 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 243 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 242 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 237 -100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 235 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 234 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 233 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 232 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 231 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 229 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 224 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 222 -60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 155 -140 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 154 -140 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 142 -140 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 140 -140 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 127 -140 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 126 -140 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 111 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 105 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 103 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 98 -120 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 95 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -80 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 -160 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 67 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 65 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 64 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 63 -150 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Colour: ff0000
+Colour: ffff00
 EndChar
 
 StartChar: dcaron
@@ -18660,16 +18864,19 @@ Width: 556
 Flags: HW
 LayerCount: 3
 Fore
-Refer: 182 96 N 1 0 0 1 82.1543 62 2
+Refer: 182 96 S 1 0 0 1 82.1543 62 2
 Refer: 67 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni045D
 Encoding: 1117 1117 389
-Width: 1000
-VWidth: 0
+Width: 574
+Flags: HW
 LayerCount: 3
-Colour: ff0000
+Fore
+Refer: 182 96 N 1 0 0 1 92.5201 62 2
+Refer: 83 117 N 1 0 0 1 0 0 3
+Colour: ffff00
 EndChar
 EndChars
 EndSplineFont
